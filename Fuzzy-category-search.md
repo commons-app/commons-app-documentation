@@ -22,8 +22,6 @@ I would argue that https://commons.wikimedia.org/wiki/Category:Apartment_buildin
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Southdown_Power_Station_stacks.jpg/120px-Southdown_Power_Station_stacks.jpg)
 
-Let's say I am in the countryside a few hundred kilometers from Auckland and come across a kind of electricity generation factory. What would come to my mind as I try to express what would be the appropriate category?
-
 - electricity generation in new zeland 
 - electricity generation in New Zealand
 - New Zeland power plant
