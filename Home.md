@@ -1,1 +1,1 @@
-Welcome to the apps-android-commons wiki!
+[[Fuzzy category search]]
