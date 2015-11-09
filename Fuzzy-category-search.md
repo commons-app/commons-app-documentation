@@ -37,6 +37,8 @@ Actual category: https://commons.wikimedia.org/wiki/Category:Power_plants_in_New
 
 ## Sample 3
 
+Page visited: https://commons.wikimedia.org/wiki/File:Swiss_Airbus_A320-214;_HB-IJQ@ZRH;08.06.2013_709bs_(8991628214).jpg
+
 ![](https://upload.wikimedia.org/wikipedia/commons/2/2b/Swiss_Airbus_A320-214%3B_HB-IJQ%40ZRH%3B08.06.2013_709bs_%288991628214%29.jpg)
 
 - Swiss plane
