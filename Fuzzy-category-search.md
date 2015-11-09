@@ -36,3 +36,14 @@ I would argue that https://commons.wikimedia.org/wiki/Category:Apartment_buildin
 Actual category: https://commons.wikimedia.org/wiki/Category:Power_plants_in_New_Zealand
 
 ## Sample 3
+
+![](https://upload.wikimedia.org/wikipedia/commons/2/2b/Swiss_Airbus_A320-214%3B_HB-IJQ%40ZRH%3B08.06.2013_709bs_%288991628214%29.jpg)
+
+- Swiss plane
+- Swiss airplane
+- Swiss airbus
+- Airbus Swiss
+- airbus swiss
+- airbus A320 swiss
+
+Actual category: https://commons.wikimedia.org/wiki/Category:HB-IJQ_(aircraft) , https://commons.wikimedia.org/wiki/Category:Airbus_A320_of_Swiss_International_Air_Lines_at_Zurich_International_Airport , https://commons.wikimedia.org/wiki/Category:2013_at_Zurich_International_Airport
