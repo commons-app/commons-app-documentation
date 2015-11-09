@@ -23,12 +23,15 @@ Let's say I am in the countryside a few hundred kilometers from Auckland and com
 - Power plant in New Zealand
 - Power plants in New-Zealand
 - Pwer plants in New Zeland
-- Power plants in New Zealand‎ (actual category)
+
+Actual category: [https://commons.wikimedia.org/wiki/Category:Power_plants_in_New_Zealand Power plants in New Zealand‎]
 
 ## Sample 2
 
-![](https://commons.wikimedia.org/wiki/File:Guildford_Walk,_Sheffield_-_geograph.org.uk_-_1426491.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Guildford_Walk%2C_Sheffield_-_geograph.org.uk_-_1426491.jpg/120px-Guildford_Walk%2C_Sheffield_-_geograph.org.uk_-_1426491.jpg)
 
 - apartment building
 - Residential building
 - Four-storeys house
+
+Actual category: `Houses in South Yorkshire`. I would argue that [https://commons.wikimedia.org/wiki/Category:Apartment_buildings Apartment buildings] would apply too.
