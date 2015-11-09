@@ -48,4 +48,4 @@ Page visited: https://commons.wikimedia.org/wiki/File:Swiss_Airbus_A320-214;_HB-
 - airbus swiss
 - airbus A320 swiss
 
-Actual category: https://commons.wikimedia.org/wiki/Category:HB-IJQ_(aircraft) , https://commons.wikimedia.org/wiki/Category:Airbus_A320_of_Swiss_International_Air_Lines_at_Zurich_International_Airport , https://commons.wikimedia.org/wiki/Category:2013_at_Zurich_International_Airport
+Category that I was reasonably looking for: https://commons.wikimedia.org/wiki/Category:Aircraft_of_Swiss_International_Air_Lines Actual categories: https://commons.wikimedia.org/wiki/Category:HB-IJQ_(aircraft) , https://commons.wikimedia.org/wiki/Category:Airbus_A320_of_Swiss_International_Air_Lines_at_Zurich_International_Airport , https://commons.wikimedia.org/wiki/Category:2013_at_Zurich_International_Airport
