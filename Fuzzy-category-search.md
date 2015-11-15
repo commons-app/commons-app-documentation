@@ -49,3 +49,22 @@ Page visited: https://commons.wikimedia.org/wiki/File:Swiss_Airbus_A320-214;_HB-
 - airbus A320 swiss
 
 Category that I was reasonably looking for: https://commons.wikimedia.org/wiki/Category:Aircraft_of_Swiss_International_Air_Lines Actual categories: https://commons.wikimedia.org/wiki/Category:HB-IJQ_(aircraft) , https://commons.wikimedia.org/wiki/Category:Airbus_A320_of_Swiss_International_Air_Lines_at_Zurich_International_Airport , https://commons.wikimedia.org/wiki/Category:2013_at_Zurich_International_Airport
+
+# Sample 4
+
+Searching for Yōichi Masuzoe, a Japanese politician
+
+- masuzoe (says `No categories matching masuzoe found`)
+
+Actual category: https://commons.wikimedia.org/wiki/Category:Yoichi_Masuzoe
+
+# Sample 5
+
+https://commons.wikimedia.org/wiki/File:Flowers_at_Tokyo_embassy_after_Paris_Attacks.jpg
+
+- French embassy in Tokyo
+- French embassy in Japan
+- Embassy of France in Tokyo
+- Embassy of France in Japan
+
+Actual category: https://commons.wikimedia.org/wiki/Category:Embassy_of_France_in_Tokyo
