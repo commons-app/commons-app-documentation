@@ -18,6 +18,10 @@ Manual categorization: 2 good categories
 * Side views of the Cathedral of Palermo - Architectural details -> listed on Commons
 * Cathedral (Palermo) - Exterior -> my opinion
 
+WikiData API:  
+Commons API:  
+"Existing pics at that location" strategy:  
+
 ### Sample 2
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Oberstaufen_Heiligen-Geist_church.jpg/120px-Oberstaufen_Heiligen-Geist_church.jpg)
@@ -29,4 +33,6 @@ Manual categorization: 3 good categories
 * Cultural heritage monuments in Oberstaufen
 * Holy Spirit churches in Bavaria
 
-
+WikiData API:  
+Commons API:  
+"Existing pics at that location" strategy:  
