@@ -17,3 +17,16 @@ Camera location: 38° 06′ 49.93″ N, 13° 21′ 22.55″ E
 Manual categorization: 2 good categories
 * Side views of the Cathedral of Palermo - Architectural details -> listed on Commons
 * Cathedral (Palermo) - Exterior -> my opinion
+
+### Sample 2
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Oberstaufen_Heiligen-Geist_church.jpg/120px-Oberstaufen_Heiligen-Geist_church.jpg)
+
+URL: https://commons.wikimedia.org/wiki/File:Oberstaufen_Heiligen-Geist_church.jpg  
+Camera location: 47° 33′ 14.42″ N, 10° 01′ 06.11″ E  
+Manual categorization: 3 good categories
+* Churches in Oberstaufen
+* Cultural heritage monuments in Oberstaufen
+* Holy Spirit churches in Bavaria
+
+
