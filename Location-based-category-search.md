@@ -57,10 +57,23 @@ Commons API:
 
 URL: https://commons.wikimedia.org/wiki/File:2008_07_15_Bird_Care_Centre_of_Castel_Tyrol_61210_D9917.jpg  
 Camera location: 46° 41′ 37.45″ N, 11° 08′ 38.64″ E   
-Manual categorization: 2 good categories
+Manual categorization: 3 good categories
 * Bird Care Centre of Tirol Castle -> listed on Commons
 * Falconry displays -> listed on Commons
 * Gyps in flight -> listed on Commons
+
+WikiData API:  
+Commons API:  
+"Existing pics at that location" strategy:  
+
+### Sample 5
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/MammysCupboardSept2008E.jpg/90px-MammysCupboardSept2008E.jpg)
+
+URL: https://commons.wikimedia.org/wiki/File:MammysCupboardSept2008E.jpg  
+Camera location: 31° 28′ 41″ N, 91° 22′ 16.9″ W  
+Manual categorization: 1 good category
+* Mammy's Cupboard Restaurant -> listed on Commons
 
 WikiData API:  
 Commons API:  
