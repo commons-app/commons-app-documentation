@@ -78,3 +78,16 @@ Manual categorization: 1 good category
 WikiData API:  
 Commons API:  
 "Existing pics at that location" strategy:  
+
+### Sample 6
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Tai%27an_Dai_Miao_2015.08.13_10-18-46.jpg/120px-Tai%27an_Dai_Miao_2015.08.13_10-18-46.jpg)
+
+URL: https://commons.wikimedia.org/wiki/File:Tai%27an_Dai_Miao_2015.08.13_10-18-46.jpg    
+Camera location: 36° 11′ 41.48″ N, 117° 07′ 30.97″ E  
+Manual categorization: 1 good category
+* Dai miao -> listed on Commons
+
+WikiData API:  
+Commons API:  
+"Existing pics at that location" strategy: 
