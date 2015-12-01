@@ -36,3 +36,17 @@ Manual categorization: 3 good categories
 WikiData API:  
 Commons API:  
 "Existing pics at that location" strategy:  
+
+### Sample 3
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Slipway_at_Canvey_Point_-_geograph.org.uk_-_1207137.jpg/120px-Slipway_at_Canvey_Point_-_geograph.org.uk_-_1207137.jpg)
+
+URL: https://commons.wikimedia.org/wiki/File:Slipway_at_Canvey_Point_-_geograph.org.uk_-_1207137.jpg  
+Camera location: 51° 31′ 14.41″ N, 0° 37′ 28.77″ E  
+Manual categorization: 2 good categories
+* Essex -> listed on Commons
+* Canvey Island -> my opinion
+
+WikiData API:  
+Commons API:  
+"Existing pics at that location" strategy:  
