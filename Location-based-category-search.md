@@ -91,3 +91,18 @@ Manual categorization: 1 good category
 WikiData API:  
 Commons API:  
 "Existing pics at that location" strategy: 
+
+### Sample 7
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Tyr_Reykjavik_20120624.JPG/120px-Tyr_Reykjavik_20120624.JPG)
+
+URL: https://commons.wikimedia.org/wiki/File:Tyr_Reykjavik_20120624.JPG   
+Camera location: 64° 09′ 00.28″ N, 21° 56′ 19.82″ W  
+Manual categorization: 3 good categories
+* Reykjavik harbour -> listed on Commons
+* Týr (ship, 1975) -> listed on Commons
+* Icelandic Coast Guard ships in Reykjavík harbour -> listed on Commons
+
+WikiData API:  
+Commons API:  
+"Existing pics at that location" strategy: 
