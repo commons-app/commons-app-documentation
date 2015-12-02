@@ -104,6 +104,7 @@ Commons API:
 
 URL: https://commons.wikimedia.org/wiki/File:Tyr_Reykjavik_20120624.JPG   
 Camera location: 64° 09′ 00.28″ N, 21° 56′ 19.82″ W  
+Decimal degrees: 64.15007777777778, -21.93883888888889  
 Manual categorization: 3 good categories
 * Reykjavik harbour -> listed on Commons
 * Týr (ship, 1975) -> listed on Commons
@@ -119,6 +120,7 @@ Commons API:
 
 URL: https://commons.wikimedia.org/wiki/File:Tupadly,_n%C3%A1ves.jpg    
 Camera location: 50° 26′ 32.01″ N, 14° 28′ 23.83″ E   
+Decimal degrees: 50.44222499999999, 14.473286111111111  
 Manual categorization: 1 good category  
 * Tupadly (Mělník District) -> listed on Commons
 
