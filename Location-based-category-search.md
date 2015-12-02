@@ -106,3 +106,46 @@ Manual categorization: 3 good categories
 WikiData API:  
 Commons API:  
 "Existing pics at that location" strategy: 
+
+### Sample 8
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Tupadly%2C_n%C3%A1ves.jpg/120px-Tupadly%2C_n%C3%A1ves.jpg)
+
+URL: https://commons.wikimedia.org/wiki/File:Tupadly,_n%C3%A1ves.jpg    
+Camera location: 50° 26′ 32.01″ N, 14° 28′ 23.83″ E   
+Manual categorization: 1 good category  
+* Tupadly (Mělník District) -> listed on Commons
+
+
+WikiData API:  
+Commons API:  
+"Existing pics at that location" strategy: 
+
+### Sample 9
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Allt_Mor_na_h-Uamha_-_geograph.org.uk_-_411143.jpg/120px-Allt_Mor_na_h-Uamha_-_geograph.org.uk_-_411143.jpg)
+
+URL: https://commons.wikimedia.org/wiki/File:Allt_Mor_na_h-Uamha_-_geograph.org.uk_-_411143.jpg   
+Camera location: 56° 59′ 42.27″ N, 6° 16′ 18″ W  
+Manual categorization: 2 good categories  
+* Fords in Scotland -> listed on Commons
+* Allt Mor na h-Uamha -> listed on Commons
+
+WikiData API:  
+Commons API:  
+"Existing pics at that location" strategy: 
+
+### Sample 10
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Kest%C5%99any_-_Horn%C3%AD_tvrz_%288%29.jpg/120px-Kest%C5%99any_-_Horn%C3%AD_tvrz_%288%29.jpg)
+
+URL: https://commons.wikimedia.org/wiki/File:Kest%C5%99any_-_Horn%C3%AD_tvrz_(8).jpg  
+Camera location: 49° 16′ 14.4″ N, 14° 04′ 25.57″ E  
+Manual categorization: 3 good categories  
+* Horní tvrz (Kestřany) -> listed on Commons
+* Tvrze -> listed on Commons
+* Kestřany -> my opinion
+
+WikiData API:  
+Commons API:  
+"Existing pics at that location" strategy: 
