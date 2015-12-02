@@ -76,6 +76,7 @@ Commons API:
 
 URL: https://commons.wikimedia.org/wiki/File:MammysCupboardSept2008E.jpg  
 Camera location: 31° 28′ 41″ N, 91° 22′ 16.9″ W  
+Decimal degrees: 31.478055555555553, -91.3713611111111  
 Manual categorization: 1 good category
 * Mammy's Cupboard Restaurant -> listed on Commons
 
@@ -89,6 +90,7 @@ Commons API:
 
 URL: https://commons.wikimedia.org/wiki/File:Tai%27an_Dai_Miao_2015.08.13_10-18-46.jpg    
 Camera location: 36° 11′ 41.48″ N, 117° 07′ 30.97″ E  
+Decimal degrees: 36.194855555555556, 117.12526944444444
 Manual categorization: 1 good category
 * Dai miao -> listed on Commons
 
