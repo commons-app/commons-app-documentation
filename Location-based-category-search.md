@@ -13,7 +13,7 @@ Pictures are found by:
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Palermo_Cathedral2.JPG/120px-Palermo_Cathedral2.JPG)
 
 URL: https://commons.wikimedia.org/wiki/File:Palermo_Cathedral2.JPG  
-Camera location: 38° 06′ 49.93″ N, 13° 21′ 22.55″ E  
+Camera location: 38° 06′ 49.93″ N, 13° 21′ 22.55″ E  (decimal degrees: 38.11386944444445, 13.356263888888888)  
 Manual categorization: 2 good categories
 * Side views of the Cathedral of Palermo - Architectural details -> listed on Commons
 * Cathedral (Palermo) - Exterior -> my opinion
@@ -27,7 +27,7 @@ Commons API:
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Oberstaufen_Heiligen-Geist_church.jpg/120px-Oberstaufen_Heiligen-Geist_church.jpg)
 
 URL: https://commons.wikimedia.org/wiki/File:Oberstaufen_Heiligen-Geist_church.jpg  
-Camera location: 47° 33′ 14.42″ N, 10° 01′ 06.11″ E  
+Camera location: 47° 33′ 14.42″ N, 10° 01′ 06.11″ E  (decimal degrees: 47.554005555555555, 10.01836388888889)
 Manual categorization: 3 good categories
 * Churches in Oberstaufen -> listed on Commons
 * Cultural heritage monuments in Oberstaufen -> listed on Commons
