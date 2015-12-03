@@ -135,6 +135,7 @@ Commons API:
 
 URL: https://commons.wikimedia.org/wiki/File:Allt_Mor_na_h-Uamha_-_geograph.org.uk_-_411143.jpg   
 Camera location: 56° 59′ 42.27″ N, 6° 16′ 18″ W  
+Decimal degrees: 56.995075, -6.2716666666666665  
 Manual categorization: 2 good categories  
 * Fords in Scotland -> listed on Commons
 * Allt Mor na h-Uamha -> listed on Commons
@@ -149,6 +150,7 @@ Commons API:
 
 URL: https://commons.wikimedia.org/wiki/File:Kest%C5%99any_-_Horn%C3%AD_tvrz_(8).jpg  
 Camera location: 49° 16′ 14.4″ N, 14° 04′ 25.57″ E  
+Decimal degrees: 49.27066666666666, 14.073769444444444  
 Manual categorization: 3 good categories  
 * Horní tvrz (Kestřany) -> listed on Commons
 * Tvrze -> listed on Commons
