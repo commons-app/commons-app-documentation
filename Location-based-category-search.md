@@ -20,7 +20,7 @@ Manual categorization: 2 good categories
 * Cathedral (Palermo) - Exterior -> my opinion
 
 WikiData API: [results](https://tools.wmflabs.org/wikidata-todo/tabernacle.html?wdq=claim%5B373%5D%20AND%20around%5B625%2C38.11386944444445%2C13.356263888888888%2C0.1%5D&pagepile=885&props=373%2C625&items=&show=1)  
-* 2 good categories:
+* 2 good categories (radius 0.1km):
  * Cathedral (Palermo)
  * La Martorana (Palermo)
 * 0 false positives  
@@ -42,7 +42,7 @@ Manual categorization: 3 good categories
 * Holy Spirit churches in Bavaria -> listed on Commons
 
 WikiData API: [results](https://tools.wmflabs.org/wikidata-todo/tabernacle.html?wdq=claim%5B373%5D%20AND%20around%5B625%2C47.554005555555555%2C10.01836388888889%2C1%5D&pagepile=885&props=373%2C625&items=&show=1)  
-* 1 good category:
+* 1 good category (needed to expand radius to 1km to find):
  * St. Peter und Paul (Oberstaufen)
 * 0 false positives  
 
@@ -80,7 +80,10 @@ Manual categorization: 3 good categories
 * Falconry displays -> listed on Commons
 * Gyps in flight -> listed on Commons
 
-WikiData API:  
+WikiData API: [results](https://tools.wmflabs.org/wikidata-todo/tabernacle.html?wdq=claim%5B373%5D%20AND%20around%5B625%2C46.69373611111111%2C11.144066666666665%2C0.1%5D&pagepile=885&props=373%2C625&items=&show=1)
+* 0 good categories (tried both 0.1km and 1km radius)
+* 0 false positives  
+
 Commons API:  
 "Existing pics at that location" strategy:  
 
