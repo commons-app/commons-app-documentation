@@ -134,7 +134,10 @@ Manual categorization: 3 good categories
 * Týr (ship, 1975) -> listed on Commons
 * Icelandic Coast Guard ships in Reykjavík harbour -> listed on Commons
 
-WikiData API:  
+WikiData API:  [results](https://tools.wmflabs.org/wikidata-todo/tabernacle.html?wdq=claim%5B373%5D%20AND%20around%5B625%2C64.15007777777778%2C-21.93883888888889%2C1%5D&pagepile=885&props=373%2C625&items=&show=1)  
+* 0 good categories (0.1km found nothing, 1km found many wrong categories)
+* 0 false positives 
+
 Commons API:  
 "Existing pics at that location" strategy: 
 
