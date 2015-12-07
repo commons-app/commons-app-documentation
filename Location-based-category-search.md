@@ -19,9 +19,12 @@ Manual categorization: 2 good categories
 * Side views of the Cathedral of Palermo - Architectural details -> listed on Commons
 * Cathedral (Palermo) - Exterior -> my opinion
 
-WikiData API: [2 good categories, 0 false positives](https://tools.wmflabs.org/wikidata-todo/tabernacle.html?wdq=claim%5B373%5D%20AND%20around%5B625%2C38.11386944444445%2C13.356263888888888%2C0.1%5D&pagepile=885&props=373%2C625&items=&show=1)
-* Cathedral (Palermo)
-* La Martorana (Palermo)
+WikiData API: [results](https://tools.wmflabs.org/wikidata-todo/tabernacle.html?wdq=claim%5B373%5D%20AND%20around%5B625%2C38.11386944444445%2C13.356263888888888%2C0.1%5D&pagepile=885&props=373%2C625&items=&show=1)  
+* 2 good categories:
+ * Cathedral (Palermo)
+ * La Martorana (Palermo)
+* 0 false positives  
+
 
 Commons API:  
 "Existing pics at that location" strategy:  
@@ -38,7 +41,11 @@ Manual categorization: 3 good categories
 * Cultural heritage monuments in Oberstaufen -> listed on Commons
 * Holy Spirit churches in Bavaria -> listed on Commons
 
-WikiData API:  
+WikiData API: [results](https://tools.wmflabs.org/wikidata-todo/tabernacle.html?wdq=claim%5B373%5D%20AND%20around%5B625%2C47.554005555555555%2C10.01836388888889%2C1%5D&pagepile=885&props=373%2C625&items=&show=1)  
+* 1 good category:
+ * St. Peter und Paul (Oberstaufen)
+* 0 false positives  
+
 Commons API:  
 "Existing pics at that location" strategy:  
 
@@ -53,7 +60,11 @@ Manual categorization: 2 good categories
 * Essex -> listed on Commons
 * Canvey Island -> my opinion
 
-WikiData API:  
+WikiData API: [results](https://tools.wmflabs.org/wikidata-todo/tabernacle.html?wdq=claim%5B373%5D%20AND%20around%5B625%2C51.520669444444444%2C0.6246583333333333%2C1%5D&pagepile=885&props=373%2C625&items=&show=1)  
+* 1 good category (needed to expand radius to 1km to find):
+ * Canvey Island F.C.
+* 0 false positives  
+
 Commons API:  
 "Existing pics at that location" strategy:  
 
