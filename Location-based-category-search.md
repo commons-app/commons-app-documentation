@@ -170,7 +170,10 @@ Manual categorization: 2 good categories
 * Fords in Scotland -> listed on Commons
 * Allt Mor na h-Uamha -> listed on Commons
 
-WikiData API:  
+WikiData API: [results](https://tools.wmflabs.org/wikidata-todo/tabernacle.html?wdq=claim%5B373%5D%20AND%20around%5B625%2C56.995075%2C-6.2716666666666665%2C5%5D&pagepile=885&props=373%2C625&items=&show=1)
+* 0 good categories (0.1km and 1km found nothing, 3km and 5km found unrelated locations)  
+* 0 false positives  
+
 Commons API:  
 "Existing pics at that location" strategy: 
 
@@ -186,6 +189,10 @@ Manual categorization: 3 good categories
 * Tvrze -> listed on Commons
 * Kestřany -> my opinion
 
-WikiData API:  
+WikiData API: [results](https://tools.wmflabs.org/wikidata-todo/tabernacle.html?wdq=claim%5B373%5D%20AND%20around%5B625%2C49.27066666666666%2C14.073769444444444%2C1%5D&pagepile=885&props=373%2C625&items=&show=1)  
+* 1 good category (needed to expand radius to 1km to find):
+ * Kestřany
+* 0 false positives  
+
 Commons API:  
 "Existing pics at that location" strategy: 
