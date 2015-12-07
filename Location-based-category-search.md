@@ -81,7 +81,7 @@ Manual categorization: 3 good categories
 * Gyps in flight -> listed on Commons
 
 WikiData API: [results](https://tools.wmflabs.org/wikidata-todo/tabernacle.html?wdq=claim%5B373%5D%20AND%20around%5B625%2C46.69373611111111%2C11.144066666666665%2C0.1%5D&pagepile=885&props=373%2C625&items=&show=1)
-* 0 good categories (tried both 0.1km and 1km radius)
+* 0 good categories (tried both 0.1km and 1km radius. 0.1km found nothing, 1km found Tirol Castle which is close but not what the pic is about)
 * 0 false positives  
 
 Commons API:  
