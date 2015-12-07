@@ -19,7 +19,10 @@ Manual categorization: 2 good categories
 * Side views of the Cathedral of Palermo - Architectural details -> listed on Commons
 * Cathedral (Palermo) - Exterior -> my opinion
 
-WikiData API:  
+WikiData API: [2 good categories, 0 false positives](https://tools.wmflabs.org/wikidata-todo/tabernacle.html?wdq=claim%5B373%5D%20AND%20around%5B625%2C38.11386944444445%2C13.356263888888888%2C0.1%5D&pagepile=885&props=373%2C625&items=&show=1)
+* Cathedral (Palermo)
+* La Martorana (Palermo)
+
 Commons API:  
 "Existing pics at that location" strategy:  
 
