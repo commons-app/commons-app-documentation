@@ -151,8 +151,11 @@ Decimal degrees: 50.44222499999999, 14.473286111111111
 Manual categorization: 1 good category  
 * Tupadly (Mělník District) -> listed on Commons
 
+WikiData API: [results](https://tools.wmflabs.org/wikidata-todo/tabernacle.html?wdq=claim%5B373%5D%20AND%20around%5B625%2C50.44222499999999%2C14.473286111111111%2C1%5D&pagepile=885&props=373%2C625&items=&show=1)  
+* 1 good category (needed to expand radius to 1km to find):
+ * Tupadly (Mělník District)
+* 0 false positives  
 
-WikiData API:  
 Commons API:  
 "Existing pics at that location" strategy: 
 
