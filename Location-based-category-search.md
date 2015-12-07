@@ -97,7 +97,11 @@ Decimal degrees: 31.478055555555553, -91.3713611111111
 Manual categorization: 1 good category
 * Mammy's Cupboard Restaurant -> listed on Commons
 
-WikiData API:  
+WikiData API: [results](https://tools.wmflabs.org/wikidata-todo/tabernacle.html?wdq=claim%5B373%5D%20AND%20around%5B625%2C31.478055555555553%2C-91.3713611111111%2C0.1%5D&pagepile=885&props=373%2C625&items=&show=1)  
+* 1 good category (radius 0.1km):
+ * Mammy's Cupboard Restaurant
+* 0 false positives  
+
 Commons API:  
 "Existing pics at that location" strategy:  
 
@@ -111,7 +115,10 @@ Decimal degrees: 36.194855555555556, 117.12526944444444
 Manual categorization: 1 good category
 * Dai miao -> listed on Commons
 
-WikiData API:  
+WikiData API: [results](https://tools.wmflabs.org/wikidata-todo/tabernacle.html?wdq=claim%5B373%5D%20AND%20around%5B625%2C36.194855555555556%2C117.12526944444444%2C1%5D&pagepile=885&props=373%2C625&items=&show=1)  
+* 0 good categories (tried both 0.1km and 1km radius. 0.1km found nothing, 1km found Tai'an which is the prefecture that Dai Miao is located in, but not what we're looking for)
+* 0 false positives  
+
 Commons API:  
 "Existing pics at that location" strategy: 
 
