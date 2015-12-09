@@ -8,6 +8,8 @@ Pictures are found by:
 2. Eliminating files that are not photos or could not possibly be obtained via a smartphone
 3. File must have location data available
 
+For the **"existing pics at that location" strategy** tests, I manually exclude the categories found that are attached to the exact same file that is being used for the test.
+
 ### Sample 1
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Palermo_Cathedral2.JPG/120px-Palermo_Cathedral2.JPG)
@@ -48,7 +50,7 @@ Manual categorization: 3 good categories
   
 **"Existing pics at that location" strategy:**  
 * 100m radius: [results](https://commons.wikimedia.org/wiki/Special:ApiSandbox#action=query&prop=categories&format=json&generator=geosearch&ggscoord=47.554005555555555%7C10.01836388888889&ggsradius=100&ggslimit=10&ggsnamespace=6&ggsprimary=all)
- * 3 good categories: Churches in Oberstaufen, Cultural heritage monuments in Oberstaufen, Holy Spirit churches in Bavaria
+ * 1 good categories: Lourdeskapelle (Oberstaufen)
 
 ### Sample 3
 
