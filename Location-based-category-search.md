@@ -146,8 +146,8 @@ Manual categorization: 3 good categories
 * 0 false positives 
 
 **"Existing pics at that location" strategy:**  
-* 100m radius:
- * 1 good categories:  
+* 100m radius: [results](https://commons.wikimedia.org/wiki/Special:ApiSandbox#action=query&prop=categories|coordinates|pageprops&format=json&clshow=!hidden&coprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&codistancefrompoint=64.15007777777778%7C-21.93883888888889&generator=geosearch&redirects=&ggscoord=64.15007777777778%7C-21.93883888888889&ggsradius=100&ggslimit=10&ggsnamespace=6&ggsprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&ggsprimary=all)
+ * 0 good categories  
 
 ### Sample 8
 
