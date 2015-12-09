@@ -108,8 +108,8 @@ Manual categorization: 1 good category
 * 0 false positives  
 
 **"Existing pics at that location" strategy:**  
-* 100m radius:
- * 1 good categories:  
+* 100m radius: [results](https://commons.wikimedia.org/wiki/Special:ApiSandbox#action=query&prop=categories|coordinates|pageprops&format=json&clshow=!hidden&coprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&codistancefrompoint=31.478055555555553%7C-91.3713611111111&generator=geosearch&redirects=&ggscoord=31.478055555555553%7C-91.3713611111111&ggsradius=100&ggslimit=10&ggsnamespace=6&ggsprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&ggsprimary=all)
+ * 1 good categories: Mammy's Cupboard Restaurant  
 
 ### Sample 6
 
@@ -126,8 +126,8 @@ Manual categorization: 1 good category
 * 0 false positives  
 
 **"Existing pics at that location" strategy:**  
-* 100m radius:
- * 1 good categories:  
+* 100m radius: [results](https://commons.wikimedia.org/wiki/Special:ApiSandbox#action=query&prop=categories|coordinates|pageprops&format=json&clshow=!hidden&coprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&codistancefrompoint=36.194855555555556%7C117.12526944444444&generator=geosearch&redirects=&ggscoord=36.194855555555556%7C117.12526944444444&ggsradius=100&ggslimit=10&ggsnamespace=6&ggsprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&ggsprimary=all)
+ * 1 good categories: Dai miao
 
 ### Sample 7
 
