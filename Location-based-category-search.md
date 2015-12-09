@@ -28,7 +28,7 @@ Manual categorization: 2 good categories
 * 0 false positives  
 
 **"Existing pics at that location" strategy:**
-* 100m radius: [results](https://commons.wikimedia.org/wiki/Special:ApiSandbox#action=query&prop=categories&format=json&clshow=!hidden&generator=geosearch&ggscoord=38.11386944444445%7C13.356263888888888&ggsradius=100&ggslimit=20&ggsnamespace=6&ggsprimary=all)
+* 100m radius: [results](https://commons.wikimedia.org/wiki/Special:ApiSandbox#action=query&prop=categories|coordinates|pageprops&format=json&clshow=!hidden&coprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&codistancefrompoint=38.11386944444445%7C13.356263888888888&generator=geosearch&redirects=&ggscoord=38.11386944444445%7C13.356263888888888&ggsradius=100&ggslimit=10&ggsnamespace=6&ggsprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&ggsprimary=all)
  * 3 good categories: Side views of the Cathedral of Palermo, Cathedral (Palermo), Saint Rosalia by Vincenzo Vitaliano
 
 ### Sample 2
@@ -49,7 +49,7 @@ Manual categorization: 3 good categories
 * 0 false positives  
   
 **"Existing pics at that location" strategy:**  
-* 100m radius: [results](https://commons.wikimedia.org/wiki/Special:ApiSandbox#action=query&prop=categories&format=json&generator=geosearch&ggscoord=47.554005555555555%7C10.01836388888889&ggsradius=100&ggslimit=10&ggsnamespace=6&ggsprimary=all)
+* 100m radius: [results](https://commons.wikimedia.org/wiki/Special:ApiSandbox#action=query&prop=categories|coordinates|pageprops&format=json&clshow=!hidden&coprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&codistancefrompoint=47.554005555555555%7C10.01836388888889&generator=geosearch&redirects=&ggscoord=47.554005555555555%7C10.01836388888889&ggsradius=100&ggslimit=10&ggsnamespace=6&ggsprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&ggsprimary=all)
  * 1 good categories: Lourdeskapelle (Oberstaufen)
 
 ### Sample 3
