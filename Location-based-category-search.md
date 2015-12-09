@@ -205,5 +205,5 @@ Manual categorization: 3 good categories
 * 0 false positives  
 
 **"Existing pics at that location" strategy:**  
-* 100m radius:
- * 1 good categories:  
+* 100m radius: [results](https://commons.wikimedia.org/wiki/Special:ApiSandbox#action=query&prop=categories|coordinates|pageprops&format=json&clshow=!hidden&coprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&codistancefrompoint=49.27066666666666%7C14.073769444444444&generator=geosearch&redirects=&ggscoord=49.27066666666666%7C14.073769444444444&ggsradius=100&ggslimit=10&ggsnamespace=6&ggsprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&ggsprimary=all)
+ * 2 good categories: Horn\u00ed tvrz (Kest\u0159any), Tvrze
