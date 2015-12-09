@@ -69,8 +69,8 @@ Manual categorization: 2 good categories
 * 0 false positives  
 
 **"Existing pics at that location" strategy:**  
-* 100m radius:
- * 1 good categories:  
+* 100m radius: [results](https://commons.wikimedia.org/wiki/Special:ApiSandbox#action=query&prop=categories|coordinates|pageprops&format=json&clshow=!hidden&coprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&codistancefrompoint=51.520669444444444%7C0.6246583333333333&generator=geosearch&redirects=&ggscoord=51.520669444444444%7C0.6246583333333333&ggsradius=100&ggslimit=10&ggsnamespace=6&ggsprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&ggsprimary=all)
+ * 1 good categories: Essex
 
 ### Sample 4
 
@@ -89,8 +89,8 @@ Manual categorization: 3 good categories
 * 0 false positives  
 
 **"Existing pics at that location" strategy:**  
-* 100m radius:
- * 1 good categories:  
+* 100m radius: [results](https://commons.wikimedia.org/wiki/Special:ApiSandbox#action=query&prop=categories|coordinates|pageprops&format=json&clshow=!hidden&coprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&codistancefrompoint=46.69373611111111%7C11.144066666666665&generator=geosearch&redirects=&ggscoord=46.69373611111111%7C11.144066666666665&ggsradius=100&ggslimit=10&ggsnamespace=6&ggsprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&ggsprimary=all)
+ * 2 good categories: Bird Care Centre of Tirol Castle, Falconry displays
 
 ### Sample 5
 
