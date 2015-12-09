@@ -25,9 +25,9 @@ WikiData API: [results](https://tools.wmflabs.org/wikidata-todo/tabernacle.html?
  * La Martorana (Palermo)
 * 0 false positives  
 
-
-Commons API:  
 "Existing pics at that location" strategy:  
+* 100m radius: [results](https://commons.wikimedia.org/wiki/Special:ApiSandbox#action=query&prop=categories&format=json&generator=geosearch&ggscoord=38.11386944444445%7C13.356263888888888&ggsradius=100&ggslimit=10&ggsnamespace=6&ggsprimary=all)
+ * 2 good categories: Side views of the Cathedral of Palermo & Piazza del Duomo (Palermo)  
 
 ### Sample 2
 
