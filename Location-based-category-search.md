@@ -34,6 +34,7 @@ Manual categorization: 5 good categories
 **"Existing pics at that location" strategy:**
 * 100m radius: [results](https://commons.wikimedia.org/wiki/Special:ApiSandbox#action=query&prop=categories|coordinates|pageprops&format=json&clshow=!hidden&coprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&codistancefrompoint=38.11386944444445%7C13.356263888888888&generator=geosearch&redirects=&ggscoord=38.11386944444445%7C13.356263888888888&ggsradius=100&ggslimit=10&ggsnamespace=6&ggsprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&ggsprimary=all)
  * 3 good categories: Side views of the Cathedral of Palermo, Cathedral (Palermo), Saint Rosalia by Vincenzo Vitaliano
+ * 3 false positives: Piazza del Duomo (Palermo), Porch of the Cathedral of Palermo, Church towers of the Cathedral of Palermo
 
 ### Sample 2
 
@@ -57,6 +58,7 @@ Manual categorization: 5 good categories
 **"Existing pics at that location" strategy:**  
 * 100m radius: [results](https://commons.wikimedia.org/wiki/Special:ApiSandbox#action=query&prop=categories|coordinates|pageprops&format=json&clshow=!hidden&coprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&codistancefrompoint=47.554005555555555%7C10.01836388888889&generator=geosearch&redirects=&ggscoord=47.554005555555555%7C10.01836388888889&ggsradius=100&ggslimit=10&ggsnamespace=6&ggsprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&ggsprimary=all)
  * 1 good categories: Lourdeskapelle (Oberstaufen)
+ * 0 false positives
 
 ### Sample 3
 
@@ -79,6 +81,7 @@ Manual categorization: 3 good categories
 **"Existing pics at that location" strategy:**  
 * 100m radius: [results](https://commons.wikimedia.org/wiki/Special:ApiSandbox#action=query&prop=categories|coordinates|pageprops&format=json&clshow=!hidden&coprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&codistancefrompoint=51.520669444444444%7C0.6246583333333333&generator=geosearch&redirects=&ggscoord=51.520669444444444%7C0.6246583333333333&ggsradius=100&ggslimit=10&ggsnamespace=6&ggsprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&ggsprimary=all)
  * 1 good categories: Essex
+ * 1 false positives: Images from the Geograph British Isles project needing categories as of 26 February 2011
 
 ### Sample 4
 
