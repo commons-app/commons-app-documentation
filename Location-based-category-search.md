@@ -19,15 +19,15 @@ Manual categorization: 2 good categories
 * Side views of the Cathedral of Palermo - Architectural details -> listed on Commons
 * Cathedral (Palermo) - Exterior -> my opinion
 
-WikiData API: [results](https://tools.wmflabs.org/wikidata-todo/tabernacle.html?wdq=claim%5B373%5D%20AND%20around%5B625%2C38.11386944444445%2C13.356263888888888%2C0.1%5D&pagepile=885&props=373%2C625&items=&show=1)  
+**WikiData API:** [results](https://tools.wmflabs.org/wikidata-todo/tabernacle.html?wdq=claim%5B373%5D%20AND%20around%5B625%2C38.11386944444445%2C13.356263888888888%2C0.1%5D&pagepile=885&props=373%2C625&items=&show=1)  
 * 2 good categories (radius 0.1km):
  * Cathedral (Palermo)
  * La Martorana (Palermo)
 * 0 false positives  
 
-"Existing pics at that location" strategy:  
+**"Existing pics at that location" strategy:**
 * 100m radius: [results](https://commons.wikimedia.org/wiki/Special:ApiSandbox#action=query&prop=categories&format=json&generator=geosearch&ggscoord=38.11386944444445%7C13.356263888888888&ggsradius=100&ggslimit=10&ggsnamespace=6&ggsprimary=all)
- * 2 good categories: Side views of the Cathedral of Palermo & Piazza del Duomo (Palermo)  
+ * 2 good categories: Side views of the Cathedral of Palermo, Piazza del Duomo (Palermo)  
 
 ### Sample 2
 
@@ -41,13 +41,14 @@ Manual categorization: 3 good categories
 * Cultural heritage monuments in Oberstaufen -> listed on Commons
 * Holy Spirit churches in Bavaria -> listed on Commons
 
-WikiData API: [results](https://tools.wmflabs.org/wikidata-todo/tabernacle.html?wdq=claim%5B373%5D%20AND%20around%5B625%2C47.554005555555555%2C10.01836388888889%2C1%5D&pagepile=885&props=373%2C625&items=&show=1)  
+**WikiData API:** [results](https://tools.wmflabs.org/wikidata-todo/tabernacle.html?wdq=claim%5B373%5D%20AND%20around%5B625%2C47.554005555555555%2C10.01836388888889%2C1%5D&pagepile=885&props=373%2C625&items=&show=1)  
 * 1 good category (needed to expand radius to 1km to find):
  * St. Peter und Paul (Oberstaufen)
 * 0 false positives  
-
-Commons API:  
-"Existing pics at that location" strategy:  
+  
+**"Existing pics at that location" strategy:**  
+* 100m radius: [results](https://commons.wikimedia.org/wiki/Special:ApiSandbox#action=query&prop=categories&format=json&generator=geosearch&ggscoord=47.554005555555555%7C10.01836388888889&ggsradius=100&ggslimit=10&ggsnamespace=6&ggsprimary=all)
+ * 3 good categories: Churches in Oberstaufen, Cultural heritage monuments in Oberstaufen, Holy Spirit churches in Bavaria
 
 ### Sample 3
 
