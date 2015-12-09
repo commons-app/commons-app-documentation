@@ -166,7 +166,7 @@ Manual categorization: 1 good category
 
 **"Existing pics at that location" strategy:**  
 * 100m radius: [results](https://commons.wikimedia.org/wiki/Special:ApiSandbox#action=query&prop=categories|coordinates|pageprops&format=json&clshow=!hidden&coprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&codistancefrompoint=50.44222499999999%7C14.473286111111111&generator=geosearch&redirects=&ggscoord=50.44222499999999%7C14.473286111111111&ggsradius=100&ggslimit=10&ggsnamespace=6&ggsprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&ggsprimary=all)
- * 1 good categories: Tupadly (M\u011bln\u00edk District) _this might be a problem, special formatting characters are returned as their encoding_
+ * 1 good categories: Tupadly (M\u011bln\u00edk District) _<-this might be a problem, special formatting characters are returned as their encoding_
 
 ### Sample 9
 
@@ -184,8 +184,8 @@ Manual categorization: 2 good categories
 * 0 false positives  
 
 **"Existing pics at that location" strategy:**  
-* 100m radius:
- * 1 good categories:  
+* 100m radius: [results](https://commons.wikimedia.org/wiki/Special:ApiSandbox#action=query&prop=categories|coordinates|pageprops&format=json&clshow=!hidden&coprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&codistancefrompoint=56.995075%7C-6.2716666666666665&generator=geosearch&redirects=&ggscoord=56.995075%7C-6.2716666666666665&ggsradius=100&ggslimit=10&ggsnamespace=6&ggsprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&ggsprimary=all)
+ * 1 good categories: Allt Mor na h-Uamha
 
 ### Sample 10
 
