@@ -28,7 +28,8 @@ Manual categorization: 5 good categories
 * 2 good categories (radius 0.1km):
  * Cathedral (Palermo)
  * La Martorana (Palermo)
-* 0 false positives  
+* 1 false positives:
+ * Museo Diocesano (Palermo)
 
 **"Existing pics at that location" strategy:**
 * 100m radius: [results](https://commons.wikimedia.org/wiki/Special:ApiSandbox#action=query&prop=categories|coordinates|pageprops&format=json&clshow=!hidden&coprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&codistancefrompoint=38.11386944444445%7C13.356263888888888&generator=geosearch&redirects=&ggscoord=38.11386944444445%7C13.356263888888888&ggsradius=100&ggslimit=10&ggsnamespace=6&ggsprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&ggsprimary=all)
