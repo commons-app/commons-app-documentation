@@ -41,7 +41,7 @@ Manual categorization: 5 good categories
 URL: https://commons.wikimedia.org/wiki/File:Oberstaufen_Heiligen-Geist_church.jpg  
 Camera location: 47° 33′ 14.42″ N, 10° 01′ 06.11″ E  
 Decimal degrees: 47.554005555555555, 10.01836388888889  
-Manual categorization: 3 good categories
+Manual categorization: 5 good categories
 * Churches in Oberstaufen -> listed on Commons
 * Cultural heritage monuments in Oberstaufen -> listed on Commons
 * Holy Spirit churches in Bavaria -> listed on Commons
@@ -64,7 +64,7 @@ Manual categorization: 3 good categories
 URL: https://commons.wikimedia.org/wiki/File:Slipway_at_Canvey_Point_-_geograph.org.uk_-_1207137.jpg  
 Camera location: 51° 31′ 14.41″ N, 0° 37′ 28.77″ E  
 Decimal degrees: 51.520669444444444, 0.6246583333333333  
-Manual categorization: 2 good categories
+Manual categorization: 3 good categories
 * Essex -> listed on Commons
 * Canvey Island -> my opinion
 * Canvey Island F.C. 
