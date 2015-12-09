@@ -63,13 +63,14 @@ Manual categorization: 2 good categories
 * Essex -> listed on Commons
 * Canvey Island -> my opinion
 
-WikiData API: [results](https://tools.wmflabs.org/wikidata-todo/tabernacle.html?wdq=claim%5B373%5D%20AND%20around%5B625%2C51.520669444444444%2C0.6246583333333333%2C1%5D&pagepile=885&props=373%2C625&items=&show=1)  
+**WikiData API:** [results](https://tools.wmflabs.org/wikidata-todo/tabernacle.html?wdq=claim%5B373%5D%20AND%20around%5B625%2C51.520669444444444%2C0.6246583333333333%2C1%5D&pagepile=885&props=373%2C625&items=&show=1)  
 * 1 good category (needed to expand radius to 1km to find):
  * Canvey Island F.C.
 * 0 false positives  
 
-Commons API:  
-"Existing pics at that location" strategy:  
+**"Existing pics at that location" strategy:**  
+* 100m radius:
+ * 1 good categories:  
 
 ### Sample 4
 
@@ -83,12 +84,13 @@ Manual categorization: 3 good categories
 * Falconry displays -> listed on Commons
 * Gyps in flight -> listed on Commons
 
-WikiData API: [results](https://tools.wmflabs.org/wikidata-todo/tabernacle.html?wdq=claim%5B373%5D%20AND%20around%5B625%2C46.69373611111111%2C11.144066666666665%2C0.1%5D&pagepile=885&props=373%2C625&items=&show=1)
+**WikiData API:** [results](https://tools.wmflabs.org/wikidata-todo/tabernacle.html?wdq=claim%5B373%5D%20AND%20around%5B625%2C46.69373611111111%2C11.144066666666665%2C0.1%5D&pagepile=885&props=373%2C625&items=&show=1)
 * 0 good categories (tried both 0.1km and 1km radius. 0.1km found nothing, 1km found Tirol Castle which is close but not what the pic is about)
 * 0 false positives  
 
-Commons API:  
-"Existing pics at that location" strategy:  
+**"Existing pics at that location" strategy:**  
+* 100m radius:
+ * 1 good categories:  
 
 ### Sample 5
 
@@ -100,13 +102,14 @@ Decimal degrees: 31.478055555555553, -91.3713611111111
 Manual categorization: 1 good category
 * Mammy's Cupboard Restaurant -> listed on Commons
 
-WikiData API: [results](https://tools.wmflabs.org/wikidata-todo/tabernacle.html?wdq=claim%5B373%5D%20AND%20around%5B625%2C31.478055555555553%2C-91.3713611111111%2C0.1%5D&pagepile=885&props=373%2C625&items=&show=1)  
+**WikiData API:** [results](https://tools.wmflabs.org/wikidata-todo/tabernacle.html?wdq=claim%5B373%5D%20AND%20around%5B625%2C31.478055555555553%2C-91.3713611111111%2C0.1%5D&pagepile=885&props=373%2C625&items=&show=1)  
 * 1 good category (radius 0.1km):
  * Mammy's Cupboard Restaurant
 * 0 false positives  
 
-Commons API:  
-"Existing pics at that location" strategy:  
+**"Existing pics at that location" strategy:**  
+* 100m radius:
+ * 1 good categories:  
 
 ### Sample 6
 
@@ -118,12 +121,13 @@ Decimal degrees: 36.194855555555556, 117.12526944444444
 Manual categorization: 1 good category
 * Dai miao -> listed on Commons
 
-WikiData API: [results](https://tools.wmflabs.org/wikidata-todo/tabernacle.html?wdq=claim%5B373%5D%20AND%20around%5B625%2C36.194855555555556%2C117.12526944444444%2C1%5D&pagepile=885&props=373%2C625&items=&show=1)  
+**WikiData API:** [results](https://tools.wmflabs.org/wikidata-todo/tabernacle.html?wdq=claim%5B373%5D%20AND%20around%5B625%2C36.194855555555556%2C117.12526944444444%2C1%5D&pagepile=885&props=373%2C625&items=&show=1)  
 * 0 good categories (tried both 0.1km and 1km radius. 0.1km found nothing, 1km found Tai'an which is the prefecture that Dai Miao is located in, but not what we're looking for)
 * 0 false positives  
 
-Commons API:  
-"Existing pics at that location" strategy: 
+**"Existing pics at that location" strategy:**  
+* 100m radius:
+ * 1 good categories:  
 
 ### Sample 7
 
@@ -137,12 +141,13 @@ Manual categorization: 3 good categories
 * Týr (ship, 1975) -> listed on Commons
 * Icelandic Coast Guard ships in Reykjavík harbour -> listed on Commons
 
-WikiData API:  [results](https://tools.wmflabs.org/wikidata-todo/tabernacle.html?wdq=claim%5B373%5D%20AND%20around%5B625%2C64.15007777777778%2C-21.93883888888889%2C1%5D&pagepile=885&props=373%2C625&items=&show=1)  
+**WikiData API:**  [results](https://tools.wmflabs.org/wikidata-todo/tabernacle.html?wdq=claim%5B373%5D%20AND%20around%5B625%2C64.15007777777778%2C-21.93883888888889%2C1%5D&pagepile=885&props=373%2C625&items=&show=1)  
 * 0 good categories (0.1km found nothing, 1km found many wrong categories)
 * 0 false positives 
 
-Commons API:  
-"Existing pics at that location" strategy: 
+**"Existing pics at that location" strategy:**  
+* 100m radius:
+ * 1 good categories:  
 
 ### Sample 8
 
@@ -154,13 +159,14 @@ Decimal degrees: 50.44222499999999, 14.473286111111111
 Manual categorization: 1 good category  
 * Tupadly (Mělník District) -> listed on Commons
 
-WikiData API: [results](https://tools.wmflabs.org/wikidata-todo/tabernacle.html?wdq=claim%5B373%5D%20AND%20around%5B625%2C50.44222499999999%2C14.473286111111111%2C1%5D&pagepile=885&props=373%2C625&items=&show=1)  
+**WikiData API:** [results](https://tools.wmflabs.org/wikidata-todo/tabernacle.html?wdq=claim%5B373%5D%20AND%20around%5B625%2C50.44222499999999%2C14.473286111111111%2C1%5D&pagepile=885&props=373%2C625&items=&show=1)  
 * 1 good category (needed to expand radius to 1km to find):
  * Tupadly (Mělník District)
 * 0 false positives  
 
-Commons API:  
-"Existing pics at that location" strategy: 
+**"Existing pics at that location" strategy:**  
+* 100m radius:
+ * 1 good categories:  
 
 ### Sample 9
 
@@ -173,12 +179,13 @@ Manual categorization: 2 good categories
 * Fords in Scotland -> listed on Commons
 * Allt Mor na h-Uamha -> listed on Commons
 
-WikiData API: [results](https://tools.wmflabs.org/wikidata-todo/tabernacle.html?wdq=claim%5B373%5D%20AND%20around%5B625%2C56.995075%2C-6.2716666666666665%2C5%5D&pagepile=885&props=373%2C625&items=&show=1)
+**WikiData API:** [results](https://tools.wmflabs.org/wikidata-todo/tabernacle.html?wdq=claim%5B373%5D%20AND%20around%5B625%2C56.995075%2C-6.2716666666666665%2C5%5D&pagepile=885&props=373%2C625&items=&show=1)
 * 0 good categories (0.1km and 1km found nothing, 3km and 5km found unrelated locations)  
 * 0 false positives  
 
-Commons API:  
-"Existing pics at that location" strategy: 
+**"Existing pics at that location" strategy:**  
+* 100m radius:
+ * 1 good categories:  
 
 ### Sample 10
 
@@ -192,10 +199,11 @@ Manual categorization: 3 good categories
 * Tvrze -> listed on Commons
 * Kestřany -> my opinion
 
-WikiData API: [results](https://tools.wmflabs.org/wikidata-todo/tabernacle.html?wdq=claim%5B373%5D%20AND%20around%5B625%2C49.27066666666666%2C14.073769444444444%2C1%5D&pagepile=885&props=373%2C625&items=&show=1)  
+**WikiData API:** [results](https://tools.wmflabs.org/wikidata-todo/tabernacle.html?wdq=claim%5B373%5D%20AND%20around%5B625%2C49.27066666666666%2C14.073769444444444%2C1%5D&pagepile=885&props=373%2C625&items=&show=1)  
 * 1 good category (needed to expand radius to 1km to find):
  * Kestřany
 * 0 false positives  
 
-Commons API:  
-"Existing pics at that location" strategy: 
+**"Existing pics at that location" strategy:**  
+* 100m radius:
+ * 1 good categories:  
