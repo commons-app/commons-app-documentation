@@ -28,8 +28,8 @@ Manual categorization: 2 good categories
 * 0 false positives  
 
 **"Existing pics at that location" strategy:**
-* 100m radius: [results](https://commons.wikimedia.org/wiki/Special:ApiSandbox#action=query&prop=categories&format=json&generator=geosearch&ggscoord=38.11386944444445%7C13.356263888888888&ggsradius=100&ggslimit=10&ggsnamespace=6&ggsprimary=all)
- * 2 good categories: Side views of the Cathedral of Palermo, Piazza del Duomo (Palermo)  
+* 100m radius: [results](https://commons.wikimedia.org/wiki/Special:ApiSandbox#action=query&prop=categories&format=json&clshow=!hidden&generator=geosearch&ggscoord=38.11386944444445%7C13.356263888888888&ggsradius=100&ggslimit=20&ggsnamespace=6&ggsprimary=all)
+ * 3 good categories: Side views of the Cathedral of Palermo, Cathedral (Palermo), Saint Rosalia by Vincenzo Vitaliano
 
 ### Sample 2
 
