@@ -122,6 +122,7 @@ Manual categorization: 1 good category
 **"Existing pics at that location" strategy:**  
 * 100m radius: [results](https://commons.wikimedia.org/wiki/Special:ApiSandbox#action=query&prop=categories|coordinates|pageprops&format=json&clshow=!hidden&coprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&codistancefrompoint=31.478055555555553%7C-91.3713611111111&generator=geosearch&redirects=&ggscoord=31.478055555555553%7C-91.3713611111111&ggsradius=100&ggslimit=10&ggsnamespace=6&ggsprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&ggsprimary=all)
  * 1 good categories: Mammy's Cupboard Restaurant  
+ * 0 false positives
 
 ### Sample 6
 
@@ -135,11 +136,12 @@ Manual categorization: 1 good category
 
 **WikiData API:** [results](https://tools.wmflabs.org/wikidata-todo/tabernacle.html?wdq=claim%5B373%5D%20AND%20around%5B625%2C36.194855555555556%2C117.12526944444444%2C1%5D&pagepile=885&props=373%2C625&items=&show=1)  
 * 0 good categories (tried both 0.1km and 1km radius. 0.1km found nothing, 1km found Tai'an which is the prefecture that Dai Miao is located in, but not what we're looking for)
-* 0 false positives  
+* 1 false positives : Tai'an
 
 **"Existing pics at that location" strategy:**  
 * 100m radius: [results](https://commons.wikimedia.org/wiki/Special:ApiSandbox#action=query&prop=categories|coordinates|pageprops&format=json&clshow=!hidden&coprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&codistancefrompoint=36.194855555555556%7C117.12526944444444&generator=geosearch&redirects=&ggscoord=36.194855555555556%7C117.12526944444444&ggsradius=100&ggslimit=10&ggsnamespace=6&ggsprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&ggsprimary=all)
  * 1 good categories: Dai miao
+ * 0 false positives
 
 ### Sample 7
 
