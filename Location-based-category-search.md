@@ -97,11 +97,12 @@ Manual categorization: 3 good categories
 
 **WikiData API:** [results](https://tools.wmflabs.org/wikidata-todo/tabernacle.html?wdq=claim%5B373%5D%20AND%20around%5B625%2C46.69373611111111%2C11.144066666666665%2C0.1%5D&pagepile=885&props=373%2C625&items=&show=1)
 * 0 good categories (tried both 0.1km and 1km radius. 0.1km found nothing, 1km found Tirol Castle which is close but not what the pic is about)
-* 0 false positives  
+* 1 false positive: Tirol Castle
 
 **"Existing pics at that location" strategy:**  
 * 100m radius: [results](https://commons.wikimedia.org/wiki/Special:ApiSandbox#action=query&prop=categories|coordinates|pageprops&format=json&clshow=!hidden&coprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&codistancefrompoint=46.69373611111111%7C11.144066666666665&generator=geosearch&redirects=&ggscoord=46.69373611111111%7C11.144066666666665&ggsradius=100&ggslimit=10&ggsnamespace=6&ggsprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&ggsprimary=all)
  * 2 good categories: Bird Care Centre of Tirol Castle, Falconry displays
+ * 3 false positives: Corvus corax (captive), Coragyps atratus (captive), Parabuteo unicinctus in flight (captive)
 
 ### Sample 5
 
