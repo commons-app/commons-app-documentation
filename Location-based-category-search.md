@@ -161,7 +161,8 @@ Manual categorization: 3 good categories
 
 **"Existing pics at that location" strategy:**  
 * 100m radius: [results](https://commons.wikimedia.org/wiki/Special:ApiSandbox#action=query&prop=categories|coordinates|pageprops&format=json&clshow=!hidden&coprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&codistancefrompoint=64.15007777777778%7C-21.93883888888889&generator=geosearch&redirects=&ggscoord=64.15007777777778%7C-21.93883888888889&ggsradius=100&ggslimit=10&ggsnamespace=6&ggsprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&ggsprimary=all)
- * 0 good categories  
+ * 0 good categories 
+ * 2 false positives: Monuments and memorials in Reykjav\u00edk, 2008 in Reykjav\u00edk
 
 ### Sample 8
 
