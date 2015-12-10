@@ -177,11 +177,12 @@ Manual categorization: 1 good category
 **WikiData API:** [results](https://tools.wmflabs.org/wikidata-todo/tabernacle.html?wdq=claim%5B373%5D%20AND%20around%5B625%2C50.44222499999999%2C14.473286111111111%2C1%5D&pagepile=885&props=373%2C625&items=&show=1)  
 * 1 good category (needed to expand radius to 1km to find):
  * Tupadly (Mělník District)
-* 0 false positives  
+* 3 false positives: Mokřady dolní Liběchovky, Cultural monuments in Tupadly (Mělník District), Stráně Hlubockého dolu
 
 **"Existing pics at that location" strategy:**  
 * 100m radius: [results](https://commons.wikimedia.org/wiki/Special:ApiSandbox#action=query&prop=categories|coordinates|pageprops&format=json&clshow=!hidden&coprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&codistancefrompoint=50.44222499999999%7C14.473286111111111&generator=geosearch&redirects=&ggscoord=50.44222499999999%7C14.473286111111111&ggsradius=100&ggslimit=10&ggsnamespace=6&ggsprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&ggsprimary=all)
  * 1 good categories: Tupadly (M\u011bln\u00edk District) _<-this might be a problem, special formatting characters are returned as their encoding_
+ * 5 false positives: Bell towers in M\u011bln\u00edk District, Chapels in M\u011bln\u00edk District, Cultural monuments in Tupadly (M\u011bln\u00edk District), Lib\u011bchovka, Castle Slav\u00edn
 
 ### Sample 9
 
