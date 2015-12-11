@@ -225,3 +225,30 @@ Manual categorization: 3 good categories
 * 100m radius: [results](https://commons.wikimedia.org/wiki/Special:ApiSandbox#action=query&prop=categories|coordinates|pageprops&format=json&clshow=!hidden&coprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&codistancefrompoint=49.27066666666666%7C14.073769444444444&generator=geosearch&redirects=&ggscoord=49.27066666666666%7C14.073769444444444&ggsradius=100&ggslimit=10&ggsnamespace=6&ggsprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&ggsprimary=all)
  * 2 good categories: Horn\u00ed tvrz (Kest\u0159any), Tvrze
  * 0 false positives
+
+
+### WikiData results
+* Score for sample 1 = 0.0666666666667
+* Score for sample 2 = 0.0666666666667
+* Score for sample 3 = 0.111111111111
+* Score for sample 4 = -0.111111111111
+* Score for sample 5 = 0.333333333333
+* Score for sample 6 = -0.333333333333
+* Score for sample 7 = 0.0
+* Score for sample 8 = -0.666666666667
+* Score for sample 9 = 0.0
+* Score for sample 10 = 0.111111111111
+* Total score = -0.422222222222
+
+### "Existing pics at location" strategy
+* Score for sample 1 = 0.0
+* Score for sample 2 = 0.0666666666667
+* Score for sample 3 = 0.0
+* Score for sample 4 = -0.111111111111
+* Score for sample 5 = 0.333333333333
+* Score for sample 6 = 0.333333333333
+* Score for sample 7 = -0.222222222222
+* Score for sample 8 = -1.33333333333
+* Score for sample 9 = 0.0
+* Score for sample 10 = 0.222222222222
+* Total score = -0.711111111111
