@@ -119,8 +119,8 @@ Manual categorization: 3 good categories
  * 3 false positives: Corvus corax (captive), Coragyps atratus (captive), Parabuteo unicinctus in flight (captive)
 
 **Method D**
-* Radius with min 5 categories:
-* Position of good categories:
+* Radius with min 5 categories: 100m
+* Position of good categories: 1, 1 (all categories have similar distance. maybe taken by 1 person?)
 
 ### Sample 5
 
@@ -143,8 +143,8 @@ Manual categorization: 1 good category
  * 0 false positives
 
 **Method D**
-* Radius with min 5 categories:
-* Position of good categories:
+* Radius with min 5 categories: does not exist, increased until received error (ggsradius may not be over 10000 (set to 100000) for users)
+* Position of good categories: 1
 
 ### Sample 6
 
@@ -166,8 +166,8 @@ Manual categorization: 1 good category
  * 0 false positives
 
 **Method D**
-* Radius with min 5 categories:
-* Position of good categories:
+* Radius with min 5 categories: nonexistent (ggsradius may not be over 10000 (set to 100000) for users)
+* Position of good categories: 1
 
 ### Sample 7
 
