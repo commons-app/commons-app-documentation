@@ -241,8 +241,8 @@ Manual categorization: 2 good categories
 
 **Method D**
 * Radius with min 5 categories: 1000m
-* Additional good categories found: Hiking paths of Scotland, 
-* Position of good categories:
+* Additional good categories found: Hiking paths of Scotland
+* Position of good categories: 1, 4
 
 ### Sample 10
 
@@ -267,7 +267,7 @@ Manual categorization: 3 good categories
  * 0 false positives
 
 **Method D**
-* Radius with min 5 categories:
+* Radius with min 5 categories:  nonexistent (ggsradius may not be over 10000 (set to 100000) for users)
 * Position of good categories:
 
 
