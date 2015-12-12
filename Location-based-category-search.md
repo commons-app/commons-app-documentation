@@ -37,8 +37,8 @@ Manual categorization: 5 good categories
  * 3 false positives: Piazza del Duomo (Palermo), Porch of the Cathedral of Palermo, Church towers of the Cathedral of Palermo
 
 **Method D**
-* Radius with min 5 categories:
-* Position of good categories:
+* Radius with min 5 categories: 100m
+* Position of good categories: 1, 3, 4
 
 ### Sample 2
 
@@ -65,8 +65,9 @@ Manual categorization: 5 good categories
  * 0 false positives
 
 **Method D**
-* Radius with min 5 categories:
-* Position of good categories:
+* Radius with min 5 categories: 1000m 
+* Additional good categories found: Cultural heritage monuments in Oberstaufen, Buildings in Oberstaufen, St. Peter und Paul (Oberstaufen)
+* Position of good categories: 1, 2, 4, 5
 
 ### Sample 3
 
@@ -92,8 +93,9 @@ Manual categorization: 3 good categories
  * 1 false positives: Images from the Geograph British Isles project needing categories as of 26 February 2011
 
 **Method D**
-* Radius with min 5 categories:
-* Position of good categories:
+* Radius with min 5 categories: 1000m
+* Additional good categories found: Canvey Island
+* Position of good categories: 1, 3
 
 ### Sample 4
 
