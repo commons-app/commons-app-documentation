@@ -191,8 +191,9 @@ Manual categorization: 3 good categories
  * 2 false positives: Monuments and memorials in Reykjav\u00edk, 2008 in Reykjav\u00edk
 
 **Method D**
-* Radius with min 5 categories:
-* Position of good categories:
+* Radius with min 5 categories: 1000m
+* Additional good categories found: Reykjavik harbour
+* Position of good categories: 4
 
 ### Sample 8
 
@@ -215,8 +216,8 @@ Manual categorization: 1 good category
  * 5 false positives: Bell towers in M\u011bln\u00edk District, Chapels in M\u011bln\u00edk District, Cultural monuments in Tupadly (M\u011bln\u00edk District), Lib\u011bchovka, Castle Slav\u00edn
 
 **Method D**
-* Radius with min 5 categories:
-* Position of good categories:
+* Radius with min 5 categories: 100m
+* Position of good categories: 1
 
 ### Sample 9
 
@@ -239,7 +240,8 @@ Manual categorization: 2 good categories
  * 1 false positive: Hallival
 
 **Method D**
-* Radius with min 5 categories:
+* Radius with min 5 categories: 1000m
+* Additional good categories found: Hiking paths of Scotland, 
 * Position of good categories:
 
 ### Sample 10
