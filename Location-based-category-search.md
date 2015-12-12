@@ -36,6 +36,10 @@ Manual categorization: 5 good categories
  * 3 good categories: Side views of the Cathedral of Palermo, Cathedral (Palermo), Saint Rosalia by Vincenzo Vitaliano
  * 3 false positives: Piazza del Duomo (Palermo), Porch of the Cathedral of Palermo, Church towers of the Cathedral of Palermo
 
+**Method D**
+* Radius with min 5 categories:
+* Position of good categories:
+
 ### Sample 2
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Oberstaufen_Heiligen-Geist_church.jpg/120px-Oberstaufen_Heiligen-Geist_church.jpg)
@@ -60,6 +64,10 @@ Manual categorization: 5 good categories
  * 1 good categories: Lourdeskapelle (Oberstaufen)
  * 0 false positives
 
+**Method D**
+* Radius with min 5 categories:
+* Position of good categories:
+
 ### Sample 3
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Slipway_at_Canvey_Point_-_geograph.org.uk_-_1207137.jpg/120px-Slipway_at_Canvey_Point_-_geograph.org.uk_-_1207137.jpg)
@@ -83,6 +91,10 @@ Manual categorization: 3 good categories
  * 1 good categories: Essex
  * 1 false positives: Images from the Geograph British Isles project needing categories as of 26 February 2011
 
+**Method D**
+* Radius with min 5 categories:
+* Position of good categories:
+
 ### Sample 4
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/2008_07_15_Bird_Care_Centre_of_Castel_Tyrol_61210_D9917.jpg/120px-2008_07_15_Bird_Care_Centre_of_Castel_Tyrol_61210_D9917.jpg)
@@ -104,6 +116,10 @@ Manual categorization: 3 good categories
  * 2 good categories: Bird Care Centre of Tirol Castle, Falconry displays
  * 3 false positives: Corvus corax (captive), Coragyps atratus (captive), Parabuteo unicinctus in flight (captive)
 
+**Method D**
+* Radius with min 5 categories:
+* Position of good categories:
+
 ### Sample 5
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/MammysCupboardSept2008E.jpg/90px-MammysCupboardSept2008E.jpg)
@@ -124,6 +140,10 @@ Manual categorization: 1 good category
  * 1 good categories: Mammy's Cupboard Restaurant  
  * 0 false positives
 
+**Method D**
+* Radius with min 5 categories:
+* Position of good categories:
+
 ### Sample 6
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Tai%27an_Dai_Miao_2015.08.13_10-18-46.jpg/120px-Tai%27an_Dai_Miao_2015.08.13_10-18-46.jpg)
@@ -142,6 +162,10 @@ Manual categorization: 1 good category
 * 100m radius: [results](https://commons.wikimedia.org/wiki/Special:ApiSandbox#action=query&prop=categories|coordinates|pageprops&format=json&clshow=!hidden&coprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&codistancefrompoint=36.194855555555556%7C117.12526944444444&generator=geosearch&redirects=&ggscoord=36.194855555555556%7C117.12526944444444&ggsradius=100&ggslimit=10&ggsnamespace=6&ggsprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&ggsprimary=all)
  * 1 good categories: Dai miao
  * 0 false positives
+
+**Method D**
+* Radius with min 5 categories:
+* Position of good categories:
 
 ### Sample 7
 
@@ -164,6 +188,10 @@ Manual categorization: 3 good categories
  * 0 good categories 
  * 2 false positives: Monuments and memorials in Reykjav\u00edk, 2008 in Reykjav\u00edk
 
+**Method D**
+* Radius with min 5 categories:
+* Position of good categories:
+
 ### Sample 8
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Tupadly%2C_n%C3%A1ves.jpg/120px-Tupadly%2C_n%C3%A1ves.jpg)
@@ -184,6 +212,10 @@ Manual categorization: 1 good category
  * 1 good categories: Tupadly (M\u011bln\u00edk District) 
  * 5 false positives: Bell towers in M\u011bln\u00edk District, Chapels in M\u011bln\u00edk District, Cultural monuments in Tupadly (M\u011bln\u00edk District), Lib\u011bchovka, Castle Slav\u00edn
 
+**Method D**
+* Radius with min 5 categories:
+* Position of good categories:
+
 ### Sample 9
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Allt_Mor_na_h-Uamha_-_geograph.org.uk_-_411143.jpg/120px-Allt_Mor_na_h-Uamha_-_geograph.org.uk_-_411143.jpg)
@@ -203,6 +235,10 @@ Manual categorization: 2 good categories
 * 100m radius: [results](https://commons.wikimedia.org/wiki/Special:ApiSandbox#action=query&prop=categories|coordinates|pageprops&format=json&clshow=!hidden&coprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&codistancefrompoint=56.995075%7C-6.2716666666666665&generator=geosearch&redirects=&ggscoord=56.995075%7C-6.2716666666666665&ggsradius=100&ggslimit=10&ggsnamespace=6&ggsprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&ggsprimary=all)
  * 1 good categories: Allt Mor na h-Uamha
  * 1 false positive: Hallival
+
+**Method D**
+* Radius with min 5 categories:
+* Position of good categories:
 
 ### Sample 10
 
@@ -225,6 +261,10 @@ Manual categorization: 3 good categories
 * 100m radius: [results](https://commons.wikimedia.org/wiki/Special:ApiSandbox#action=query&prop=categories|coordinates|pageprops&format=json&clshow=!hidden&coprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&codistancefrompoint=49.27066666666666%7C14.073769444444444&generator=geosearch&redirects=&ggscoord=49.27066666666666%7C14.073769444444444&ggsradius=100&ggslimit=10&ggsnamespace=6&ggsprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&ggsprimary=all)
  * 2 good categories: Horn\u00ed tvrz (Kest\u0159any), Tvrze
  * 0 false positives
+
+**Method D**
+* Radius with min 5 categories:
+* Position of good categories:
 
 
 ### WikiData results
