@@ -132,6 +132,9 @@ Manual categorization: 3 good categories
 * Radius with min 5 categories: 100m
 * Position of good categories: 1, 1 (all categories have similar distance. maybe taken by 1 person?)
 
+**10k radius**
+* Same results as Method D - [link](https://commons.wikimedia.org/wiki/Special:ApiSandbox#action=query&prop=categories|coordinates|pageprops&format=json&clshow=!hidden&coprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&codistancefrompoint=46.69373611111111%7C11.144066666666665&generator=geosearch&redirects=&ggscoord=46.69373611111111%7C11.144066666666665&ggsradius=10000&ggslimit=10&ggsnamespace=6&ggsprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&ggsprimary=all)
+
 ### Sample 5
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/MammysCupboardSept2008E.jpg/90px-MammysCupboardSept2008E.jpg)
@@ -156,6 +159,9 @@ Manual categorization: 1 good category
 * Radius with min 5 categories: does not exist, increased until received error (ggsradius may not be over 10000 (set to 100000) for users)
 * Position of good categories: 1
 
+**10k radius**
+* Same results as Method D - [link](https://commons.wikimedia.org/wiki/Special:ApiSandbox#action=query&prop=categories|coordinates|pageprops&format=json&clshow=!hidden&coprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&codistancefrompoint=31.478055555555553%7C-91.3713611111111&generator=geosearch&redirects=&ggscoord=31.478055555555553%7C-91.3713611111111&ggsradius=10000&ggslimit=10&ggsnamespace=6&ggsprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&ggsprimary=all)
+
 ### Sample 6
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Tai%27an_Dai_Miao_2015.08.13_10-18-46.jpg/120px-Tai%27an_Dai_Miao_2015.08.13_10-18-46.jpg)
@@ -178,6 +184,9 @@ Manual categorization: 1 good category
 **Method D**
 * Radius with min 5 categories: nonexistent (ggsradius may not be over 10000 (set to 100000) for users)
 * Position of good categories: 1
+
+**10k radius**
+* Same results as Method D - [link](https://commons.wikimedia.org/wiki/Special:ApiSandbox#action=query&prop=categories|coordinates|pageprops&format=json&clshow=!hidden&coprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&codistancefrompoint=36.194855555555556%7C117.12526944444444&generator=geosearch&redirects=&ggscoord=36.194855555555556%7C117.12526944444444&ggsradius=10000&ggslimit=10&ggsnamespace=6&ggsprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&ggsprimary=all)
 
 ### Sample 7
 
