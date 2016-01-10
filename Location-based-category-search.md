@@ -214,6 +214,9 @@ Manual categorization: 3 good categories
 * Additional good categories found: Reykjavik harbour
 * Position of good categories: 4
 
+**10k radius**
+* Same results as Method D - [link](https://commons.wikimedia.org/wiki/Special:ApiSandbox#action=query&prop=categories|coordinates|pageprops&format=json&clshow=!hidden&coprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&codistancefrompoint=64.15007777777778%7C-21.93883888888889&generator=geosearch&redirects=&ggscoord=64.15007777777778%7C-21.93883888888889&ggsradius=10000&ggslimit=10&ggsnamespace=6&ggsprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&ggsprimary=all)
+
 ### Sample 8
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Tupadly%2C_n%C3%A1ves.jpg/120px-Tupadly%2C_n%C3%A1ves.jpg)
@@ -237,6 +240,9 @@ Manual categorization: 1 good category
 **Method D**
 * Radius with min 5 categories: 100m
 * Position of good categories: 1
+
+**10k radius**
+* Same results as method D - [link](https://commons.wikimedia.org/wiki/Special:ApiSandbox#action=query&prop=categories|coordinates|pageprops&format=json&clshow=!hidden&coprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&codistancefrompoint=50.44222499999999%7C14.473286111111111&generator=geosearch&redirects=&ggscoord=50.44222499999999%7C14.473286111111111&ggsradius=10000&ggslimit=10&ggsnamespace=6&ggsprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&ggsprimary=all)
 
 ### Sample 9
 
@@ -263,6 +269,9 @@ Manual categorization: 2 good categories
 * Additional good categories found: Hiking paths of Scotland
 * Position of good categories: 1, 4
 
+**10k radius**
+* Same results as Method D - [link](https://commons.wikimedia.org/wiki/Special:ApiSandbox#action=query&prop=categories|coordinates|pageprops&format=json&clshow=!hidden&coprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&codistancefrompoint=56.995075%7C-6.2716666666666665&generator=geosearch&redirects=&ggscoord=56.995075%7C-6.2716666666666665&ggsradius=10000&ggslimit=10&ggsnamespace=6&ggsprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&ggsprimary=all)
+
 ### Sample 10
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Kest%C5%99any_-_Horn%C3%AD_tvrz_%288%29.jpg/120px-Kest%C5%99any_-_Horn%C3%AD_tvrz_%288%29.jpg)
@@ -288,6 +297,9 @@ Manual categorization: 3 good categories
 **Method D**
 * Radius with min 5 categories:  nonexistent (ggsradius may not be over 10000 (set to 100000) for users)
 * Position of good categories:
+
+**10k radius**
+* Same results as Method D - [link](https://commons.wikimedia.org/wiki/Special:ApiSandbox#action=query&prop=categories|coordinates|pageprops&format=json&clshow=!hidden&coprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&codistancefrompoint=49.27066666666666%7C14.073769444444444&generator=geosearch&redirects=&ggscoord=49.27066666666666%7C14.073769444444444&ggsradius=10000&ggslimit=10&ggsnamespace=6&ggsprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&ggsprimary=all)
 
 
 ### WikiData results
