@@ -40,6 +40,9 @@ Manual categorization: 5 good categories
 * Radius with min 5 categories: 100m
 * Position of good categories: 1, 3, 4
 
+**10k radius**
+* Same results as method D - [link](https://commons.wikimedia.org/wiki/Special:ApiSandbox#action=query&prop=categories|coordinates|pageprops&format=json&clshow=!hidden&coprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&codistancefrompoint=38.11386944444445%7C13.356263888888888&generator=geosearch&redirects=&ggscoord=38.11386944444445%7C13.356263888888888&ggsradius=10000&ggslimit=10&ggsnamespace=6&ggsprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&ggsprimary=all)
+
 ### Sample 2
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Oberstaufen_Heiligen-Geist_church.jpg/120px-Oberstaufen_Heiligen-Geist_church.jpg)
@@ -69,6 +72,9 @@ Manual categorization: 5 good categories
 * Additional good categories found: Cultural heritage monuments in Oberstaufen, Buildings in Oberstaufen, St. Peter und Paul (Oberstaufen)
 * Position of good categories: 1, 2, 4, 5
 
+**10k radius**
+* Same results as Method D - [link](https://commons.wikimedia.org/wiki/Special:ApiSandbox#action=query&prop=categories|coordinates|pageprops&format=json&clshow=!hidden&coprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&codistancefrompoint=47.554005555555555%7C10.01836388888889&generator=geosearch&redirects=&ggscoord=47.554005555555555%7C10.01836388888889&ggsradius=10000&ggslimit=10&ggsnamespace=6&ggsprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&ggsprimary=all)
+
 ### Sample 3
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Slipway_at_Canvey_Point_-_geograph.org.uk_-_1207137.jpg/120px-Slipway_at_Canvey_Point_-_geograph.org.uk_-_1207137.jpg)
@@ -96,6 +102,10 @@ Manual categorization: 3 good categories
 * Radius with min 5 categories: 1000m
 * Additional good categories found: Canvey Island
 * Position of good categories: 1, 3
+
+**10k radius**
+* Found same good categories as Method D
+* Additional categories: Leigh Beck, Yacht clubs in England, Pumping Stations in the United Kingdom - [link](https://commons.wikimedia.org/wiki/Special:ApiSandbox#action=query&prop=categories|coordinates|pageprops&format=json&clshow=!hidden&coprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&codistancefrompoint=51.520669444444444%7C0.6246583333333333&generator=geosearch&redirects=&ggscoord=51.520669444444444%7C0.6246583333333333&ggsradius=10000&ggslimit=10&ggsnamespace=6&ggsprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&ggsprimary=all)
 
 ### Sample 4
 
