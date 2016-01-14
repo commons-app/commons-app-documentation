@@ -18,10 +18,13 @@
 **Guessed categories:**
 - apartment building
   - Method A: [0 actual categories](https://commons.wikimedia.org/w/api.php?action=query&list=search&srwhat=text&srenablerewrites=1&srnamespace=14&srlimit=10&srsearch=apartment%20building)
+  - Method B: [1 actual category (Apartment_Buildings)](https://commons.wikimedia.org/w/api.php?action=opensearch&format=jsonfm&limit=10&suggest=1&search=Category:apartment%20building)
 - Residential building
   - Method A: [0 actual categories](https://commons.wikimedia.org/w/api.php?action=query&list=search&srwhat=text&srenablerewrites=1&srnamespace=14&srlimit=10&srsearch=residential%20building)
+  - Method B: [0 actual categories](https://commons.wikimedia.org/w/api.php?action=opensearch&format=jsonfm&limit=10&suggest=1&search=Category:residential%20building)
 - Four-storeys house
   - Method A: [0 actual categories](https://commons.wikimedia.org/w/api.php?action=query&list=search&srwhat=text&srenablerewrites=1&srnamespace=14&srlimit=10&srsearch=residential%20building)
+  - Method B: [0 actual categories](https://commons.wikimedia.org/w/api.php?action=opensearch&format=jsonfm&limit=10&suggest=1&search=Category:four-storeys%20house)
 
 
 
