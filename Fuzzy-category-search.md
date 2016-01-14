@@ -81,3 +81,20 @@ Page visited: https://commons.wikimedia.org/wiki/File:Chinawal-Savkheda_road.jpg
 
 Actual category:
 https://commons.wikimedia.org/wiki/Category:Roads_in_Chinawal
+
+## Sample 7
+
+Page visited: https://commons.wikimedia.org/wiki/File:Glacial_lake_of_Pe%C3%B1alara.jpg
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Glacial_lake_of_Pe%C3%B1alara.jpg/120px-Glacial_lake_of_Pe%C3%B1alara.jpg)
+
+- Penalara lake
+- mountain lakes
+- mountain lake in winter
+- Spanish lakes in winter
+
+Actual category:
+https://commons.wikimedia.org/wiki/Category:Panoramics_of_Sierra_de_Guadarrama
+https://commons.wikimedia.org/wiki/Category:Laguna_Grande_de_Pe%C3%B1alara
+https://commons.wikimedia.org/wiki/Category:Frozen_lakes_of_Spain
+https://commons.wikimedia.org/wiki/Category:Snow_in_the_Community_of_Madrid
