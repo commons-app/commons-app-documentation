@@ -129,3 +129,17 @@ Actual category:
 - https://commons.wikimedia.org/wiki/Category:Hitchin
 - https://commons.wikimedia.org/wiki/Category:Warehouses_in_England
 - https://commons.wikimedia.org/wiki/Category:Railway_related_road_vehicles_of_Great_Britain
+
+## Sample 10
+
+Page visited: https://commons.wikimedia.org/wiki/File:Sacred_Heart_Monument_02.jpg
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Sacred_Heart_Monument_02.jpg/120px-Sacred_Heart_Monument_02.jpg)
+
+- Sacred Heart monument
+- Monuments in Pila
+- Monuments in the Philippines
+
+Actual category:
+- https://commons.wikimedia.org/wiki/Category:Pila,_Laguna
+- https://commons.wikimedia.org/wiki/Category:Philippine_Cultural_Heritage_Mapping_Project_content
