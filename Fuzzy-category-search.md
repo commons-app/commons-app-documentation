@@ -11,12 +11,19 @@
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Guildford_Walk%2C_Sheffield_-_geograph.org.uk_-_1426491.jpg/120px-Guildford_Walk%2C_Sheffield_-_geograph.org.uk_-_1426491.jpg)
 
-- apartment building
-- Residential building
-- Four-storeys house
+**Actual category:** 
+- https://commons.wikimedia.org/wiki/Category:Houses_in_South_Yorkshire
+- I would argue that https://commons.wikimedia.org/wiki/Category:Apartment_buildings would apply too.
 
-Actual category: https://commons.wikimedia.org/wiki/Category:Houses_in_South_Yorkshire
-I would argue that https://commons.wikimedia.org/wiki/Category:Apartment_buildings would apply too.
+**Guessed categories:**
+- apartment building
+  - Method A: [0 actual categories](https://commons.wikimedia.org/w/api.php?action=query&list=search&srwhat=text&srenablerewrites=1&srnamespace=14&srlimit=10&srsearch=apartment%20building)
+- Residential building
+  - Method A: [0 actual categories](https://commons.wikimedia.org/w/api.php?action=query&list=search&srwhat=text&srenablerewrites=1&srnamespace=14&srlimit=10&srsearch=residential%20building)
+- Four-storeys house
+  - Method A: [0 actual categories](https://commons.wikimedia.org/w/api.php?action=query&list=search&srwhat=text&srenablerewrites=1&srnamespace=14&srlimit=10&srsearch=residential%20building)
+
+
 
 ## Sample 2
 
