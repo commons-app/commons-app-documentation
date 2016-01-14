@@ -110,6 +110,22 @@ Page visited: https://commons.wikimedia.org/wiki/File:Baba_Vida_E8.JPG
 - Old buildings in Bulgaria
 - Bulgaria fortresses
 
-Actual category:
+Actual category:  
 https://commons.wikimedia.org/wiki/Category:Baba_Vida_Fortress
 https://commons.wikimedia.org/wiki/Category:Baba_Vida_towers
+
+## Sample 9
+
+Page visited: https://commons.wikimedia.org/wiki/File:Rail_Warehouse_-_geograph.org.uk_-_142978.jpg
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Rail_Warehouse_-_geograph.org.uk_-_142978.jpg/120px-Rail_Warehouse_-_geograph.org.uk_-_142978.jpg)
+
+- Rail warehouse
+- Rail warehouses in UK
+- Victorian rail warehouse
+- Network Rail warehouse
+
+Actual category:
+- https://commons.wikimedia.org/wiki/Category:Hitchin
+- https://commons.wikimedia.org/wiki/Category:Warehouses_in_England
+- https://commons.wikimedia.org/wiki/Category:Railway_related_road_vehicles_of_Great_Britain
