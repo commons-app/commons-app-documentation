@@ -32,6 +32,10 @@
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Southdown_Power_Station_stacks.jpg/120px-Southdown_Power_Station_stacks.jpg)
 
+**Actual category:**
+- https://commons.wikimedia.org/wiki/Category:Power_plants_in_New_Zealand
+
+**Guessed categories:**
 - electricity generation in new zeland 
 - electricity generation in New Zealand
 - New Zeland power plant
@@ -43,7 +47,6 @@
 - Power plants in New-Zealand
 - Pwer plants in New Zeland
 
-Actual category: https://commons.wikimedia.org/wiki/Category:Power_plants_in_New_Zealand
 
 ## Sample 3
 
@@ -51,6 +54,12 @@ Page visited: https://commons.wikimedia.org/wiki/File:Swiss_Airbus_A320-214;_HB-
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Swiss_Airbus_A320-214%3B_HB-IJQ%40ZRH%3B08.06.2013_709bs_%288991628214%29.jpg/120px-Swiss_Airbus_A320-214%3B_HB-IJQ%40ZRH%3B08.06.2013_709bs_%288991628214%29.jpg)
 
+**Actual categories:**
+- https://commons.wikimedia.org/wiki/Category:Aircraft_of_Swiss_International_Air_Lines (only reasonable one, others probably too specific)
+- https://commons.wikimedia.org/wiki/Category:HB-IJQ_(aircraft) 
+- https://commons.wikimedia.org/wiki/Category:Airbus_A320_of_Swiss_International_Air_Lines_at_Zurich_International_Airport - https://commons.wikimedia.org/wiki/Category:2013_at_Zurich_International_Airport
+
+**Guessed categories:**
 - Swiss plane
 - Swiss airplane
 - Swiss airbus
@@ -58,7 +67,7 @@ Page visited: https://commons.wikimedia.org/wiki/File:Swiss_Airbus_A320-214;_HB-
 - airbus swiss
 - airbus A320 swiss
 
-Category that I was reasonably looking for: https://commons.wikimedia.org/wiki/Category:Aircraft_of_Swiss_International_Air_Lines Actual categories: https://commons.wikimedia.org/wiki/Category:HB-IJQ_(aircraft) , https://commons.wikimedia.org/wiki/Category:Airbus_A320_of_Swiss_International_Air_Lines_at_Zurich_International_Airport , https://commons.wikimedia.org/wiki/Category:2013_at_Zurich_International_Airport
+
 
 ## Sample 4
 
@@ -66,7 +75,13 @@ Searching for Yōichi Masuzoe, a Japanese politician
 
 - masuzoe (says `No categories matching masuzoe found`)
 
-Actual category: https://commons.wikimedia.org/wiki/Category:Yoichi_Masuzoe
+**Actual category:**
+- https://commons.wikimedia.org/wiki/Category:Yoichi_Masuzoe
+
+**Guessed category:**
+- masuzoe 
+ - Method A: [1 actual category](https://commons.wikimedia.org/w/api.php?action=query&list=search&srwhat=text&srenablerewrites=1&srnamespace=14&srlimit=10&srsearch=masuzoe)
+ - Method B: [0 actual category](https://commons.wikimedia.org/w/api.php?action=opensearch&format=jsonfm&limit=10&suggest=1&search=Category:masuzoe)
 
 ## Sample 5
 
