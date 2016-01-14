@@ -78,6 +78,7 @@ Page visited: https://commons.wikimedia.org/wiki/File:Chinawal-Savkheda_road.jpg
 - Road in India
 - Rural roads
 - Dirt road
+- road of Chinawal-Savkheda
 
 Actual category:
 https://commons.wikimedia.org/wiki/Category:Roads_in_Chinawal
