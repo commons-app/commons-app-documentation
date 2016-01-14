@@ -73,7 +73,7 @@ Actual category: https://commons.wikimedia.org/wiki/Category:Embassy_of_France_i
 
 Page visited: https://commons.wikimedia.org/wiki/File:Chinawal-Savkheda_road.jpg
 
-![](https://upload.wikimedia.org/wikipedia/commons/c/c7/Chinawal-Savkheda_road.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chinawal-Savkheda_road.jpg/90px-Chinawal-Savkheda_road.jpg)
 
 - Road in India
 - Rural roads
