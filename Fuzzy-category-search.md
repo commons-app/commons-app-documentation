@@ -98,3 +98,18 @@ https://commons.wikimedia.org/wiki/Category:Panoramics_of_Sierra_de_Guadarrama
 https://commons.wikimedia.org/wiki/Category:Laguna_Grande_de_Pe%C3%B1alara
 https://commons.wikimedia.org/wiki/Category:Frozen_lakes_of_Spain
 https://commons.wikimedia.org/wiki/Category:Snow_in_the_Community_of_Madrid
+
+## Sample 8
+
+Page visited: https://commons.wikimedia.org/wiki/File:Baba_Vida_E8.JPG
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Baba_Vida_E8.JPG/120px-Baba_Vida_E8.JPG)
+
+- Baba Vida fortress
+- Baba Vida architecture
+- Old buildings in Bulgaria
+- Bulgaria fortresses
+
+Actual category:
+https://commons.wikimedia.org/wiki/Category:Baba_Vida_Fortress
+https://commons.wikimedia.org/wiki/Category:Baba_Vida_towers
