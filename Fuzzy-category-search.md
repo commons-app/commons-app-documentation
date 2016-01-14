@@ -68,3 +68,16 @@ https://commons.wikimedia.org/wiki/File:Flowers_at_Tokyo_embassy_after_Paris_Att
 - Embassy of France in Japan
 
 Actual category: https://commons.wikimedia.org/wiki/Category:Embassy_of_France_in_Tokyo
+
+## Sample 6
+
+Page visited: https://commons.wikimedia.org/wiki/File:Chinawal-Savkheda_road.jpg
+
+![](https://upload.wikimedia.org/wikipedia/commons/c/c7/Chinawal-Savkheda_road.jpg)
+
+- Road in India
+- Rural roads
+- Dirt road
+
+Actual category:
+https://commons.wikimedia.org/wiki/Category:Roads_in_Chinawal
