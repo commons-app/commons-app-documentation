@@ -37,7 +37,7 @@
 
 **Guessed categories:**
 - electricity generation in new zeland
- - A: [0 actual cats](https://commons.wikimedia.org/w/api.php?action=query&list=search&srwhat=text&srenablerewrites=1&srnamespace=14&srlimit=10&srsearch=electricity%20generation%20in%20new%20zeland)
+ - A: [0](https://commons.wikimedia.org/w/api.php?action=query&list=search&srwhat=text&srenablerewrites=1&srnamespace=14&srlimit=10&srsearch=electricity%20generation%20in%20new%20zeland)
  - B: [0](https://commons.wikimedia.org/w/api.php?action=opensearch&format=jsonfm&limit=10&suggest=1&search=Category:electricity%20generation%20in%20new%20zeland)
 - electricity generation in New Zealand
  - A: [0](https://commons.wikimedia.org/w/api.php?action=query&list=search&srwhat=text&srenablerewrites=1&srnamespace=14&srlimit=10&srsearch=electricity%20generation%20in%20New%20Zealand)
@@ -55,9 +55,11 @@
  - A: [0](https://commons.wikimedia.org/w/api.php?action=query&list=search&srwhat=text&srenablerewrites=1&srnamespace=14&srlimit=10&srsearch=Powerplants%20of%20New%20Zealand)
  - B: [0](https://commons.wikimedia.org/w/api.php?action=opensearch&format=jsonfm&limit=10&suggest=1&search=Category:Powerplants%20of%20New%20Zealand)
 - power plant in New Zealand
- - A: [1](https://commons.wikimedia.org/w/api.php?action=query&list=search&srwhat=text&srenablerewrites=1&srnamespace=14&srlimit=10&srsearch=power%20plant%20in%20New%20Zealand) 
+ - A: [1](https://commons.wikimedia.org/w/api.php?action=query&list=search&srwhat=text&srenablerewrites=1&srnamespace=14&srlimit=10&srsearch=power%20plant%20in%20New%20Zealand) - Power plants in New Zealand
  - B: [0](https://commons.wikimedia.org/w/api.php?action=opensearch&format=jsonfm&limit=10&suggest=1&search=Category:power%20plant%20in%20New%20Zealand)
 - Power plants in New Zealand
+ - A: [1](https://commons.wikimedia.org/w/api.php?action=query&list=search&srwhat=text&srenablerewrites=1&srnamespace=14&srlimit=10&srsearch=Power%20plants%20in%20New%20Zealand) - Power plants in New Zealand
+ - B: [1](https://commons.wikimedia.org/w/api.php?action=opensearch&format=jsonfm&limit=10&suggest=1&search=Category:Power%20plants%20in%20New%20Zealand) - Power plants in New Zealand
 - Power plant in New Zealand
 - Power plants in New-Zealand
 - Pwer plants in New Zeland
