@@ -36,8 +36,12 @@
 - https://commons.wikimedia.org/wiki/Category:Power_plants_in_New_Zealand
 
 **Guessed categories:**
-- electricity generation in new zeland 
+- electricity generation in new zeland
+ - A: [0 actual cats](https://commons.wikimedia.org/w/api.php?action=query&list=search&srwhat=text&srenablerewrites=1&srnamespace=14&srlimit=10&srsearch=electricity%20generation%20in%20new%20zeland)
+ - B: [0](https://commons.wikimedia.org/w/api.php?action=opensearch&format=jsonfm&limit=10&suggest=1&search=Category:electricity%20generation%20in%20new%20zeland)
 - electricity generation in New Zealand
+ - A: [0](https://commons.wikimedia.org/w/api.php?action=query&list=search&srwhat=text&srenablerewrites=1&srnamespace=14&srlimit=10&srsearch=electricity%20generation%20in%20New%20Zealand)
+ - B: [0](https://commons.wikimedia.org/w/api.php?action=opensearch&format=jsonfm&limit=10&suggest=1&search=Category:electricity%20generation%20in%20New%20Zealand)
 - New Zeland power plant
 - Power plant of New Zealand
 - Power plants of New Zealand
