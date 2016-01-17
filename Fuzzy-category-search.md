@@ -90,9 +90,7 @@ Page visited: https://commons.wikimedia.org/wiki/File:Swiss_Airbus_A320-214;_HB-
  - A: [0](https://commons.wikimedia.org/w/api.php?action=query&list=search&srwhat=text&srenablerewrites=1&srnamespace=14&srlimit=10&srsearch=Swiss%20airplane)
  - B: [0](https://commons.wikimedia.org/w/api.php?action=opensearch&format=jsonfm&limit=10&suggest=1&search=Category:Swiss%20airplane)
 - Swiss airbus
- - A: [2](https://commons.wikimedia.org/w/api.php?action=query&list=search&srwhat=text&srenablerewrites=1&srnamespace=14&srlimit=10&srsearch=Swiss%20airbus)
-  - Category:Airbus aircraft (Swiss International Air Lines)
-  - Category:Airbus A320 (Swiss International Air Lines)
+ - A: [2](https://commons.wikimedia.org/w/api.php?action=query&list=search&srwhat=text&srenablerewrites=1&srnamespace=14&srlimit=10&srsearch=Swiss%20airbus) - Category:Airbus aircraft (Swiss International Air Lines), Category:Airbus A320 (Swiss International Air Lines)
  - B: [0](https://commons.wikimedia.org/w/api.php?action=opensearch&format=jsonfm&limit=10&suggest=1&search=Category:Swiss%20airbus)
 - Airbus Swiss
  - A: [2](https://commons.wikimedia.org/w/api.php?action=query&list=search&srwhat=text&srenablerewrites=1&srnamespace=14&srlimit=10&srsearch=Airbus%20Swiss) - Category:Airbus aircraft (Swiss International Air Lines), Category:Airbus A320 (Swiss International Air Lines)
