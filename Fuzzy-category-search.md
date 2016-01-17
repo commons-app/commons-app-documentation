@@ -122,12 +122,18 @@ Searching for Yōichi Masuzoe, a Japanese politician
 
 https://commons.wikimedia.org/wiki/File:Flowers_at_Tokyo_embassy_after_Paris_Attacks.jpg
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flowers_at_Tokyo_embassy_after_Paris_Attacks.jpg/120px-Flowers_at_Tokyo_embassy_after_Paris_Attacks.jpg)
+
+**Actual category:**
+- https://commons.wikimedia.org/wiki/Category:Embassy_of_France_in_Tokyo
+
+**Guessed categories:**
 - French embassy in Tokyo
 - French embassy in Japan
 - Embassy of France in Tokyo
 - Embassy of France in Japan
 
-Actual category: https://commons.wikimedia.org/wiki/Category:Embassy_of_France_in_Tokyo
+
 
 ## Sample 6
 
@@ -135,13 +141,16 @@ Page visited: https://commons.wikimedia.org/wiki/File:Chinawal-Savkheda_road.jpg
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chinawal-Savkheda_road.jpg/90px-Chinawal-Savkheda_road.jpg)
 
+**Actual category:**
+- https://commons.wikimedia.org/wiki/Category:Roads_in_Chinawal
+
+**Guessed categories:**
 - Road in India
 - Rural roads
 - Dirt road
 - road of Chinawal-Savkheda
 
-Actual category:
-https://commons.wikimedia.org/wiki/Category:Roads_in_Chinawal
+
 
 ## Sample 7
 
@@ -149,16 +158,19 @@ Page visited: https://commons.wikimedia.org/wiki/File:Glacial_lake_of_Pe%C3%B1al
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Glacial_lake_of_Pe%C3%B1alara.jpg/120px-Glacial_lake_of_Pe%C3%B1alara.jpg)
 
+**Actual category:**
+https://commons.wikimedia.org/wiki/Category:Panoramics_of_Sierra_de_Guadarrama
+https://commons.wikimedia.org/wiki/Category:Laguna_Grande_de_Pe%C3%B1alara
+https://commons.wikimedia.org/wiki/Category:Frozen_lakes_of_Spain
+https://commons.wikimedia.org/wiki/Category:Snow_in_the_Community_of_Madrid
+
+**Guessed categories:**
 - Penalara lake
 - mountain lakes
 - mountain lake in winter
 - Spanish lakes in winter
 
-Actual category:
-https://commons.wikimedia.org/wiki/Category:Panoramics_of_Sierra_de_Guadarrama
-https://commons.wikimedia.org/wiki/Category:Laguna_Grande_de_Pe%C3%B1alara
-https://commons.wikimedia.org/wiki/Category:Frozen_lakes_of_Spain
-https://commons.wikimedia.org/wiki/Category:Snow_in_the_Community_of_Madrid
+
 
 ## Sample 8
 
@@ -166,14 +178,17 @@ Page visited: https://commons.wikimedia.org/wiki/File:Baba_Vida_E8.JPG
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Baba_Vida_E8.JPG/120px-Baba_Vida_E8.JPG)
 
+**Actual category:**  
+- https://commons.wikimedia.org/wiki/Category:Baba_Vida_Fortress
+- https://commons.wikimedia.org/wiki/Category:Baba_Vida_towers
+
+**Guessed categories:**
 - Baba Vida fortress
 - Baba Vida architecture
 - Old buildings in Bulgaria
 - Bulgaria fortresses
 
-Actual category:  
-https://commons.wikimedia.org/wiki/Category:Baba_Vida_Fortress
-https://commons.wikimedia.org/wiki/Category:Baba_Vida_towers
+
 
 ## Sample 9
 
@@ -181,15 +196,17 @@ Page visited: https://commons.wikimedia.org/wiki/File:Rail_Warehouse_-_geograph.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Rail_Warehouse_-_geograph.org.uk_-_142978.jpg/120px-Rail_Warehouse_-_geograph.org.uk_-_142978.jpg)
 
+**Actual category:**
+- https://commons.wikimedia.org/wiki/Category:Hitchin
+- https://commons.wikimedia.org/wiki/Category:Warehouses_in_England
+- https://commons.wikimedia.org/wiki/Category:Railway_related_road_vehicles_of_Great_Britain
+
+**Guessed categories:**
 - Rail warehouse
 - Rail warehouses in UK
 - Victorian rail warehouse
 - Network Rail warehouse
 
-Actual category:
-- https://commons.wikimedia.org/wiki/Category:Hitchin
-- https://commons.wikimedia.org/wiki/Category:Warehouses_in_England
-- https://commons.wikimedia.org/wiki/Category:Railway_related_road_vehicles_of_Great_Britain
 
 ## Sample 10
 
@@ -197,10 +214,11 @@ Page visited: https://commons.wikimedia.org/wiki/File:Sacred_Heart_Monument_02.j
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Sacred_Heart_Monument_02.jpg/120px-Sacred_Heart_Monument_02.jpg)
 
+**Actual category:**
+- https://commons.wikimedia.org/wiki/Category:Pila,_Laguna
+- https://commons.wikimedia.org/wiki/Category:Philippine_Cultural_Heritage_Mapping_Project_content
+
+**Guessed categories:**
 - Sacred Heart monument
 - Monuments in Pila
 - Monuments in the Philippines
-
-Actual category:
-- https://commons.wikimedia.org/wiki/Category:Pila,_Laguna
-- https://commons.wikimedia.org/wiki/Category:Philippine_Cultural_Heritage_Mapping_Project_content
