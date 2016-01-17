@@ -129,9 +129,17 @@ https://commons.wikimedia.org/wiki/File:Flowers_at_Tokyo_embassy_after_Paris_Att
 
 **Guessed categories:**
 - French embassy in Tokyo
+ - A: [1](https://commons.wikimedia.org/w/api.php?action=query&list=search&srwhat=text&srenablerewrites=1&srnamespace=14&srlimit=10&srsearch=French%20embassy%20in%20Tokyo) - Category:Embassy of France in Tokyo
+ - B: [0](https://commons.wikimedia.org/w/api.php?action=opensearch&format=jsonfm&limit=10&suggest=1&search=Category:French%20embassy%20in%20Tokyo)
 - French embassy in Japan
+ - A: [1](https://commons.wikimedia.org/w/api.php?action=query&list=search&srwhat=text&srenablerewrites=1&srnamespace=14&srlimit=10&srsearch=French%20embassy%20in%20Japan) - Category:Embassy of France in Tokyo
+ - B: [0](https://commons.wikimedia.org/w/api.php?action=opensearch&format=jsonfm&limit=10&suggest=1&search=Category:French%20embassy%20in%20Japan)
 - Embassy of France in Tokyo
+ - A: [1](https://commons.wikimedia.org/w/api.php?action=query&list=search&srwhat=text&srenablerewrites=1&srnamespace=14&srlimit=10&srsearch=Embassy%20of%20France%20in%20Tokyo) - Category:Embassy of France in Tokyo
+ - B: [1](https://commons.wikimedia.org/w/api.php?action=opensearch&format=jsonfm&limit=10&suggest=1&search=Category:Embassy%20of%20France%20in%20Tokyo) - Category:Embassy of France in Tokyo
 - Embassy of France in Japan
+ - A: [1](https://commons.wikimedia.org/w/api.php?action=query&list=search&srwhat=text&srenablerewrites=1&srnamespace=14&srlimit=10&srsearch=Embassy%20of%20France%20in%20Japan) - Category:Embassy of France in Tokyo
+ - B: [0](https://commons.wikimedia.org/w/api.php?action=opensearch&format=jsonfm&limit=10&suggest=1&search=Category:Embassy%20of%20France%20in%20Japan)
 
 
 
