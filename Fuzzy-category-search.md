@@ -115,8 +115,8 @@ Searching for Yōichi Masuzoe, a Japanese politician
 
 **Guessed category:**
 - masuzoe 
- - Method A: [1 actual category](https://commons.wikimedia.org/w/api.php?action=query&list=search&srwhat=text&srenablerewrites=1&srnamespace=14&srlimit=10&srsearch=masuzoe)
- - Method B: [0 actual category](https://commons.wikimedia.org/w/api.php?action=opensearch&format=jsonfm&limit=10&suggest=1&search=Category:masuzoe)
+ - A: [1](https://commons.wikimedia.org/w/api.php?action=query&list=search&srwhat=text&srenablerewrites=1&srnamespace=14&srlimit=10&srsearch=masuzoe)
+ - B: [0](https://commons.wikimedia.org/w/api.php?action=opensearch&format=jsonfm&limit=10&suggest=1&search=Category:masuzoe)
 
 ## Sample 5
 
