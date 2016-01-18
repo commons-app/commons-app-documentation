@@ -182,10 +182,17 @@ https://commons.wikimedia.org/wiki/Category:Snow_in_the_Community_of_Madrid
 
 **Guessed categories:**
 - Penalara lake
+ - A: [1](https://commons.wikimedia.org/w/api.php?action=query&list=search&srwhat=text&srenablerewrites=1&srnamespace=14&srlimit=10&srsearch=Penalara%20lake) - Category:Laguna Grande de Pe\u00f1alara
+ - B: [0](https://commons.wikimedia.org/w/api.php?action=opensearch&format=jsonfm&limit=10&suggest=1&search=Category:Penalara%20lake)
 - mountain lakes
+ - A: [1](https://commons.wikimedia.org/w/api.php?action=query&list=search&srwhat=text&srenablerewrites=1&srnamespace=14&srlimit=10&srsearch=mountain%20lakes) - Category:Mountain lakes
+ - B: [1](https://commons.wikimedia.org/w/api.php?action=opensearch&format=jsonfm&limit=10&suggest=1&search=Category:mountain%20lakes) - Category:Mountain lakes
 - mountain lake in winter
+ - A: [0](https://commons.wikimedia.org/w/api.php?action=query&list=search&srwhat=text&srenablerewrites=1&srnamespace=14&srlimit=10&srsearch=mountain%20lake%20in%20winter)
+ - B: [0](https://commons.wikimedia.org/w/api.php?action=opensearch&format=jsonfm&limit=10&suggest=1&search=Category:mountain%20lake%20in%20winter)
 - Spanish lakes in winter
-
+ - A: [0](https://commons.wikimedia.org/w/api.php?action=query&list=search&srwhat=text&srenablerewrites=1&srnamespace=14&srlimit=10&srsearch=Spanish%20lakes%20in%20winter)
+ - B: [0](https://commons.wikimedia.org/w/api.php?action=opensearch&format=jsonfm&limit=10&suggest=1&search=Category:mountain%20lake%20in%20winter)
 
 
 ## Sample 8
