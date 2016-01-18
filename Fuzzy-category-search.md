@@ -207,9 +207,17 @@ Page visited: https://commons.wikimedia.org/wiki/File:Baba_Vida_E8.JPG
 
 **Guessed categories:**
 - Baba Vida fortress
+ - A: [2](https://commons.wikimedia.org/w/api.php?action=query&list=search&srwhat=text&srenablerewrites=1&srnamespace=14&srlimit=10&srsearch=Baba%20Vida%20fortress) - Category:Baba Vida Fortress, Category:Baba Vida towers
+ - B: [1](https://commons.wikimedia.org/w/api.php?action=opensearch&format=jsonfm&limit=10&suggest=1&search=Category:Baba%20Vida%20fortress) - Category:Baba_Vida_Fortress
 - Baba Vida architecture
+ - A: [0](https://commons.wikimedia.org/w/api.php?action=query&list=search&srwhat=text&srenablerewrites=1&srnamespace=14&srlimit=10&srsearch=Baba%20Vida%20architecture)
+ - B: [0](https://commons.wikimedia.org/w/api.php?action=opensearch&format=jsonfm&limit=10&suggest=1&search=Category:Baba%20Vida%20architecture)
 - Old buildings in Bulgaria
-- Bulgaria fortresses
+ - A: [0](https://commons.wikimedia.org/w/api.php?action=query&list=search&srwhat=text&srenablerewrites=1&srnamespace=14&srlimit=10&srsearch=Old%20buildings%20in%20Bulgaria) 
+ - B: [0](https://commons.wikimedia.org/w/api.php?action=opensearch&format=jsonfm&limit=10&suggest=1&search=Category:Old%20buildings%20in%20Bulgaria)
+- Bulgaria fortresses 
+ - A: [1](https://commons.wikimedia.org/w/api.php?action=query&list=search&srwhat=text&srenablerewrites=1&srnamespace=14&srlimit=10&srsearch=Bulgaria%20fortresses) - Category:Fortresses in Bulgaria
+ - B: [0](https://commons.wikimedia.org/w/api.php?action=opensearch&format=jsonfm&limit=10&suggest=1&search=Category:Bulgaria%20fortresses)
 
 
 
