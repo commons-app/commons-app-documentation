@@ -234,9 +234,17 @@ Page visited: https://commons.wikimedia.org/wiki/File:Rail_Warehouse_-_geograph.
 
 **Guessed categories:**
 - Rail warehouse
+ - A: [0](https://commons.wikimedia.org/w/api.php?action=query&list=search&srwhat=text&srenablerewrites=1&srnamespace=14&srlimit=10&srsearch=Rail%20warehouse)
+ - B: [0](https://commons.wikimedia.org/w/api.php?action=opensearch&format=jsonfm&limit=10&suggest=1&search=Category:Rail%20warehouse)
 - Rail warehouses in UK
+ - A: [0](https://commons.wikimedia.org/w/api.php?action=query&list=search&srwhat=text&srenablerewrites=1&srnamespace=14&srlimit=10&srsearch=Rail%20warehouses%20in%20UK)
+ - B: [0](https://commons.wikimedia.org/w/api.php?action=opensearch&format=jsonfm&limit=10&suggest=1&search=Category:Rail%20warehouses%20in%20UK)
 - Victorian rail warehouse
+ - A: [0](https://commons.wikimedia.org/w/api.php?action=query&list=search&srwhat=text&srenablerewrites=1&srnamespace=14&srlimit=10&srsearch=Victorian%20rail%20warehouse)
+ - B: [0](https://commons.wikimedia.org/w/api.php?action=opensearch&format=jsonfm&limit=10&suggest=1&search=Category:Victorian%20rail%20warehouse)
 - Network Rail warehouse
+ - A: [0](https://commons.wikimedia.org/w/api.php?action=query&list=search&srwhat=text&srenablerewrites=1&srnamespace=14&srlimit=10&srsearch=Network%20Rail%20warehouse)
+ - B: [0](https://commons.wikimedia.org/w/api.php?action=opensearch&format=jsonfm&limit=10&suggest=1&search=Category:Network%20Rail%20warehouse)
 
 
 ## Sample 10
