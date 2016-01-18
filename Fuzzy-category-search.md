@@ -258,6 +258,12 @@ Page visited: https://commons.wikimedia.org/wiki/File:Sacred_Heart_Monument_02.j
 - https://commons.wikimedia.org/wiki/Category:Philippine_Cultural_Heritage_Mapping_Project_content
 
 **Guessed categories:**
-- Sacred Heart monument
+- Sacred Heart monument 
+ - A: [0](https://commons.wikimedia.org/w/api.php?action=query&list=search&srwhat=text&srenablerewrites=1&srnamespace=14&srlimit=10&srsearch=Sacred%20Heart%20monument)
+ - B: [0](https://commons.wikimedia.org/w/api.php?action=opensearch&format=jsonfm&limit=10&suggest=1&search=Category:Sacred%20Heart%20monument)
 - Monuments in Pila
+ - A: [1](https://commons.wikimedia.org/w/api.php?action=query&list=search&srwhat=text&srenablerewrites=1&srnamespace=14&srlimit=10&srsearch=Monuments%20in%20Pila) - Category:Cultural heritage monuments in Pi\u0142a
+ - B: [0](https://commons.wikimedia.org/w/api.php?action=opensearch&format=jsonfm&limit=10&suggest=1&search=Category:Monuments%20in%20Pila)
 - Monuments in the Philippines
+ - A: [2](https://commons.wikimedia.org/w/api.php?action=query&list=search&srwhat=text&srenablerewrites=1&srnamespace=14&srlimit=10&srsearch=Monuments%20in%20the%20Philippines) - Category:Monuments in the Philippines, Category:Cultural heritage monuments in the Philippines by region, 
+ - B: [1](https://commons.wikimedia.org/w/api.php?action=opensearch&format=jsonfm&limit=10&suggest=1&search=Category:Monuments%20in%20the%20Philippines) - Category:Monuments in the Philippines
