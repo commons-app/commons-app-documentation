@@ -81,6 +81,8 @@ Page visited: https://commons.wikimedia.org/wiki/File:Swiss_Airbus_A320-214;_HB-
 - https://commons.wikimedia.org/wiki/Category:Aircraft_of_Swiss_International_Air_Lines (only reasonable one, others probably too specific)
 - https://commons.wikimedia.org/wiki/Category:HB-IJQ_(aircraft) 
 - https://commons.wikimedia.org/wiki/Category:Airbus_A320_of_Swiss_International_Air_Lines_at_Zurich_International_Airport - https://commons.wikimedia.org/wiki/Category:2013_at_Zurich_International_Airport
+- Category:Airbus aircraft (Swiss International Air Lines) found by Method A
+- Category:Airbus A320 (Swiss International Air Lines) found by Method A
 
 **Guessed categories:**
 - Swiss plane
@@ -175,10 +177,11 @@ Page visited: https://commons.wikimedia.org/wiki/File:Glacial_lake_of_Pe%C3%B1al
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Glacial_lake_of_Pe%C3%B1alara.jpg/120px-Glacial_lake_of_Pe%C3%B1alara.jpg)
 
 **Actual category:**
-https://commons.wikimedia.org/wiki/Category:Panoramics_of_Sierra_de_Guadarrama
-https://commons.wikimedia.org/wiki/Category:Laguna_Grande_de_Pe%C3%B1alara
-https://commons.wikimedia.org/wiki/Category:Frozen_lakes_of_Spain
-https://commons.wikimedia.org/wiki/Category:Snow_in_the_Community_of_Madrid
+- https://commons.wikimedia.org/wiki/Category:Panoramics_of_Sierra_de_Guadarrama
+- https://commons.wikimedia.org/wiki/Category:Laguna_Grande_de_Pe%C3%B1alara
+- https://commons.wikimedia.org/wiki/Category:Frozen_lakes_of_Spain
+- https://commons.wikimedia.org/wiki/Category:Snow_in_the_Community_of_Madrid
+- Category:Mountain lakes found by Method A and B
 
 **Guessed categories:**
 - Penalara lake
@@ -204,6 +207,7 @@ Page visited: https://commons.wikimedia.org/wiki/File:Baba_Vida_E8.JPG
 **Actual category:**  
 - https://commons.wikimedia.org/wiki/Category:Baba_Vida_Fortress
 - https://commons.wikimedia.org/wiki/Category:Baba_Vida_towers
+- Category:Fortresses in Bulgaria found by Method A
 
 **Guessed categories:**
 - Baba Vida fortress
@@ -256,6 +260,9 @@ Page visited: https://commons.wikimedia.org/wiki/File:Sacred_Heart_Monument_02.j
 **Actual category:**
 - https://commons.wikimedia.org/wiki/Category:Pila,_Laguna
 - https://commons.wikimedia.org/wiki/Category:Philippine_Cultural_Heritage_Mapping_Project_content
+- Category:Cultural heritage monuments in Pi\u0142a found by Method A
+- Category:Monuments in the Philippines found by Method A
+- Category:Cultural heritage monuments in the Philippines by region found by Method A
 
 **Guessed categories:**
 - Sacred Heart monument 
