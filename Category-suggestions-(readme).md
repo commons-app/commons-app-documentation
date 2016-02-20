@@ -45,11 +45,14 @@ https://commons.wikimedia.org/w/api.php?action=query&prop=categories%7Ccoordinat
 
 **Rationale:** Prior to this, category search was done solely by prefix search. E.g. if you searched for 'latte', you would only get categories that start with 'latte', which excludes many potentially relevant categories (i.e. 'iced latte'). Prefix search is useful when you are certain of what the exact name of the category you want is, but not so useful if you are unsure. So we wanted to retain prefix search, but also provide additional suggestions for relevant categories that do not share that prefix.
 
-**Choice of API:** 
+**Choice of API:** Documented at https://github.com/nicolas-raoul/apps-android-commons/wiki/Fuzzy-category-search . We settled on 'Method A', which queries the Commons MediaWiki API for pages of type "Category" (srnamespace=14), maximum 10 results (srlimit=10).
 
 **Sample request:**
 
 Typing "Latte" into search box
+
+URL sent to API:  
+https://commons.wikimedia.org/w/api.php?action=query&list=search&srwhat=text&srenablerewrites=1&srnamespace=14&srlimit=10&srsearch=latte
 
 **Sample response:**
 
