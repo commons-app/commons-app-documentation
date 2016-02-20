@@ -41,11 +41,11 @@ https://commons.wikimedia.org/w/api.php?action=query&prop=categories%7Ccoordinat
 ***
 
 
-**3. Category search (when typing in the search field) has been made more flexible, whereas previously this was done solely by prefix search. E.g. now searching for 'latte' should be able to return 'iced latte'.**
+**3. Category search (when typing in the search field) has been made more flexible**
 
-**Rationale:** 
+**Rationale:** Prior to this, category search was done solely by prefix search. E.g. if you searched for 'latte', you would only get categories that start with 'latte', which excludes many potentially relevant categories (i.e. 'iced latte'). Prefix search is useful when you are certain of what the exact name of the category you want is, but not so useful if you are unsure. So we wanted to retain prefix search, but also provide additional suggestions for relevant categories that do not share that prefix.
 
-**Choice of API:**
+**Choice of API:** 
 
 **Sample request:**
 
