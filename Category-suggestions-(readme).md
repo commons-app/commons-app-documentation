@@ -36,6 +36,8 @@ https://commons.wikimedia.org/w/api.php?action=query&prop=categories%7Ccoordinat
 **Sample response:**
 
 
+
+
 ***
 
 
@@ -47,4 +49,11 @@ https://commons.wikimedia.org/w/api.php?action=query&prop=categories%7Ccoordinat
 
 **Sample request:**
 
+Typing "Latte" into search box
+
 **Sample response:**
+
+
+    Method A result: [Latte, Iced latte, Latte (Construction navale), Daihatsu Move Latte, Hearts in latte art, Latte macchiato, Latte Stone Park, Latte stones in heraldry, Santa Maria del Latte (Montevarchi), Latte stones, Sacro Latte, Montegrosso Pian Latte, Keep of Fort-la-Latte, Churches in Montegrosso Pian Latte, Cats in latte art, Latte art, Ramparts of Fort-la-Latte, Animals in latte art, Tempietto della reliquia del Sacro Latte, Videos of latte art, Latte Schiffbau, Lattes, San Biagio (Montegrosso Pian Latte), Nostra Signora di Latte Dolce (Sassari), Madonna lactans]
+    Prefix result: [Latte, Latte (Construction navale), Latte Art, Latte M, Latte Schiffbau, Latte Stone Park, Latte art, Latte macchiato, Latte stones, Latte stones in heraldry, Lattenbach, Lattengebirge, Latter-Day Saint from American Samoa, Latter-Day Saint writers, Latter-Day Saints, Latter-Day Saints from the United States, Latter-day, Latter-day Saint, Latter-day Saint Temple, Latter-day Saint biographical encyclopedia, Latter-day Saint biographical encyclopedia (missing volume), Latter-day Saint biographical encyclopedia v.1, Latter-day Saint biographical encyclopedia v.2, Latter-day Saint biographical encyclopedia v.3, Latter-day Saint biographical encyclopedia v.4]
+    Final results List: [Latte, Iced latte, Latte (Construction navale), Daihatsu Move Latte, Hearts in latte art, Latte macchiato, Latte Stone Park, Latte stones in heraldry, Santa Maria del Latte (Montevarchi), Latte stones, Sacro Latte, Montegrosso Pian Latte, Keep of Fort-la-Latte, Churches in Montegrosso Pian Latte, Cats in latte art, Latte art, Ramparts of Fort-la-Latte, Animals in latte art, Tempietto della reliquia del Sacro Latte, Videos of latte art, Latte Schiffbau, Lattes, San Biagio (Montegrosso Pian Latte), Nostra Signora di Latte Dolce (Sassari), Madonna lactans, Latte Art, Latte M, Lattenbach, Lattengebirge, Latter-Day Saint from American Samoa, Latter-Day Saint writers, Latter-Day Saints, Latter-Day Saints from the United States, Latter-day, Latter-day Saint, Latter-day Saint Temple, Latter-day Saint biographical encyclopedia, Latter-day Saint biographical encyclopedia (missing volume), Latter-day Saint biographical encyclopedia v.1, Latter-day Saint biographical encyclopedia v.2, Latter-day Saint biographical encyclopedia v.3, Latter-day Saint biographical encyclopedia v.4]
