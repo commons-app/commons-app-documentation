@@ -4,7 +4,9 @@ Three new types of category suggestions were implemented as part of the Outreach
 
 **Rationale:** Geographically-related categories are often relevant to an uploaded image, so suggesting them at the start makes categorization easier. Prior to this enhancement, the only categories suggested were recently-used ones.
 
-**Choice of API:** This is documented at https://github.com/nicolas-raoul/apps-android-commons/wiki/Location-based-category-search . We query the Commons MediaWiki API for the Commons categories of pictures with geolocation within a radius of 10km of the uploaded pic's geolocation. This API automatically returns the n closest pictures.
+**Choice of API:** This is documented at https://github.com/nicolas-raoul/apps-android-commons/wiki/Location-based-category-search . We query the Commons MediaWiki API for the Commons categories of pictures with geolocation within a radius of 10km of the uploaded pic's geolocation. This API automatically returns the n closest pictures. 
+
+The categories found are also cached using the quadtree library, with a short-lived area->category dictionary established. If another pic is uploaded that has a geolocation that falls within a cached area, the cached categories are displayed and the API is not queried. This is done to reduce the load on the API, as people often upload several pics with similar locations.
 
 **Sample request:** 
 
@@ -45,7 +47,7 @@ https://commons.wikimedia.org/w/api.php?action=query&prop=categories%7Ccoordinat
 
 **Rationale:** Prior to this, category search was done solely by prefix search. E.g. if you searched for 'latte', you would only get categories that start with 'latte', which excludes many potentially relevant categories (i.e. 'iced latte'). Prefix search is useful when you are certain of what the exact name of the category you want is, but not so useful if you are unsure. So we wanted to retain prefix search, but also provide additional suggestions for relevant categories that do not share that prefix.
 
-**Choice of API:** Documented at https://github.com/nicolas-raoul/apps-android-commons/wiki/Fuzzy-category-search . We settled on 'Method A', which queries the Commons MediaWiki API for pages of type "Category" (srnamespace=14), maximum 10 results (srlimit=10).
+**Choice of API:** Documented at https://github.com/nicolas-raoul/apps-android-commons/wiki/Fuzzy-category-search . We settled on 'Method A', which queries the Commons MediaWiki API for pages of type "Category" (srnamespace=14), maximum 10 results (srlimit=10). These results are aggregated with the prefix search results and the duplicate suggestions are eliminated before they are displayed.
 
 **Sample request:**
 
