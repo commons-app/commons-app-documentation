@@ -19,10 +19,10 @@ Logs of latitude and longitude extracted from image:
 URL sent to API:    
 https://commons.wikimedia.org/w/api.php?action=query&prop=categories%7Ccoordinates%7Cpageprops&format=json&clshow=!hidden&coprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&codistancefrompoint=-37.806666666666665%7C175.30277777777778&generator=geosearch&ggscoord=-37.806666666666665%7C175.30277777777778&ggsradius=10000&ggslimit=10&ggsnamespace=6&ggsprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&ggsprimary=all&formatversion=2
 
-
-
-
 **Sample response:**
+
+    02-20 03:15:59.402: D/fr.free.nrw.commons.upload.MwVolleyApi$LogResponseListener(1993): CATEGORIES FOUND[Hamilton Gardens, Ornamental ponds, 2008 in New Zealand, Ponds in New Zealand, Japanese gardens in New Zealand, Trees in New Zealand, Sheds in New Zealand]
+
 
 **2. If a picture with no geolocation is uploaded, nearby category suggestions are offered based on the user's current location. This is optional and only works if enabled in Settings.**
 
