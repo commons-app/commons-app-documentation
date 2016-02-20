@@ -19,7 +19,7 @@ https://commons.wikimedia.org/w/api.php?action=query&prop=categories%7Ccoordinat
 
 **Sample response:**
 
-    02-20 03:15:59.402: D/fr.free.nrw.commons.upload.MwVolleyApi$LogResponseListener(1993): CATEGORIES FOUND[Hamilton Gardens, Ornamental ponds, 2008 in New Zealand, Ponds in New Zealand, Japanese gardens in New Zealand, Trees in New Zealand, Sheds in New Zealand]
+    CATEGORIES FOUND[Hamilton Gardens, Ornamental ponds, 2008 in New Zealand, Ponds in New Zealand, Japanese gardens in New Zealand, Trees in New Zealand, Sheds in New Zealand]
 
 
 ***
