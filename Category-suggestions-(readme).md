@@ -35,8 +35,16 @@ https://commons.wikimedia.org/w/api.php?action=query&prop=categories%7Ccoordinat
 
 **Sample request:** 
 
+Logs shown when submitting a pic with no coords and option is enabled:
+
+    02-21 18:02:54.991: D/fr.free.nrw.commons.upload.GPSExtractor(3798): Picture has no GPS info
+    02-21 18:02:54.991: D/fr.free.nrw.commons.upload.GPSExtractor(3798): Gps pref set to: true
+    02-21 18:02:54.991: D/fr.free.nrw.commons.upload.GPSExtractor(3798): Current location values: Lat = -37.77988229 Long = 175.27933809
+
+
 **Sample response:**
 
+    [Hamilton, New Zealand, Gardens, Bus stops in New Zealand, Vandalism, Photographs taken on 1970-01-01, Photographs taken on 2015-12-27]
 
 
 
