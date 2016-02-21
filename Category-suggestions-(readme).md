@@ -29,11 +29,11 @@ https://commons.wikimedia.org/w/api.php?action=query&prop=categories%7Ccoordinat
 
 **2. If a picture with no geolocation is uploaded, nearby category suggestions are offered based on the user's current location. This is optional and only works if enabled in Settings.**
 
-**Rationale:**
+**Rationale:** An extension of feature #1. Useful if someone doesn't want to geotag their pictures and uploads them while still in the same area. Disabled by default for privacy.
 
-**Choice of API:**
+**Choice of API:** The same API as feature #1 is used, just queried using the user's geolocation instead of the picture's.
 
-**Sample request:**
+**Sample request:** 
 
 **Sample response:**
 
