@@ -21,7 +21,7 @@ https://commons.wikimedia.org/w/api.php?action=query&prop=categories%7Ccoordinat
 
 **Sample response:**
 
-    CATEGORIES FOUND[Hamilton Gardens, Ornamental ponds, 2008 in New Zealand, Ponds in New Zealand, Japanese gardens in New Zealand, Trees in New Zealand, Sheds in New Zealand]
+    [Hamilton Gardens, Ornamental ponds, 2008 in New Zealand, Ponds in New Zealand, Japanese gardens in New Zealand, Trees in New Zealand, Sheds in New Zealand]
 
 
 ***
