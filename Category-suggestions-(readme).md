@@ -2,7 +2,7 @@ Three new types of category suggestions were implemented as part of the Outreach
 
 # 1. If a picture with geolocation is uploaded, nearby category suggestions are offered based on the categories of other Commons images with similar coordinates.
 
-**Rationale:** Geographically-related categories are often relevant to an uploaded image, so suggesting them at the start makes categorization easier. Prior to this enhancement, the only categories suggested were recently-used ones.
+**Rationale:** Geographically-related categories are often relevant to an uploaded image, so suggesting them at the start makes categorization easier. 
 
 **Choice of API:** This is documented at https://github.com/nicolas-raoul/apps-android-commons/wiki/Location-based-category-search . We query the Commons MediaWiki API for the Commons categories of pictures with geolocation within a radius of 10km of the uploaded pic's geolocation. This API automatically returns the n closest pictures. 
 
