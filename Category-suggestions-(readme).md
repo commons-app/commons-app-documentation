@@ -1,6 +1,6 @@
 Three new types of category suggestions were implemented as part of the Outreachy Dec '15 - Mar '16 project:
 
-**1. If a picture with geolocation is uploaded, nearby category suggestions are offered based on the categories of other Commons images with similar coordinates.**
+# 1. If a picture with geolocation is uploaded, nearby category suggestions are offered based on the categories of other Commons images with similar coordinates.
 
 **Rationale:** Geographically-related categories are often relevant to an uploaded image, so suggesting them at the start makes categorization easier. Prior to this enhancement, the only categories suggested were recently-used ones.
 
@@ -27,7 +27,7 @@ https://commons.wikimedia.org/w/api.php?action=query&prop=categories%7Ccoordinat
 ***
 
 
-**2. If a picture with no geolocation is uploaded, nearby category suggestions are offered based on the user's current location. This is optional and only works if enabled in Settings.**
+# 2. If a picture with no geolocation is uploaded, nearby category suggestions are offered based on the user's current location. This is optional and only works if enabled in Settings.
 
 **Rationale:** An extension of feature #1. Useful if someone doesn't want to geotag their pictures and uploads them while still in the same area. Disabled by default for privacy.
 
@@ -51,7 +51,7 @@ Logs shown when submitting a pic with no coords and option is enabled:
 ***
 
 
-**3. Category search (when typing in the search field) has been made more flexible**
+# 3. Category search (when typing in the search field) has been made more flexible
 
 **Rationale:** Prior to this, category search was done solely by prefix search. E.g. if you searched for 'latte', you would only get categories that start with 'latte', which excludes many potentially relevant categories (i.e. 'iced latte'). Prefix search is useful when you are certain of what the exact name of the category you want is, but not so useful if you are unsure. So we wanted to retain prefix search, but also provide additional suggestions for relevant categories that do not share that prefix.
 
