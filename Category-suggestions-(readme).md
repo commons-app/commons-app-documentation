@@ -75,8 +75,8 @@ https://commons.wikimedia.org/w/api.php?action=query&list=search&srwhat=text&sre
 ***
 
    
-**Note:** In order to use the QuadTree dependency in Android Studio:
-1. Make sure QuadTree JAR is in lib folder
-2. Right click on the jar file and select the option "Add as Library"
-3. Go to Project Structure > Modules > Dependencies and click the green + sign
-4. Select "library" and then select the QuadTree library
+**Note:** In order to use the QuadTree dependency in Android Studio:   
+1. Make sure QuadTree JAR is in lib folder   
+2. Right click on the jar file and select the option "Add as Library"   
+3. Go to Project Structure > Modules > Dependencies and click the green + sign   
+4. Select "library" and then select the QuadTree library   
