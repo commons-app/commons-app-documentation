@@ -12,8 +12,8 @@
 
 Pictures with a latitude/longitude are much more valuable, so please:
 
-1. Enable **Save location** in your camera app
-2. Before taking pictures, launch the free [GPS Locker](https://play.google.com/store/apps/details?id=com.silentlexx.gpslock) app
+- Enable **Save location** in your camera app
+- Before taking pictures, launch the free [GPS Locker](https://play.google.com/store/apps/details?id=com.silentlexx.gpslock) app
 
 # Developer documentation
 
