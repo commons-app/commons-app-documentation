@@ -13,7 +13,7 @@
 Pictures with a latitude/longitude are much more valuable, so please:
 
 - Enable **Save location** in your camera app
-- Before taking pictures, launch the free [GPS Locker](https://play.google.com/store/apps/details?id=com.silentlexx.gpslock) app
+- Before taking pictures, launch the free [GPS Locker](https://play.google.com/store/apps/details?id=com.silentlexx.gpslock) app. Another option is to install [Fine Geotag](https://play.google.com/store/apps/details?id=eu.faircode.finegeotag) which get precise GPS location _just after_ a picture is taken and update its latitude/longitude, it is less precise but consumes less battery. You can use an app such as [PhotoMap](https://play.google.com/store/apps/details?id=eu.bischofs.photomap) to check whether the pictures you take are correctly geolocalized or not.
 
 # Developer documentation
 
