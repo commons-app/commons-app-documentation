@@ -2,7 +2,7 @@
 
 How to install and use the app:
 
-1. Download **Upload to Commons** from the [Google Play Store](https://play.google.com/store/apps/details?id=fr.free.nrw.commons)
+1. Download **Wikimedia Commons** from the [Google Play Store](https://play.google.com/store/apps/details?id=fr.free.nrw.commons)
 2. Take a picture of something interesting (see: [What files are OK to upload](https://commons.wikimedia.org/wiki/Commons:Project_scope#Scope_part_1:_Files))
 3. In your camera app, click to view the picture you just took
 4. Press "Share"
