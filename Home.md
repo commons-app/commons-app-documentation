@@ -6,7 +6,7 @@ How to install and use the app:
 2. Take a picture of something interesting (see: [What files are OK to upload](https://commons.wikimedia.org/wiki/Commons:Project_scope#Scope_part_1:_Files))
 3. In your camera app, click to view the picture you just took
 4. Press "Share"
-5. Select **Upload to Commons**  
+5. Select **Commons**  
    The first time you will need to log in (if you don't have an account, create one for free [here](https://commons.wikimedia.org/w/index.php?title=Special:UserLogin&type=signup))
 6. Enter a name and description for the picture
 7. Enter as many relevant categories as possible (see: [Categorization tips](https://commons.wikimedia.org/wiki/Commons:Categories#Categorization_tips))
