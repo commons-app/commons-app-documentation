@@ -20,7 +20,6 @@ Please do NOT upload:
 * Selfies or pictures of your friends
 * Pictures you downloaded from the Internet
 * People in private places like homes (unless given permission)
-* Areas with special restrictions on photography (e.g. military facilities, some courtrooms & museums, etc)
 
 **Page 4**
 
