@@ -41,9 +41,7 @@ Filling in image details
 
 **Page 7**
 
-You think you got it?
-
-[Yes]
+Commence uploading! [Button takes user to login screen]
 
 ***
 
