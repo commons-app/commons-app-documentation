@@ -38,3 +38,6 @@ Filling in image details
 [Real example of good uploads]
 
 
+Screenshot of the original/existing tutorial:
+
+
