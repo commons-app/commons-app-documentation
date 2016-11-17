@@ -12,13 +12,12 @@ What can I upload?
 Pictures that are taken or created entirely by ourselves. Examples:
 * Natural objects (e.g. flowers, animals, mountains)
 * Useful objects (e.g. bicycles, train stations)
-* People who are in public spaces
-* Maps and diagrams.
+* Famous people
 
 **Page 3**
 
 What CAN'T I upload?
-* Selfies or wefies
+* Selfies or pictures of your friends
 * Works created or inspired by others
 * People in private places like homes (unless given permission)
 * Areas with special restrictions on photography (e.g. military facilities, some courtrooms & museums, etc)
