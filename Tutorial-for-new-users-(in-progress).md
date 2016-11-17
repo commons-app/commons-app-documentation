@@ -29,5 +29,11 @@ Filling in image details
 * Description: More details about the image (e.g. “1965 Ford truck in a repair shop”)
 * Categories: Both general (e.g. "Ford trucks") and specific (e.g. "Ford Trucks in Norway")
 
+**Page 5**
 
+[Real example of good uploads]
+
+**Page 6**
+
+[Real example of bad uploads]
 
