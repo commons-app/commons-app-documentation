@@ -39,6 +39,12 @@ Filling in image details
 
 [Real example of good uploads]
 
+**Page 7**
+
+You think you got it?
+
+[Yes]
+
 ***
 
 ## Screenshot of the original/existing tutorial:
