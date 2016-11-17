@@ -31,9 +31,10 @@ Filling in image details
 
 **Page 5**
 
-[Real example of good uploads]
+[Real example of bad uploads]
 
 **Page 6**
 
-[Real example of bad uploads]
+[Real example of good uploads]
+
 
