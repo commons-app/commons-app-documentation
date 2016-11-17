@@ -37,8 +37,9 @@ Filling in image details
 
 [Real example of good uploads]
 
+***
 
-Screenshot of the original/existing tutorial:
+**Screenshot of the original/existing tutorial:**
 
 ![existing-tutorial-1](https://cloud.githubusercontent.com/assets/3611199/20377868/514d80b8-acf7-11e6-9785-9ac9bba53041.png)
 ![existing-tutorial-2](https://cloud.githubusercontent.com/assets/3611199/20377869/5443a554-acf7-11e6-966c-40207559c675.png)
