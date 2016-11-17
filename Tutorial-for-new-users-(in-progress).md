@@ -25,9 +25,9 @@ What CAN'T I upload?
 
 Filling in image details 
 
-Title: A meaningful name for your image (e.g. “1965 Ford truck”)
-Description: More details about the image (e.g. “1965 Ford truck in a repair shop”)
-Categories: Both general (e.g. "Ford trucks") and specific (e.g. "Ford Trucks in Norway")
+* Title: A meaningful name for your image (e.g. “1965 Ford truck”)
+* Description: More details about the image (e.g. “1965 Ford truck in a repair shop”)
+* Categories: Both general (e.g. "Ford trucks") and specific (e.g. "Ford Trucks in Norway")
 
 
 
