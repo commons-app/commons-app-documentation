@@ -7,18 +7,18 @@
 
 **Page 2**
 
-What can I upload?
+Please upload:
 
 Pictures that are taken or created entirely by ourselves. Examples:
-* Natural objects (e.g. flowers, animals, mountains)
-* Useful objects (e.g. bicycles, train stations)
-* Famous people
+* Natural objects (examples: flowers, animals, mountains)
+* Useful objects (examples: bicycles, train stations)
+* Famous people (examples: your mayor, Olympic athletes you met)
 
 **Page 3**
 
-What CAN'T I upload?
+Please do NOT upload:
 * Selfies or pictures of your friends
-* Works created or inspired by others
+* Pictures you downloaded from the Internet
 * People in private places like homes (unless given permission)
 * Areas with special restrictions on photography (e.g. military facilities, some courtrooms & museums, etc)
 
