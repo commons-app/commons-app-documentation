@@ -16,4 +16,9 @@ Pictures that are taken or created entirely by ourselves. Examples:
 **Page 3**
 
 What can't I upload?
+* Selfies or wefies
+* Works created or inspired by others
+* People in private places like homes (unless given permission)
+* Areas with special restrictions on photography (e.g. military facilities, some courtrooms & museums, etc)
 
+**Page 4**
