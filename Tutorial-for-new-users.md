@@ -1,5 +1,7 @@
 ## New proposed tutorial
 
+(Released under Apache 2.0 license)
+
 **Page 1**
 
 * Wikimedia Commons hosts most of the images that are used in Wikipedia
