@@ -23,7 +23,8 @@ Please upload pictures that are taken or created entirely by ourselves. Examples
 Please do NOT upload:
 * Selfies or pictures of your friends
 * Pictures you downloaded from the Internet
-* People in private places like homes (unless given permission)
+* Pictures of an advertisement in the street
+* Screenshots of proprietary apps
 
 **Page 4**
 
