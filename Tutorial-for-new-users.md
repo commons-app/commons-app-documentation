@@ -11,9 +11,7 @@
 
 [Thumbnails: Real example of good uploads]
 
-Please upload:
-
-Pictures that are taken or created entirely by ourselves. Examples:
+Please upload pictures that are taken or created entirely by ourselves. Examples:
 * Natural objects (examples: flowers, animals, mountains)
 * Useful objects (examples: bicycles, train stations)
 * Famous people (examples: your mayor, Olympic athletes you met)
