@@ -29,7 +29,7 @@ Please do NOT upload:
 
 **Page 4**
 
-(Note: This needs to be changed to something more intuitive)
+(Note: This example needs to be changed to something more intuitive)
 
 Filling in image details 
 
