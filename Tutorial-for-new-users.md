@@ -9,6 +9,8 @@
 
 **Page 2**
 
+[Thumbnails: Real example of good uploads]
+
 Please upload:
 
 Pictures that are taken or created entirely by ourselves. Examples:
@@ -18,6 +20,8 @@ Pictures that are taken or created entirely by ourselves. Examples:
 
 **Page 3**
 
+[Thumbnails: Real example of bad uploads]
+
 Please do NOT upload:
 * Selfies or pictures of your friends
 * Pictures you downloaded from the Internet
@@ -25,21 +29,16 @@ Please do NOT upload:
 
 **Page 4**
 
+(Note: This needs to be changed to something more intuitive)
+
 Filling in image details 
 
 * Title: A meaningful name for your image (e.g. “1965 Ford truck”)
 * Description: More details about the image (e.g. “1965 Ford truck in a repair shop”)
 * Categories: Both general (e.g. "Ford trucks") and specific (e.g. "Ford Trucks in Norway")
 
+
 **Page 5**
-
-[Real example of bad uploads]
-
-**Page 6**
-
-[Real example of good uploads]
-
-**Page 7**
 
 Commence uploading! [Button takes user to login screen]
 
