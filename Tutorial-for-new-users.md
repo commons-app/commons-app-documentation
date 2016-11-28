@@ -1,6 +1,6 @@
 ## New proposed tutorial
 
-(Released under Apache 2.0 license)
+(Tutorial and app released under Apache 2.0 license. Pictures in tutorial taken by Nicolas Raoul and released under GPL)
 
 **Page 1**
 
