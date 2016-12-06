@@ -1,48 +1,32 @@
-## New proposed tutorial
+## New tutorial
 
-(Tutorial and app released under Apache 2.0 license. Pictures in tutorial taken by Nicolas Raoul and released under Public Domain license)
+Tutorial and app released under Apache 2.0 license. 
+Pictures in tutorial taken by Nicolas Raoul and Josephine Lim, and released under Public Domain license)
 
 **Page 1**
 
-* Wikimedia Commons hosts most of the images that are used in Wikipedia
-* Anyone can use Commons images without paying a copyright fee
+![tutorial-1](https://cloud.githubusercontent.com/assets/3611199/20912096/0765f68a-bbd2-11e6-85ce-898e29a3b7e5.png)
 
 **Page 2**
 
-[Thumbnails: Real example of good uploads]
-
-Please upload pictures that are taken or created entirely by ourselves. Examples:
-* Natural objects (examples: flowers, animals, mountains)
-* Useful objects (examples: bicycles, train stations)
-* Famous people (examples: your mayor, Olympic athletes you met)
+![tutorial-2](https://cloud.githubusercontent.com/assets/3611199/20912097/0939059c-bbd2-11e6-9980-266b33df303e.png)
 
 **Page 3**
 
-[Thumbnails: Real example of bad uploads]
-
-Please do NOT upload:
-* Selfies or pictures of your friends
-* Pictures you downloaded from the Internet
-* Screenshots of proprietary apps
+![tutorial-3](https://cloud.githubusercontent.com/assets/3611199/20912098/0ae532c6-bbd2-11e6-8545-5f4bfa42ee47.png)
 
 **Page 4**
 
-(Note: This example needs to be changed to something more intuitive)
-
-Filling in image details 
-
-* Title: A meaningful name for your image (e.g. “1965 Ford truck”)
-* Description: More details about the image (e.g. “1965 Ford truck in a repair shop”)
-* Categories: Both general (e.g. "Ford trucks") and specific (e.g. "Ford Trucks in Norway")
-
+![tutorial-4](https://cloud.githubusercontent.com/assets/3611199/20912100/1077730c-bbd2-11e6-9b14-ad737be1ca80.png)
 
 **Page 5**
 
-Commence uploading! [Button takes user to login screen]
+![tutorial-5](https://cloud.githubusercontent.com/assets/3611199/20912110/175ddd14-bbd2-11e6-91be-705cbba96e3c.png)
+
 
 ***
 
-## Screenshot of the original/existing tutorial:
+## Screenshots of the original/existing tutorial:
 
 ![existing-tutorial-1](https://cloud.githubusercontent.com/assets/3611199/20377868/514d80b8-acf7-11e6-9785-9ac9bba53041.png)
 ![existing-tutorial-2](https://cloud.githubusercontent.com/assets/3611199/20377869/5443a554-acf7-11e6-966c-40207559c675.png)
