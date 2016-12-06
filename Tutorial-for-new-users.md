@@ -1,7 +1,7 @@
 ## New tutorial
 
 Tutorial and app released under Apache 2.0 license. 
-Pictures in tutorial taken by Nicolas Raoul and Josephine Lim, and released under Public Domain license.
+New pictures in tutorial taken by Nicolas Raoul and Josephine Lim, and released under Public Domain license.
 
 **Page 1**
 
