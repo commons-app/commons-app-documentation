@@ -1,3 +1,12 @@
+# Pull requests and merging workflow
+
+- All changes must be done via pull requests, except for straightforward changelogs/versioning/etc by the project leader.
+- Any collaborator (Git role) can merge a pull request from another developer after review. 
+- Except for small/straightforward changes, it is strongly recommended that the reviewing collaborator test the code before merging. This can be done via `git fetch upstream pull/304/head:pr-304` then `git checkout pr-304`.
+- Nobody can merge their own pull requests unless they have been left unattended for > 3 days.
+
+
+
 # Procedure to release a new version
 
 1. Add the new features to [CHANGELOG.md](https://github.com/commons-app/apps-android-commons/blob/master/CHANGELOG.md)
