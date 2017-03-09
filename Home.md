@@ -21,9 +21,11 @@ You can also manually add or edit the location of your photos using [Geotag Phot
 
 # Developer documentation
 
-[[Category suggestions (readme)]]
+- [[Project maintenance]]
+- [[Category suggestions (readme)]]
 
 API testing:
 
 - [[Fuzzy category search]]
 - [Location-based category search](https://github.com/nicolas-raoul/apps-android-commons/wiki/Location-based-category-search)
+
