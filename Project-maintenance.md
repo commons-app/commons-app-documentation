@@ -1,9 +1,9 @@
 # Pull requests and merging workflow
 
-- All changes must be done via pull requests, except for straightforward changelogs/versioning/etc by the project leader.
+- All changes must be done via pull requests.
 - Any collaborator (Git role) can merge a pull request from another developer after review. 
 - Except for small/straightforward changes, it is strongly recommended that the reviewing collaborator test the code before merging. This can be done via `git fetch upstream pull/304/head:pr-304` then `git checkout pr-304`.
-- Nobody can merge their own pull requests unless they have been left unattended for > 3 days.
+- Nobody can merge their own pull requests. Exception: straightforward changelogs/versioning/etc or bugfixes that need to be pushed urgently by the project leader.
 
 
 
