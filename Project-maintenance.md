@@ -16,3 +16,22 @@
 5. Click 'Draft a new release' and fill in details
 6. Publish to Google Play
 7. Update Google Play's changelog
+
+
+
+# Moderation of the mailing list
+
+The [mailing list](https://groups.google.com/d/forum/commons-app-android) is moderated by a volunteer. New users who post to the mailing list have their messages put in a moderation queue, and an email is sent to the moderators asking them to either whitelist or blacklist the person. The moderator receives emails with this kind of title:
+
+_commons-app-android - Google Groups: Message Pending [{IJCjjKCbgtX0ASoCb2kwB4ITL8vhkvwd0}]_
+
+When a such a moderation email comes, the moderator has a look at the message written by the new user, then blacklist if it is spam, whitelist if it is not. Spam is usually companies that want our app to use their advertisement products.
+
+Notes for the moderator(s):
+- Only mark as spam messages that are clearly spam, or companies want us to use their advertisement products. If in doubt please contact the project leader, by discussing about specific messages you will learn what we consider spam or not.
+- Don't delete any message unless it is a duplicated message (sent twice) or totally empty (no title and no body).
+- Be extremely generous with whitelisting.
+- Any feedback about the app is obviously OK. Even hate mail (ex: "This app sucks!") is OK.
+- The moderation interface si similar to this:
+
+![Google Group moderation web interface screenshot](https://i.imgur.com/jOvcCFl.png)
