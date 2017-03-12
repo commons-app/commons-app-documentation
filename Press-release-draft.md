@@ -1,0 +1,1 @@
+As suggested at [#420](https://github.com/commons-app/apps-android-commons/issues/420), we will be working on a draft for press releases here.
