@@ -36,4 +36,4 @@ Within CategorizationFragment:
 - Class CategoryItem shows the name of the possible category and whether it is selected or not. These will be shown in a ListView
 - Class CategoryUpdater gets the categories 'filter', which is the text that user inputs to find a category. Then it starts a worker thread in the doInBackground() method. doInBackground() searches all fields if the category search is empty, whereas if categoriesCache hashmap contains the search string, it gets the value of the mapping with the specified key
 
-MediaDataExtractor.java seems to be where they 'Fetch additional media data from the network that we don't store locally.This includes things like category lists'
+MediaDataExtractor.java seems to be where they 'Fetch additional media data from the network that we don't store locally.This includes things like category lists'.
