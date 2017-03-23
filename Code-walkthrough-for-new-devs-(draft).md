@@ -24,13 +24,12 @@ MediaDetailFragment.java is where the image info for the background is handled
 MediaDataExtractor.java seems to be where they 'Fetch additional media data from the network that we don't store locally.This includes things like category lists'
 
 SingleUploadFragment.java is the title/desc input screen. Also called by ShareActivity.java
-ModificationsContentProvider.java is not called by anything in Category package
-
-CategoryContentProvider - manages private storage for recently used categories. Category.java is the item that stores the table of ContentValues that have 'category name', 'last used' and 'times used'. Maybe can inject into this?
-
-In Category.save(), ContentProvider.update() vs insert()  - update replaces the column_name/value pairs for the record (row) specified in selection, whereas insert inserts a new row
 
 ### Categories
+
+CategoryContentProvider - manages private storage for recently used categories. Category.java is the item that stores the table of ContentValues that have 'category name', 'last used' and 'times used'. 
+
+In Category.save(), ContentProvider.update() vs insert()  - update replaces the column_name/value pairs for the record (row) specified in selection, whereas insert inserts a new row
 
 Within CategorizationFragment:
 
