@@ -22,6 +22,7 @@ You can also manually add or edit the location of your photos using [Geotag Phot
 # Developer documentation
 
 - [[Project maintenance]]
+- [[Code walkthrough for new devs (draft)]]
 - [[Category suggestions (readme)]]
 
 API testing:
