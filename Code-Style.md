@@ -1,6 +1,6 @@
 ## Butterknife
 
-Contributors are free to use [butterknife](https://github.com/JakeWharton/butterknife) for their view bindings. 
+Contributors have the option of using [butterknife](https://github.com/JakeWharton/butterknife) for their view bindings. 
 
 ### Adding Support
 To add support for butterknife we have added the following dependency in the [app/build.gradle](https://github.com/commons-app/apps-android-commons/blob/master/app/build.gradle) file.
