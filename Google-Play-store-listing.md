@@ -1,6 +1,15 @@
 ## New Listing (2017):
 
+[I am drawing heavily on our website for this, thanks Tobias!]
 
+Join one of the largest photo and multimedia communities in the world. Commons is not only the image repository for Wikipedia, but an independent project that seeks to document the world with photos, videos and recordings.
+
+Features:
+- Upload photos to Commons directly from your smartphone
+- View all the contributions you have made to Commons in one gallery
+- Categorize your photos to make them easier for other people to find
+- Automatic category suggestions based on photo location data and title
+- View nearby missing images - helps Wikipedia to have images for all articles, and you will discover beautiful places close to you
 
 
 ## Old Listing (2015):
