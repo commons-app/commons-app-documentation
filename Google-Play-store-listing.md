@@ -22,7 +22,7 @@ Using the app is easy:
 - Press Save
 
 The following guidelines will help you to understand what photos the community is looking for:
-[The tick and cross icons seem to work in the Google Play text editor, but will have to re-draft this part if they don't]
+[The tick and cross icons seem to work in the Google Play text editor, but will have to re-draft this part if they don't]  
 ✓ Photos that document the world around you - famous people, political events, festivals, monuments, landscapes, natural objects and animals, food, architecture, etc  
 ✓ Photos of notable objects that you find in the Nearby List in the app  
 ✖ Copyrighted pictures  
