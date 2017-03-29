@@ -1,4 +1,8 @@
-Archiving the current store listing ahead of changes so we can refer/revert if needed.
+### New Listing:
+
+
+
+### Old Listing:
 
 > Be the witness of your world: Take pictures of interesting monuments, objects, events, and send them to Wikipedia's images database, where volunteers can use them immediately to illustrate relevant articles.
 
