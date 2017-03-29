@@ -29,7 +29,7 @@ The following guidelines will help you to understand what photos the community i
 - ✖ Photos of you or your friends. But if you are documenting an event it doesn't matter if they are in the picture
 - ✖ Photos of poor quality. Make sure the things you are trying to document are visible on the picture
 
-This is a community-maintained, open-source app run by volunteers (and one Wikimedia grantee). New volunteers are always welcome, not just for coding, but also for design, documentation, user education, etc. Come join us!
+This is a community-maintained, open-source app run by volunteers (and one Wikimedia grantee). New volunteers are always welcome, not just for coding, but also for testing, design, documentation, user education, etc. Come join us!
 - Website: https://commons-app.github.io/
 - Bug reports: https://github.com/commons-app/apps-android-commons/issues
 - Discussion: https://commons.wikimedia.org/wiki/Commons_talk:Mobile_app & https://groups.google.com/forum/#!forum/commons-app-android
