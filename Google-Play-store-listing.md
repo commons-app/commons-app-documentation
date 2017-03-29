@@ -11,6 +11,15 @@ Features:
 - Automatic category suggestions based on photo location data and title
 - View nearby missing images - helps Wikipedia to have images for all articles, and you will discover beautiful places close to you
 
+Installing and using the app is easy:
+- Download the Wikimedia Commons app
+- Log in to your Wikimedia account (if you don't have an account, create one for free at this step)
+- Select 'From Gallery' (or the picture icon)
+- Select the picture that you wish to upload to Commons
+- Enter a name and description for the picture
+- Select the license that you wish to release your picture under 
+- Enter as many relevant categories as possible
+- Press Save
 
 ## Old Listing (2015):
 
