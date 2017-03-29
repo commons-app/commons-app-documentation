@@ -6,13 +6,13 @@ Join one of the largest photo and multimedia communities in the world! Commons i
 
 Features:
 - Upload photos to Commons directly from your smartphone
-- View all the contributions you have made to Commons in one gallery
 - Categorize your photos to make them easier for other people to find
 - Automatic category suggestions based on photo location data and title
 - View nearby missing images - this helps Wikipedia to have images for all articles, and you will discover beautiful places close to you
+- View all the contributions you have made to Commons in one gallery
 
-Installing and using the app is easy:
-- Download the Wikimedia Commons app
+Using the app is easy:
+- Install
 - Log in to your Wikimedia account (if you don't have an account, create one for free at this step)
 - Select 'From Gallery' (or the picture icon)
 - Select the picture that you wish to upload to Commons
