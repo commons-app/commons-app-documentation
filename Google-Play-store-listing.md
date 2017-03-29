@@ -2,7 +2,7 @@
 
 [I am drawing heavily on our website for this, thanks Tobias!]
 
-Join one of the largest photo and multimedia communities in the world. Commons is not only the image repository for Wikipedia, but an independent project that seeks to document the world with photos, videos and recordings.
+Join one of the largest photo and multimedia communities in the world! Commons is not only the image repository for Wikipedia, but an independent project that seeks to document the world with photos, videos and recordings.
 
 Features:
 - Upload photos to Commons directly from your smartphone
@@ -20,6 +20,13 @@ Installing and using the app is easy:
 - Select the license that you wish to release your picture under 
 - Enter as many relevant categories as possible
 - Press Save
+
+The following guidelines will help you to understand what photos the community is looking for:
+[The tick and cross icons seem to work in the Google Play text editor, but will have to re-draft this part if they don't]
+- ✓ Photos that document the world around you
+- ✓ Photos of notable objects that you find in the Nearby List in the app.
+- ✖ Photos of you or your friends. But if you are documenting an event it doesn't matter if they are in the picture.
+- ✖ Photos of poor quality. Make sure the things you are trying to document are visible on the picture.
 
 ## Old Listing (2015):
 
