@@ -16,7 +16,10 @@ _If you have images in mind, please put them here. While we don't use screenshot
 
 Not sure what to place as lead image. Suggestions?
 
-Screenshots: Nearby places, and new title/desc screen
+Screenshots: 
+
+![](https://commons.wikimedia.org/wiki/File:Commons_Android_app_upload_screen.png)
+![](https://commons.wikimedia.org/wiki/File:Commons_Android_app_Nearby_Places_feature.png)
 
 ### Body
 
