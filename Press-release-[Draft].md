@@ -9,13 +9,12 @@ Welcome to the submissions template for the Wikimedia blog. Feel free to delete 
 Ideally three to ten words, the headline to your piece will show up in social media shares and on the blog's homepage. The summary will appear separately in italicized text underneath the headline; that can be up to fifty words.
 
 ### Author
-Who is authoring the piece?
+Josephine Lim
 
 ### Image(s) 
 If you have images in mind, please put them here. While we don't use screenshots as lead images, we're more than happy to place one or more in the body of the post. Image repositories: Commons featured, quality, valued; Unsplash. 
 
 ### Body
-What do you want to tell the world? Write it here. Ideas on introductions and writing style can be found in our community guidelines.
 
 The Wikimedia Commons Android app (url) allows contributors to easily submit photos directly from their phone to Commons without needing to use a browser. Recently, version 2.0 of the app was released, one and a half years after the app was revived by the community. The new version contains several improvements that make the app smoother and more convenient to use, as well as a new feature that displays nearby locations that need images.
 
