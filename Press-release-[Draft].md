@@ -12,7 +12,7 @@ _Ideally three to ten words, the headline to your piece will show up in social m
 Josephine Lim
 
 ### Image(s) 
-_If you have images in mind, please put them here. While we don't use screenshots as lead images, we're more than happy to place one or more in the body of the post. Image repositories: Commons featured, quality, valued; Unsplash. _
+_If you have images in mind, please put them here. While we don't use screenshots as lead images, we're more than happy to place one or more in the body of the post. Image repositories: Commons featured, quality, valued; Unsplash._
 
 Not sure what to place as lead image. Suggestions?
 
@@ -37,3 +37,5 @@ In version 2.0, you can:
 **Switch to a light theme.** You can now choose between night mode or a new light theme, which is more suited to daytime or outdoor conditions. This can be toggled in Settings.
 
 **Participate in beta testing.** Sign up for beta testing (url) to help us test the app and get new features before they are released to the public!
+
+You can get the app for free (no ads or in-app purchases) in the Google Play Store (url) or F-Droid (url). The source code is available on GitHub (url) under the Apache License 2.0. As a community-maintained app, we always welcome feedback and help from volunteers.
