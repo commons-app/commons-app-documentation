@@ -28,8 +28,10 @@ Lead image:
 
 Screenshots: 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Commons_Android_app_upload_screen.png/337px-Commons_Android_app_upload_screen.png)
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Commons_Android_app_Nearby_Places_feature.png/337px-Commons_Android_app_Nearby_Places_feature.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Commons_Android_app_upload_screen.png/337px-Commons_Android_app_upload_screen.png) 
+[Caption: ] 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Commons_Android_app_Nearby_Places_feature.png/337px-Commons_Android_app_Nearby_Places_feature.png) 
+[Caption: ]
 
 ### Body
 
