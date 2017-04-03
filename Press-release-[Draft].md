@@ -8,15 +8,15 @@ _Welcome to the submissions template for the Wikimedia blog. Feel free to delete
 ### Headline and summary
 _Ideally three to ten words, the headline to your piece will show up in social media shares and on the blog's homepage. The summary will appear separately in italicized text underneath the headline; that can be up to fifty words._
 
-The Wikimedia Commons app for Android has been improved to provide an enhanced and smoother user experience, and has a new feature that displays nearby locations that need images.
-
 **Headline:**
 [A few alternatives, I can't decide which]
 * Wikimedia Commons Android app: version 2.0
 * Wikimedia Commons Android app: New features and improvements
 * The new and improved Wikimedia Commons Android app
 
-**Summary:**
+**Summary:** 
+
+The Wikimedia Commons app for Android has been improved to provide an enhanced and smoother user experience, and has a new feature that displays nearby locations that need images.
 
 ### Author
 Josephine Lim
