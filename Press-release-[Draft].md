@@ -30,6 +30,6 @@ In version 2.0, you can:
 
 **Select licenses from the upload screen.** Licenses have been updated to include CC-BY 4.0 and CC-BY-SA 4.0, and you can now select your license directly when uploading.
 
-**Switch to a light theme. **You can now choose between night mode or a new light theme, which is more suited to daytime or outdoor conditions. This can be toggled in Settings.
+**Switch to a light theme.** You can now choose between night mode or a new light theme, which is more suited to daytime or outdoor conditions. This can be toggled in Settings.
 
-**Participate in beta testing. **Sign up for beta testing (url) to help us test the app and get new features before they are released to the public!
+**Participate in beta testing.** Sign up for beta testing (url) to help us test the app and get new features before they are released to the public!
