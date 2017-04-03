@@ -22,6 +22,8 @@ Josephine Lim
 ### Image(s) 
 _If you have images in mind, please put them here. While we don't use screenshots as lead images, we're more than happy to place one or more in the body of the post. Image repositories: Commons featured, quality, valued; Unsplash._
 
+Lead image:
+
 [Not sure what to place as lead image. Suggestions?]
 
 Screenshots: 
