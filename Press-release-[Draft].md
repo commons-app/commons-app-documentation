@@ -38,4 +38,4 @@ In version 2.0, you can:
 
 **Participate in beta testing.** Sign up for beta testing (url) to help us test the app and get new features before they are released to the public!
 
-You can get the app for free (no ads or in-app purchases) in the Google Play Store (url) or F-Droid (url). The source code is available on GitHub (url) under the Apache License 2.0. As a community-maintained app, we always welcome feedback and help from volunteers.
+You can get the app for free (no ads or in-app purchases) in the Google Play Store (url) or F-Droid (url). The source code is available on GitHub (url) under the Apache License 2.0. As a community-maintained app, feedback and help from volunteers is always welcome
