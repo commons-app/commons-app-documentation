@@ -16,7 +16,7 @@ _Ideally three to ten words, the headline to your piece will show up in social m
 
 **Summary:** 
 
-The Wikimedia Commons app for Android has been improved to provide an enhanced and smoother user experience, and has a new feature that displays nearby locations that need images.
+The Wikimedia Commons app for Android has been improved with a better design and smoother user experience, and has a new feature that displays nearby locations that need images.
 
 ### Author
 Josephine Lim
