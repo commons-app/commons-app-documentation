@@ -20,7 +20,7 @@ The Wikimedia Commons Android app (url) allows contributors to easily submit pho
 
 In version 2.0, you can:
 
-**View nearby places that need images.** This way you can help Wikipedia to have images for all articles, and you will discover beautiful places close to you.
+**View nearby places that need images.** Browse nearby locations that need images so you can help Wikipedia to have images for all articles, and discover beautiful places close to you.
 
 **Do more with titles.** The app suggests categories based on the title that you chose for your image, and you can copy the title and description from your previous upload.
 
