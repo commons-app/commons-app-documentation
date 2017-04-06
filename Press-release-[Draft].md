@@ -30,7 +30,7 @@ Screenshots:
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Commons_Android_app_upload_screen.png/337px-Commons_Android_app_upload_screen.png) 
 [Caption: Screenshot - choosing a title, description and license for the image to be uploaded] 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Commons_Android_app_Nearby_Places_feature.png/337px-Commons_Android_app_Nearby_Places_feature.png) 
-[Caption: Screenshot - nearby locations that need images]
+[Caption: Screenshot - nearby locations that need images] 
 
 ### Body
 
