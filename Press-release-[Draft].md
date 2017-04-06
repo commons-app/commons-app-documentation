@@ -34,7 +34,7 @@ Caption: Screenshot - nearby locations that need images
 
 ### Body
 
-The Wikimedia Commons Android app [url] allows contributors to easily submit photos directly from their phone to Commons without needing to use a browser. Recently, version 2.0 of the app was released, one and a half years after the app was revived by the community. The new version contains several improvements that make the app smoother and more convenient to use, multiple bug fixes, and a new feature that displays nearby locations that need images.
+The Wikimedia Commons Android app [url] allows contributors to easily submit photos directly from their phone to Commons without needing to use a computer or a web browser. Recently, version 2.0 of the app was released, one and a half years after the app was revived by the community. The new version contains several improvements that make the app smoother and more convenient to use, multiple bug fixes, and a few new features.
 
 In version 2.0, you can:
 
