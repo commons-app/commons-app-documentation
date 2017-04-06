@@ -13,7 +13,7 @@ _Ideally three to ten words, the headline to your piece will show up in social m
 
 **Summary:** 
 
-The Wikimedia Commons app for Android has been improved with a better design and smoother user experience, and has a new feature that displays nearby locations that need images.
+The Wikimedia Commons app for Android has been updated to version 2.0, featuring a better design and smoother user experience, new features, and multiple bug fixes.
 
 ### Author
 Josephine Lim
@@ -28,9 +28,9 @@ Lead image:
 Screenshots: 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Commons_Android_app_upload_screen.png/337px-Commons_Android_app_upload_screen.png) 
-[Caption: ] 
+[Caption: Screenshot - choosing a title, description and license for the image to be uploaded] 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Commons_Android_app_Nearby_Places_feature.png/337px-Commons_Android_app_Nearby_Places_feature.png) 
-[Caption: ]
+[Caption: Screenshot - nearby locations that need images]
 
 ### Body
 
