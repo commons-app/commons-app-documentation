@@ -38,7 +38,7 @@ The Wikimedia Commons Android app [url] allows contributors to easily submit pho
 
 In version 2.0, you can:
 
-**Categorize your images much more easily.** The app will automatically offer category suggestions based on the location where the image was taken, and the title that you chose for your image.
+**Categorize your images much more easily.** The app will automatically offer category suggestions based on the location where the image was taken and the title that you chose for your image.
 
 **View nearby places that need images.** Browse nearby locations that need images so you can help Wikipedia to have images for all articles, and discover beautiful places close to you.
 
