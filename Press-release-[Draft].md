@@ -38,9 +38,9 @@ The Wikimedia Commons Android app [url] allows contributors to easily submit pho
 
 In version 2.0, you can:
 
-**View nearby places that need images.** Browse nearby locations that need images so you can help Wikipedia to have images for all articles, and discover beautiful places close to you.
+**Categorize your images much more easily.** The app will automatically offer category suggestions based on the location the image was taken, and the title that you chose for your image.
 
-**Do more with titles.** The app suggests categories based on the title that you chose for your image, and you can copy the title and description from your previous upload.
+**View nearby places that need images.** Browse nearby locations that need images so you can help Wikipedia to have images for all articles, and discover beautiful places close to you.
 
 **Be notified if you have submitted this image before.** Can't remember if you have already uploaded a particular image? No problems, just select the image and you will be notified if a duplicate is found in the Commons database.
 
