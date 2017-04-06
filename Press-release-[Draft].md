@@ -13,7 +13,7 @@ _Ideally three to ten words, the headline to your piece will show up in social m
 
 **Summary:** 
 
-The Wikimedia Commons app for Android has been updated to version 2.0, featuring a better design and smoother user experience, new features, and multiple bug fixes.
+Version 2.0 of the Wikimedia Commons Android app has been released, featuring a better design and smoother user experience, new features, and multiple bug fixes.
 
 ### Author
 Josephine Lim
