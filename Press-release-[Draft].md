@@ -2,7 +2,7 @@ As suggested at [#420](https://github.com/commons-app/apps-android-commons/issue
 
 # Press release for third party blogs/sites
 
-
+[To be completed]
 
 # Wikimedia Blog post draft
 
