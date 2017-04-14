@@ -1,5 +1,9 @@
 As suggested at [#420](https://github.com/commons-app/apps-android-commons/issues/420), we will be working on drafts for press releases here.
 
+# Press release for third party blogs/sites
+
+
+
 # Wikimedia Blog post draft
 
 _[Template provided by Ed Erhart]_
