@@ -1,3 +1,7 @@
+## General coding style
+
+Our coding style follows [Google Java Style Guide](http://checkstyle.sourceforge.net/reports/google-java-style-20170228.html). (See [#359](https://github.com/commons-app/apps-android-commons/issues/359))
+
 ## Butterknife
 
 Contributors have the option of using [butterknife](https://github.com/JakeWharton/butterknife) for their view bindings. 
