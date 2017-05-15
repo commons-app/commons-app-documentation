@@ -25,6 +25,7 @@ You can also manually add or edit the location of your photos using [Geotag Phot
 - [[Code walkthrough for new devs (draft)]]
 - [[Category suggestions (readme)]]
 - [[Code style]]
+- Debugging with Stetho: chrome://inspect/#devices
 
 API testing:
 
