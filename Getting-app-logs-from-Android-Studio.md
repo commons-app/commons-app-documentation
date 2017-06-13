@@ -10,4 +10,4 @@ Brief walkthrough for users on how to post logs if they are encountering issues.
 7. In the text field in the middle of Android Device Monitor, set the drop down menu on the right to "debug"
 ![android device monitor](https://user-images.githubusercontent.com/3611199/27092086-8dbc3c86-50a5-11e7-9b1e-91f1f675ec72.png)
 8. Perform whatever action you are having problems with in the app (e.g. go to Nearby Places list)
-9. Copy all of the logs from Android Device Monitor and paste them wherever you choose, along with a description of the problem you are having (I suggest opening an issue here, otherwise you can post to our [mailing list](https://groups.google.com/forum/#!forum/commons-app-android).
+9. Copy all of the logs from Android Device Monitor and paste them wherever you choose, along with a description of the problem you are having (I suggest opening an issue here, or otherwise you can post to our [mailing list](https://groups.google.com/forum/#!forum/commons-app-android .)
