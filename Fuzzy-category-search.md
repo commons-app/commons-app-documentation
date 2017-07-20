@@ -4,7 +4,7 @@
 
 1. Go to https://commons.wikimedia.org/wiki/Special:Random/File
 2. Try another if not inspiring
-3. Without looking at anything below the image (just looking at the image and image name), imagine what an average might type to search for the appropriate category(ies).
+3. Without looking at anything below the image (just looking at the image and image name), imagine what an average person might type to search for the appropriate category(ies).
 4. Add a sample below. Include the thumbnail that can be found at the bottom of the Commons page, all the strings you have thought about, and the actual category.
 
 ## Sample 1
