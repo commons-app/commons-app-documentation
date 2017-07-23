@@ -17,7 +17,7 @@ The Wikimedia Commons Android app uses several external APIs to do its job.
 - **Commons Mediawiki**   
     Base endpoint: https://commons.m.wikimedia.org
 
-## List of API endpoints used
+## List of API endpoints used (by functionality)
 
 ### Sign up
 
