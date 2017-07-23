@@ -1,17 +1,21 @@
 Note: This is only a draft taken from personal notes, please feel free to improve
 
-### Basics
+### Share: Incoming Intent
 
 Commons registers for android.intent.action.SEND and android.intent.action.SEND_MULTIPLE intents from other apps.  The former launches ShareActivity.java and the latter launches MultipleShareActivity.java .
 
+### "My recent Uploads"
+
 ContributionsListFragment.java is the part of the main screen where you can click the camera button, or gallery button, etc., and where the 'Waiting for first sync' shows up.
 
-### Viewing pics
+### Viewing Pictures
+
 ContributionsListActivity.java is the parent activity of that fragment, which has the title 'My uploads' and displays the list of contributions. MediaDetailPagerFragment.java replaces part of this screen when a contribution is selected, and downloads that particular pic and displays the pic information. It's a ViewPager, that lets users flip left and right between their contributions. It downloads the image file to be displayed to the user and has the menu options to view in browser, download, share, etc.
 
 In its getItem() method, MediaDetailPagerFragment.java calls the forMedia() static method of MediaDetailFragment.java. forMedia() instantiates a new MediaDetailFragment object. MediaDetailFragment.java handles the details pane being scrolled up to display the image Title, Description, License, and Categories
 
-### Uploading pic
+### Uploading Picture
+
 In ContributionsListFragment.java, after selecting gallery, it calls startGalleryPick method of ContributionController.java (the regenerateImageCapturedUri is only if camera button is selected). The handleImagePicked() method of ContributionController is called later in ContributionsListFragment, in its onActivityResult() method (which is the response received after starting an activity with startActivityForResults()).
 
 Must select pic first, then only you are brought to "Upload to Commons" screen to enter title and desc. ContributionController.java starts a new explicit intent that calls ShareActivity.java .
