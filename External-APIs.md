@@ -13,7 +13,7 @@ The Wikimedia Commons Android app uses several external APIs to fulfil its job.
 ### Sign up
 
 #### Sign up (external Webview)
-https://commons.m.wikimedia.org/w/index.php?title=Special:CreateAccount&returnto=Main+Page&returntoquery=welcome%3Dyes
+- https://commons.m.wikimedia.org/w/index.php?title=Special:CreateAccount&returnto=Main+Page&returntoquery=welcome%3Dyes
 
 ### Log in
 
@@ -25,9 +25,7 @@ https://commons.m.wikimedia.org/w/index.php?title=Special:CreateAccount&returnto
 #### Log in
 
 - POST https://commons.wikimedia.org/w/api.php
--
- password=...&logintoken=...&username=...&loginreturnurl=https%3A%2F%2Fcommons.wikimedia.org&action=clientlogin&rememberMe=1&format=xml
-
+- password=...&logintoken=...&username=...&loginreturnurl=https%3A%2F%2Fcommons.wikimedia.org&action=clientlogin&rememberMe=1&format=xml
 #### Log event "Log in attempt"
 
 - GET https://www.wikimedia.org/beacon/event?%7B%22schema%22%3A%22MobileAppLoginAttempts%22%2C%22revision%22%3A5257721%2C%22wiki%22%3A%22commonswiki%22%2C%22event%22%3A%7B%22username%22%3A%22...%22%2C%22result%22%3A%22PASS%22%2C%22device%22%3A%22LGE+Nexus+5%22%2C%22platform%22%3A%22Android%5C%2F6.0.1%22%2C%22appversion%22%3A%22Android%5C%2F2.4.2%22%7D%7D;?
