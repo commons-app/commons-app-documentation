@@ -1,8 +1,8 @@
-The Wikimedia Commons Android app uses several external APIs to fulfil its job.
+The Wikimedia Commons Android app uses several external APIs to do its job.
 
-## List of API hosts used
+## List of APIs used
 
-- https://commons.m.wikimedia.org = Commons Sign up
+- https://commons.m.wikimedia.org = Commons Web Site
 - https://commons.wikimedia.org = Commons API
 - https://www.wikimedia.org/beacon/ = Event Logging
 - https://tools.wmflabs.org = ?
