@@ -34,11 +34,14 @@ The Wikimedia Commons Android app uses several external APIs to do its job.
 
 - POST https://commons.wikimedia.org/w/api.php
 - meta=tokens&type=login&action=query&format=xml
+- Documentation: https://commons.wikimedia.org/w/api.php?action=help&modules=query%2Btokens
 
 #### Log in
 
 - POST https://commons.wikimedia.org/w/api.php
 - password=...&logintoken=...&username=...&loginreturnurl=https%3A%2F%2Fcommons.wikimedia.org&action=clientlogin&rememberMe=1&format=xml
+- Documentation: https://commons.wikimedia.org/w/api.php?action=help&modules=clientlogin
+
 #### Log event "Log in attempt"
 
 - GET https://www.wikimedia.org/beacon/event?%7B%22schema%22%3A%22MobileAppLoginAttempts%22%2C%22revision%22%3A5257721%2C%22wiki%22%3A%22commonswiki%22%2C%22event%22%3A%7B%22username%22%3A%22...%22%2C%22result%22%3A%22PASS%22%2C%22device%22%3A%22LGE+Nexus+5%22%2C%22platform%22%3A%22Android%5C%2F6.0.1%22%2C%22appversion%22%3A%22Android%5C%2F2.4.2%22%7D%7D;?
@@ -47,9 +50,11 @@ The Wikimedia Commons Android app uses several external APIs to do its job.
 
 #### Get previous uploads / New logevents
 - GET https://commons.wikimedia.org/w/api.php?lelimit=500&leuser=...&leprop=title%7Ctimestamp%7Cids&list=logevents&action=query&letype=upload&format=xml
+- Documentation: https://commons.wikimedia.org/w/api.php?action=help&modules=query%2Blogevents
 
 #### Get image (for each existing upload)
 - GET https://commons.wikimedia.org/w/api.php?iiurlwidth=640&prop=imageinfo&titles=File%3A...&iiprop=url&action=query&format=xml&format=xml
+- Documentation: https://commons.wikimedia.org/w/api.php?action=help&modules=query%2Bimageinfo
 
 #### Get total number of uploads
 - GET https://tools.wmflabs.org/urbanecmbot/uploadsbyuser/uploadsbyuser.py?user=...
@@ -63,6 +68,8 @@ The Wikimedia Commons Android app uses several external APIs to do its job.
 
 #### Upload picture
 - POST https://commons.wikimedia.org/w/api.php
+- TODO Missing
+- Documentation: https://commons.wikimedia.org/w/api.php?action=help&modules=upload (TODO Confirm)
 
 #### Log event "Successful upload"
 - GET https://www.wikimedia.org/beacon/event?%7B%22schema%22%3A%22MobileAppUploadAttempts%22%2C%22revision%22%3A5334329%2C%22wiki%22%3A%22commonswiki%22%2C%22event%22%3A%7B%22username%22%3A%22...%22%2C%22source%22%3A%22gallery%22%2C%22filename%22%3A%22File%3A...%22%2C%22multiple%22%3Afalse%2C%22result%22%3A%22success%22%2C%22device%22%3A%22LGE+Nexus+5%22%2C%22platform%22%3A%22Android%5C%2F6.0.1%22%2C%22appversion%22%3A%22Android%5C%2F2.4.2%22%7D%7D;?
@@ -74,14 +81,17 @@ The Wikimedia Commons Android app uses several external APIs to do its job.
 
 #### Get categories for location
 - GET https://commons.wikimedia.org/w/api.php?action=query&prop=categories%7Ccoordinates%7Cpageprops&format=json&clshow=!hidden&coprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&codistancefrompoint=...%7C...&generator=geosearch&ggscoord=...%7C...&ggsradius=10000&ggslimit=10&ggsnamespace=6&ggsprop=type%7Cname%7Cdim%7Ccountry%7Cregion%7Cglobe&ggsprimary=all&formatversion=2
+- Documentation: https://commons.wikimedia.org/w/api.php?action=help&modules=query%2Bcategories
 
-#### Get categories for chosen title
-- GET https://commons.wikimedia.org/w/api.php?srlimit=25&list=search&action=query&srwhat=text&format=xml&srsearch=testing&srnamespace=14&format=xml
+#### Get categories for chosen title + Search category
 
-#### Search category
+##### Fulltext
+- GET https://commons.wikimedia.org/w/api.php?srlimit=25&list=search&action=query&srwhat=text&format=xml&srsearch=t&srnamespace=14&format=xml
+- Documentation: https://commons.wikimedia.org/w/api.php?action=help&modules=query%2Bsearch
 
-1. GET https://commons.wikimedia.org/w/api.php?srlimit=25&list=search&action=query&srwhat=text&format=xml&srsearch=t&srnamespace=14&format=xml
-2. GET https://commons.wikimedia.org/w/api.php?list=allcategories&aclimit=25&action=query&acprefix=t&format=xml
+###### Prefix
+- GET https://commons.wikimedia.org/w/api.php?list=allcategories&aclimit=25&action=query&acprefix=t&format=xml
+- Documentation: https://commons.wikimedia.org/w/api.php?action=help&modules=query%2Ballcategories
 
 ### Set Category
 
@@ -90,10 +100,13 @@ The Wikimedia Commons Android app uses several external APIs to do its job.
 
 #### Get revisions
 - GET https://commons.wikimedia.org/w/api.php?rvprop=timestamp%7Ccontent&prop=revisions&titles=File%3A...&action=query&format=xml
+- Documentation: https://commons.wikimedia.org/w/api.php?action=help&modules=query%2Brevisions
 
 #### Save new category
 - POST https://commons.wikimedia.org/w/api.php
-text=%3D%3D+%7B%7Bint%3Afiledesc%7D%7D+%3D%3D%0A%7B%7BInformation%0A%7Cdescription%3D%0A%7Csource%3D%7B%7Bown%7D%7D%0A%7Cauthor%3D%5B%5BUser%3A...%7C...%5D%5D%0A%7Cdate%3D%7B%7BAccording+to+EXIF+data%7C2017-07-23%7D%7D%0A%7D%7D%0A%7B%7BLocation%7C...%7C...%7D%7D%0A%3D%3D+%7B%7Bint%3Alicense-header%7D%7D+%3D%3D%0A%7B%7Bself%7Ccc-by-3.0%7D%7D%0A%0A%7B%7BUploaded+from+Mobile%7Cplatform%3DAndroid%7Cversion%3D2.4.2%7D%7D%0A%5B%5BCategory%3ATest%5D%5D&title=File%3A...&token=...%2B%5C&action=edit&summary=Added+1+categories.+Removed+template+Uncategorized.+Via+Commons+Mobile+App&format=xml
+-
+ text=%3D%3D+%7B%7Bint%3Afiledesc%7D%7D+%3D%3D%0A%7B%7BInformation%0A%7Cdescription%3D%0A%7Csource%3D%7B%7Bown%7D%7D%0A%7Cauthor%3D%5B%5BUser%3A...%7C...%5D%5D%0A%7Cdate%3D%7B%7BAccording+to+EXIF+data%7C2017-07-23%7D%7D%0A%7D%7D%0A%7B%7BLocation%7C...%7C...%7D%7D%0A%3D%3D+%7B%7Bint%3Alicense-header%7D%7D+%3D%3D%0A%7B%7Bself%7Ccc-by-3.0%7D%7D%0A%0A%7B%7BUploaded+from+Mobile%7Cplatform%3DAndroid%7Cversion%3D2.4.2%7D%7D%0A%5B%5BCategory%3ATest%5D%5D&title=File%3A...&token=...%2B%5C&action=edit&summary=Added+1+categories.+Removed+template+Uncategorized.+Via+Commons+Mobile+App&format=xml
+- Documentation: https://commons.wikimedia.org/w/api.php?action=help&modules=edit
 
 
 ### Nearby
