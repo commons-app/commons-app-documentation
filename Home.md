@@ -5,8 +5,8 @@
 
 # Developer Documentation
 
-- [[Project maintenance]]
-- [[Code style]]
+- [[Project Maintenance]]
+- [[Code Style]]
 
 ## Information
 
