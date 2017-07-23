@@ -11,6 +11,7 @@
 ## Information
 
 * [[Screen Structure]]
+  * [[Tutorial for new users]]
 * [[App Functionality]]
 * [[Code walkthrough for new devs (draft)]]
 * [[Category suggestions (readme)]]
