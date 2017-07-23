@@ -13,6 +13,7 @@
 * [[Screen Structure]]
   * [[Tutorial for new users]]
 * [[App Functionality]]
+* [[Technical Overview]]
 * [[Code walkthrough for new devs (draft)]]
 * [[Category suggestions (readme)]]
 * [[External APIs]]
