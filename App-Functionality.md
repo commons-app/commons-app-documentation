@@ -2,6 +2,8 @@ The Wikimedia Commons app offers the following functionality:
 
 ## In-App functionality
 
+### User facing
+
 - Show Tutorial
 - Sign up to Commons
 - Log in to Commons
@@ -43,10 +45,14 @@ The Wikimedia Commons app offers the following functionality:
 - Send feedback to developers (=> external app)
 - Logout from Commons
 
+### Background
+
+- Queueing of uploads and "changes", asynchronuos sync TODO
+- Caching of retrieved data TODO
+- Logging of Events to Wikimedia
+
 ## External functionality
 
 - Adds logged in Commons account to Android -> Settings -> Accounts
 - Adds "Share Intent" for images that accepts images into the Commons app
 
-## Background functionality
-- Logging of Events to Wikimedia
