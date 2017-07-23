@@ -104,8 +104,7 @@ The Wikimedia Commons Android app uses several external APIs to do its job.
 
 #### Save new category
 - POST https://commons.wikimedia.org/w/api.php
--
- text=%3D%3D+%7B%7Bint%3Afiledesc%7D%7D+%3D%3D%0A%7B%7BInformation%0A%7Cdescription%3D%0A%7Csource%3D%7B%7Bown%7D%7D%0A%7Cauthor%3D%5B%5BUser%3A...%7C...%5D%5D%0A%7Cdate%3D%7B%7BAccording+to+EXIF+data%7C2017-07-23%7D%7D%0A%7D%7D%0A%7B%7BLocation%7C...%7C...%7D%7D%0A%3D%3D+%7B%7Bint%3Alicense-header%7D%7D+%3D%3D%0A%7B%7Bself%7Ccc-by-3.0%7D%7D%0A%0A%7B%7BUploaded+from+Mobile%7Cplatform%3DAndroid%7Cversion%3D2.4.2%7D%7D%0A%5B%5BCategory%3ATest%5D%5D&title=File%3A...&token=...%2B%5C&action=edit&summary=Added+1+categories.+Removed+template+Uncategorized.+Via+Commons+Mobile+App&format=xml
+-  text=%3D%3D+%7B%7Bint%3Afiledesc%7D%7D+%3D%3D%0A%7B%7BInformation%0A%7Cdescription%3D%0A%7Csource%3D%7B%7Bown%7D%7D%0A%7Cauthor%3D%5B%5BUser%3A...%7C...%5D%5D%0A%7Cdate%3D%7B%7BAccording+to+EXIF+data%7C2017-07-23%7D%7D%0A%7D%7D%0A%7B%7BLocation%7C...%7C...%7D%7D%0A%3D%3D+%7B%7Bint%3Alicense-header%7D%7D+%3D%3D%0A%7B%7Bself%7Ccc-by-3.0%7D%7D%0A%0A%7B%7BUploaded+from+Mobile%7Cplatform%3DAndroid%7Cversion%3D2.4.2%7D%7D%0A%5B%5BCategory%3ATest%5D%5D&title=File%3A...&token=...%2B%5C&action=edit&summary=Added+1+categories.+Removed+template+Uncategorized.+Via+Commons+Mobile+App&format=xml
 - Documentation: https://commons.wikimedia.org/w/api.php?action=help&modules=edit
 
 
