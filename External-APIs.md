@@ -2,11 +2,20 @@ The Wikimedia Commons Android app uses several external APIs to do its job.
 
 ## List of APIs used
 
-- https://commons.m.wikimedia.org = Commons Web Site
-- https://commons.wikimedia.org = Commons API
-- https://www.wikimedia.org/beacon/ = Event Logging
-- https://tools.wmflabs.org = ?
-- https://query.wikidata.org = Wikidata API
+- Commons API   
+    Base endpoint: https://commons.wikimedia.org
+    Documentation: https://commons.wikimedia.org/w/api.php
+- Event Logging
+    Base endpoint: https://www.wikimedia.org/beacon/
+    Documentation: https://wikitech.wikimedia.org/wiki/Analytics/Systems/EventLogging
+- Wikimedia Tools Labs
+    Base endpoint: https://tools.wmflabs.org
+    Documentation: https://tools.wmflabs.org/
+- Wikidata Query Service
+    Base endpoint: https://query.wikidata.org
+    Documentation: https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/Wikidata_Query_Help
+- Commons Web Site
+    Base endpoint: https://commons.m.wikimedia.org
 
 ## List of API endpoints used
 
