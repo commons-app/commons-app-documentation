@@ -1,6 +1,6 @@
 The Wikimedia Commons app consists of the following screens:
 
-- Tutorial (4 "sliders")
+- Tutorial (4 slides)
 - Sign up (In App Browser)
 - **Log in**
 - **My Recent Uploads** / Home
