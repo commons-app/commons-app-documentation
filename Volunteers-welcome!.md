@@ -14,7 +14,7 @@ We are always looking for volunteers, feel free to step in! It is very easy, cho
 
 # Testers
 
-Use the beta version (or even better, compile from the latest source) and report bugs on the issue tracker.
+Use the beta version (or even better, compile from the latest source) and report bugs to the issue tracker.
 
 # Translators
 
