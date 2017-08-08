@@ -15,7 +15,7 @@
 - [[Develop with Android Studio or IntelliJ]]
 - [[Build manually]]
 
-## Implementation:
+## Implementation
 
 * [[Technical Overview]]
 * [[Code walkthrough for new devs (draft)]]
