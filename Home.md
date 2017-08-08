@@ -3,12 +3,16 @@
 - [[How to install and use the app]]
 - [[Getting app logs from Android Studio]]
 
+# Contributor Documentation
+
+- [[Translating the App]]
+
 # Developer Documentation
 
 - [[Project Maintenance]]
 - [[Code Style]]
 
-## Information
+## App Information
 
 * [[Screen Structure]]
   * [[Tutorial for new users]]
