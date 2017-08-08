@@ -17,12 +17,12 @@
 
 ## Implementation:
 
-- [[Technical Overview]]
-- [[Code walkthrough for new devs (draft)]]
-- [[Category suggestions (readme)]]
-- [[External APIs]]
-- [[Code Structure]]
-- [[On Device Storage]]
+* [[Technical Overview]]
+* [[Code walkthrough for new devs (draft)]]
+* [[Category suggestions (readme)]]
+* [[External APIs]]
+* [[Code Structure]]
+* [[On Device Storage]]
 
 - Viewing tables and shared preferences via debugging with Stetho: Run in debug mode, go to browser, chrome://inspect/#device, select inspect device, Resources tab.
 
