@@ -12,6 +12,10 @@ We are always looking for volunteers, feel free to step in! It is very easy, cho
 8. Within a few hours or days, a core developer will review your patch, and either merge it or suggest a few corrections.
 9. If you change your mind, or if it is too difficult, no problem, just write "Sorry I don't work on this anymore" on the issue, if possible including feedback (for instance what approaches failed) and ideas.
 
+# Testers
+
+
+
 # Translators
 
 See [[Translating the App]].
@@ -19,3 +23,7 @@ See [[Translating the App]].
 # Patrollers
 
 See https://commons.wikimedia.org/wiki/Commons:Mobile_app#We_need_your_help:_please_monitor_uploads
+
+# Documentation writers
+
+Be this wiki, the [https://commons.wikimedia.org/wiki/Commons:Mobile_app#We_need_your_help:_please_monitor_uploads Wikimedia page], the [http://commons-app.github.io official webpage] or the source code, documentation always needs to be improved and updated.
