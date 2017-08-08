@@ -13,13 +13,14 @@
 - [[Project Maintenance]]
 - [[Code Style]]
 - [[Develop with Android Studio or IntelliJ]]
+- [[Build manually]]
 
 ## Implementation:
 
-* [[Technical Overview]]
-* [[Code walkthrough for new devs (draft)]]
-* [[Category suggestions (readme)]]
-* [[External APIs]]
+- [[Technical Overview]]
+- [[Code walkthrough for new devs (draft)]]
+- [[Category suggestions (readme)]]
+- [[External APIs]]
 - [[Code Structure]]
 - [[On Device Storage]]
 
