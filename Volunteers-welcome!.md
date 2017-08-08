@@ -1,4 +1,6 @@
-We are always looking for volunteers, feel free to step in! It is very easy:
+We are always looking for volunteers, feel free to step in! It is very easy, choose a role that you fancy below. Thanks a lot!
+
+# Developers
 
 1. Fork the repository and clone it to your computer, then follow the build instructions above.
 2. Choose an [unassigned issue](https://github.com/commons-app/apps-android-commons/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee) that sounds interesting to you.
@@ -10,4 +12,5 @@ We are always looking for volunteers, feel free to step in! It is very easy:
 8. Within a few hours or days, a core developer will review your patch, and either merge it or suggest a few corrections.
 9. If you change your mind, or if it is too difficult, no problem, just write "Sorry I don't work on this anymore" on the issue, if possible including feedback (for instance what approaches failed) and ideas.
 
-Thanks a lot!
+# Translators
+
