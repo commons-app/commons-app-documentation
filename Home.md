@@ -5,12 +5,16 @@
 
 # Contributor Documentation
 
+- [[Volunteers welcome!]]
 - [[Translating the App]]
 
 # Developer Documentation
 
 - [[Project Maintenance]]
 - [[Code Style]]
+- [[Develop with Android Studio or IntelliJ]]
+- [[Code Structure]]
+- [[On Device Storage]]
 
 ## App Information
 
