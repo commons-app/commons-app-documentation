@@ -49,3 +49,18 @@ Eliminate anonymous inner-classes for listeners by annotating methods with `@OnC
     
     }
 ```
+
+## External libraries
+We can only embed libraries that allow being embedded with Apache 2-licensed software.
+
+In particular, we can NOT embed:
+
+- Google Play Services, as it is not even open source
+- GNU-GPL source code, [for this reason](https://www.apache.org/licenses/GPL-compatibility.html)
+
+We CAN embed:
+- Apache 2-licensed source code
+- MIT-licensed source code, because the MIT license is compatible with the Apache 2 license.
+- Public domain source code
+
+Calling HTTP services powered by non open source software (example: Google Search, Crashlytics, HockeyApp) is not illegal (as far as no license-incompatible client library is embedded), but it should be avoided if possible, because it would attract as a negative badge on F-Droid saying "_promotes non-free network services_" (_free_ being used with the meaning of [free software](https://www.gnu.org/philosophy/free-sw.en.html)).
