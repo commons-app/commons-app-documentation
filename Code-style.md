@@ -63,4 +63,7 @@ We CAN embed:
 - MIT-licensed source code, because the MIT license is compatible with the Apache 2 license.
 - Public domain source code
 
-Calling HTTP services powered by non open source software (example: Google Search, Crashlytics, HockeyApp) is not illegal (as far as no license-incompatible client library is embedded), but it should be avoided if possible, because it would attract as a negative badge on F-Droid saying "_promotes non-free network services_" (_free_ being used with the meaning of [free software](https://www.gnu.org/philosophy/free-sw.en.html)).
+Calling HTTP services powered by non open source software (example: Google Search, Crashlytics, HockeyApp) is not illegal per se, but:
+- It should be avoided if possible, because it would attract as a negative badge on F-Droid saying "_promotes non-free network services_" (_free_ being used with the meaning of [free software](https://www.gnu.org/philosophy/free-sw.en.html)).
+- Following [our privacy policy](https://wikimediafoundation.org/wiki/Privacy_policy), we must not reveal much about the user. Arguably revealing the user's IP address might be considered as already too much, which effectively would prevent any such third-party service from being used.
+- The client-side source code should be compatible license-wise.
