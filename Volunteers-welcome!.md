@@ -12,6 +12,8 @@ We are always looking for volunteers, feel free to step in! It is very easy, cho
 8. Within a few hours or days, a core developer will review your patch, and either merge it or suggest a few corrections.
 9. If you change your mind, or if it is too difficult, no problem, just write "Sorry I don't work on this anymore" on the issue, if possible including feedback (for instance what approaches failed) and ideas.
 
+It is recommended that you actually try the app and upload pictures with it. Become familiar with the various workflows. Notice what kind of categories are suggested depending on where the picture is taken or what you type. Check what people consider [excellent pictures](https://commons.wikimedia.org/wiki/Commons:Featured_pictures) and get inspired by their rich descriptions and accurate categories.
+
 # Testers
 
 Use the beta version (or even better, compile from the latest source) and report bugs to the issue tracker.
