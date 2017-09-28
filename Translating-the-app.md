@@ -21,4 +21,4 @@ This is defined in their [Git repository](https://phabricator.wikimedia.org/diff
 
 ## How to add new languages
 
-???
+TODO
