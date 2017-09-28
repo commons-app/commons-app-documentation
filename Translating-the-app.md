@@ -12,7 +12,7 @@ Getting a translator account on translatewiki is a bit cumbersome, but don't wor
 
 # Internals
 
-The translations from the translatewiki project are [periodically committed directly to this project](https://github.com/commons-app/apps-android-commons/commits/master?author=translatewiki) by the translatewiki team and later released with the normal updates to the Play Store.
+The translations from the translatewiki project are [periodically committed directly to this project](https://github.com/commons-app/apps-android-commons/commits/master?author=translatewiki) by the translatewiki team and later released with the normal updates to the Play Store. This means that you just need to translate, and your translations will automatically be used by the app from the next [release](https://github.com/commons-app/apps-android-commons/releases).
 
 Translatewiki is configured to export a certain list of languages to a certain file in this repo. 
 
