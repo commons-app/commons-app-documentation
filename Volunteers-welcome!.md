@@ -16,7 +16,7 @@ It is recommended that you actually try the app and upload pictures with it. Bec
 
 # Testers
 
-Use the beta version available through play store or even better, compile from the latest source! Report bugs to the [issue tracker](https://github.com/commons-app/apps-android-commons/issues/).
+Use the beta version or even better, compile from the latest source! Report bugs to the [issue tracker](https://github.com/commons-app/apps-android-commons/issues/).
 
 # Translators
 
