@@ -1,6 +1,6 @@
 # Draft
 
-Note: This is a draft and still work in progress
+Note: This is still work in progress. Volunteer help appreciated!
 
 Welcome!
 
