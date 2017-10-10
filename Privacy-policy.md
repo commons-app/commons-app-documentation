@@ -1,5 +1,7 @@
 # Draft
 
+Note: This is a draft and still work in progress
+
 Welcome!
 
 The Commons Mobile App project is a project that maintains an Android app to upload content to Wikimedia Commons.
