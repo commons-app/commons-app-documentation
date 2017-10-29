@@ -22,3 +22,7 @@ This is defined in their [Git repository](https://phabricator.wikimedia.org/diff
 ## How to add new languages
 
 TODO
+
+## Statistics
+
+[Here](https://translatewiki.net/w/i.php?title=Special%3AMessageGroupStats&x=D&group=commons-android&suppressempty=1) is the current rate of translations for each language.
