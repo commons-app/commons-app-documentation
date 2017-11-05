@@ -2,20 +2,14 @@
 
 Note: This is still work in progress. Volunteer help appreciated!
 
-Welcome!
-
-The Commons Mobile App project is a project that maintains an Android app to upload content to Wikimedia Commons.
-This Policy explains how we collect, use, and share your personal information.
-We collect very little personal information about you.
-We do not rent or sell your information to third parties.
-By using the Commons Mobile App, you consent to this Policy.
-
-
 _Note: I have removed the blanket copy/paste from the WMF privacy policy - from what I have read, the majority of that is not applicable to us. Instead, I am using https://gist.github.com/alphamu/c42f6c3fce530ca5e804e672fed70d78#file-android-privacy-policy-template as a template and modifying to suit our app._
 
 <html>
 <body>
 <h2>Privacy Policy</h2>
+
+The Wikimedia Commons Android app is a free, open-source app developed by grantees and volunteers of the Wikimedia community to allow users to upload content to Wikimedia Commons. This Policy explains how we collect, use, and share your personal information. We collect very little personal information about you, and we do not rent or sell your information to third parties. By using the Wikimedia Commons Android app, you consent to this Policy.
+
 <p>[Individual or Company Name] built the [App Name] app as a [open source | free | freemium | ad-supported | commercial] app. This SERVICE is provided by [Individual or company name] [at no cost] and is intended
     for use as is.</p>
 <p>This page is used to inform website visitors regarding [my|our] policies with the collection, use, and
