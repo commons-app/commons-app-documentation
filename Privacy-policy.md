@@ -12,7 +12,7 @@ This Policy is used to inform users regarding our policies with the collection, 
 
 TODO: Mention Mapbox, mention where logs of crashes are sent, mention image EXIF data being uploaded along with the image 
 
-<p><strong>Information Collection and Use</strong></p>
+### Information Collection and Use
 <p>For a better experience while using our Service, [I|we] may require you to provide us with certain
     personally identifiable information, including but not limited to [add whatever else you collect here, e.g. users name | address | location | pictures]. 
 	The information that [I|we] request is [retained on your device and is not
@@ -23,7 +23,7 @@ TODO: Mention Mapbox, mention where logs of crashes are sent, mention image EXIF
 
 Images uploaded to Wikimedia Commons via this Service will NOT be stripped of EXIF metadata that may contain (but is not limited to) image location, date taken, phone manufacturer and model, and camera settings. All of this metadata will be visible on Wikimedia Commons along with the image. If a user desires to strip an image of EXIF metadata, it is recommended that this be done prior to uploading.
 
-<p><strong>Log Data</strong></p>
+### Log Data
 <p>[I|We] want to inform you that whenever you use [my|our] Service, in case of an error in the app [I|we] collect
     data and information (through third party products) on your phone called Log Data. This Log Data
     may include information such as your devices’s Internet Protocol (“IP”) address, device name,
