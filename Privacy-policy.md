@@ -8,7 +8,7 @@ _Note: I have removed the blanket copy/paste from the WMF privacy policy - from 
 
 The Wikimedia Commons Android app is a free, open-source app developed by grantees and volunteers of the Wikimedia community to allow users to upload content to Wikimedia Commons. This SERVICE is provided by members of the Wikimedia community and is intended for use as is. 
 
-This Policy is used to inform users regarding our policies with the collection, use, and disclosure of Personal Information. If you choose to use the Wikimedia Commons Android app, then you agree to the collection and use of information in relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy, and we do not rent or sell your information to third parties
+This Policy is used to inform users regarding our policies with the collection, use, and disclosure of Personal Information. If you choose to use the Wikimedia Commons Android app, then you agree to the collection and use of information in relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy, and we do not rent or sell your information to third parties.
 
 TODO: Mention Mapbox, mention where logs of crashes are sent, mention image EXIF data being uploaded along with the image 
 
@@ -18,6 +18,10 @@ TODO: Mention Mapbox, mention where logs of crashes are sent, mention image EXIF
 	The information that [I|we] request is [retained on your device and is not
     collected by [me|us] in any way]|[will be retained by us and used as described in this privacy policy.</p>
 <p>The app does use third party services that may collect information used to identify you. [You can mention Google services here and link to Google's privacy policy if you want].
+
+### Image EXIF data
+
+Images uploaded to Wikimedia Commons via this Service will NOT be stripped of EXIF metadata that may contain (but is not limited to) image location, date taken, phone manufacturer and model, and camera settings. All of this metadata will be visible on Wikimedia Commons along with the image. If a user desires to strip an image of EXIF metadata, it is recommended that this be done prior to uploading.
 
 <p><strong>Log Data</strong></p>
 <p>[I|We] want to inform you that whenever you use [my|our] Service, in case of an error in the app [I|we] collect
