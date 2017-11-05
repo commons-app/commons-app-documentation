@@ -4,13 +4,13 @@ Note: This is still work in progress. Volunteer help appreciated!
 
 _Note: I have removed the blanket copy/paste from the WMF privacy policy - from what I have read, the majority of that is not applicable to us. Instead, I am using https://gist.github.com/alphamu/c42f6c3fce530ca5e804e672fed70d78#file-android-privacy-policy-template as a template and modifying to suit our app._
 
+TODO: Modify sections, mention Mapbox, mention where logs of crashes are sent, mention image EXIF data being uploaded along with the image 
+
 ## Privacy Policy
 
 The Wikimedia Commons Android app is a free, open-source app developed by grantees and volunteers of the Wikimedia community to allow users to upload content to Wikimedia Commons. This SERVICE is provided by members of the Wikimedia community and is intended for use as is. 
 
 This Policy is used to inform users regarding our policies with the collection, use, and disclosure of Personal Information. If you choose to use the Wikimedia Commons Android app, then you agree to the collection and use of information in relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy, and we do not rent or sell your information to third parties.
-
-TODO: Mention Mapbox, mention where logs of crashes are sent, mention image EXIF data being uploaded along with the image 
 
 ### Information Collection and Use
 <p>For a better experience while using our Service, [I|we] may require you to provide us with certain
@@ -24,11 +24,8 @@ TODO: Mention Mapbox, mention where logs of crashes are sent, mention image EXIF
 Images uploaded to Wikimedia Commons via this Service will NOT be stripped of EXIF metadata that may contain (but is not limited to) image location, date taken, phone manufacturer and model, and camera settings. All of this metadata will be visible on Wikimedia Commons along with the image. If a user desires to strip an image of EXIF metadata, it is recommended that this be done prior to uploading.
 
 ### Log Data
-<p>[I|We] want to inform you that whenever you use [my|our] Service, in case of an error in the app [I|we] collect
-    data and information (through third party products) on your phone called Log Data. This Log Data
-    may include information such as your devices’s Internet Protocol (“IP”) address, device name,
-    operating system version, configuration of the app when utilising [my|our] Service, the time and date
-    of your use of the Service, and other statistics.</p>
+
+We want to inform you that whenever you use our Service, in case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your devices’s Internet Protocol (“IP”) address, device name, operating system version, configuration of the app when utilising our Service, the time and date of your use of the Service, and other statistics. This Data can only be viewed on the Google Play Developer console by developers with access to this console. At the current moment, only two of our developers (the current and previous project maintainer) have access to this console.
 
 <p><strong>Cookies</strong></p>
 <p>Cookies are files with small amount of data that is commonly used an anonymous unique identifier.
