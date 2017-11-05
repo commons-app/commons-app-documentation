@@ -74,10 +74,7 @@ We want to inform you that whenever you use our Service, in case of an error in 
     periodically for any changes. [I|We] will notify you of any changes by posting the new Privacy Policy
     on this page. These changes are effective immediately, after they are posted on this page.</p>
 
-<p><strong>Contact Us</strong></p>
-<p>If you have any questions or suggestions about [my|our] Privacy Policy, do not hesitate to contact
-    [me|us].</p>
-<p>This Privacy Policy page was created at <a href="https://privacypolicytemplate.net"
-                                              target="_blank">privacypolicytemplate.net</a>.</p>
-</body>
-</html>
+### Contact Us
+If you have any questions or suggestions about our Privacy Policy, please do not hesitate to contact us by creating an issue here on GitHub or posting on our [Google Groups forum](https://groups.google.com/forum/#!forum/commons-app-android).
+
+This Privacy Policy was adapted from a template from [privacypolicytemplate.net](privacypolicytemplate.net)  
