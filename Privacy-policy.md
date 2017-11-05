@@ -4,12 +4,13 @@ Note: This is still work in progress. Volunteer help appreciated!
 
 _Note: I have removed the blanket copy/paste from the WMF privacy policy - from what I have read, the majority of that is not applicable to us. Instead, I am using https://gist.github.com/alphamu/c42f6c3fce530ca5e804e672fed70d78#file-android-privacy-policy-template as a template and modifying to suit our app._
 
-<h2>Privacy Policy</h2>
+## Privacy Policy
 
 The Wikimedia Commons Android app is a free, open-source app developed by grantees and volunteers of the Wikimedia community to allow users to upload content to Wikimedia Commons. This SERVICE is provided by members of the Wikimedia community and is intended for use as is. 
 
 This Policy is used to inform users regarding our policies with the collection, use, and disclosure of Personal Information. If you choose to use the Wikimedia Commons Android app, then you agree to the collection and use of information in relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy, and we do not rent or sell your information to third parties
 
+TODO: Mention Mapbox, mention where logs of crashes are sent
 
 <p><strong>Information Collection and Use</strong></p>
 <p>For a better experience while using our Service, [I|we] may require you to provide us with certain
