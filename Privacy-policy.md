@@ -10,7 +10,7 @@ The Wikimedia Commons Android app is a free, open-source app developed by grante
 
 This Policy is used to inform users regarding our policies with the collection, use, and disclosure of Personal Information. If you choose to use the Wikimedia Commons Android app, then you agree to the collection and use of information in relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy, and we do not rent or sell your information to third parties
 
-TODO: Mention Mapbox, mention where logs of crashes are sent
+TODO: Mention Mapbox, mention where logs of crashes are sent, mention image EXIF data being uploaded along with the image 
 
 <p><strong>Information Collection and Use</strong></p>
 <p>For a better experience while using our Service, [I|we] may require you to provide us with certain
