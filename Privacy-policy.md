@@ -4,7 +4,7 @@ Note: This is still work in progress. Volunteer help appreciated!
 
 _Note: I have removed the blanket copy/paste from the WMF privacy policy - from what I have read, the majority of that is not applicable to us. Instead, I am using https://gist.github.com/alphamu/c42f6c3fce530ca5e804e672fed70d78#file-android-privacy-policy-template as a template and modifying to suit our app._
 
-TODO: Modify sections, mention Mapbox, mention where logs of crashes are sent, mention image EXIF data being uploaded along with the image 
+TODO: Modify sections, mention Mapbox, mention where logs of crashes are sent
 
 ## Privacy Policy
 
@@ -25,7 +25,7 @@ Images uploaded to Wikimedia Commons via this Service will NOT be stripped of EX
 
 ### Log Data
 
-We want to inform you that whenever you use our Service, in case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your devices’s Internet Protocol (“IP”) address, device name, operating system version, configuration of the app when utilising our Service, the time and date of your use of the Service, and other statistics. This Data can only be viewed on the Google Play Developer console by developers with access to this console. At the current moment, only two of our developers (the current and previous project maintainer) have access to this console.
+We want to inform you that whenever you use our Service, in case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your devices’s Internet Protocol (“IP”) address, device name, operating system version, configuration of the app when utilising our Service, the time and date of your use of the Service, and other statistics. This Data can only be viewed on the Google Play Developer console by developers with access to this console. 
 
 <p><strong>Cookies</strong></p>
 <p>Cookies are files with small amount of data that is commonly used an anonymous unique identifier.
@@ -55,12 +55,8 @@ We want to inform you that whenever you use our Service, in case of an error in 
     the internet, or method of electronic storage is 100% secure and reliable, and [I|we] cannot
     guarantee its absolute security.</p>
 
-<p><strong>Links to Other Sites</strong></p>
-<p>This Service may contain links to other sites. If you click on a third-party link, you will be
-    directed to that site. Note that these external sites are not operated by [me|us]. Therefore, I
-    strongly advise you to review the Privacy Policy of these websites. I have no control over, and
-    assume no responsibility for the content, privacy policies, or practices of any third-party
-    sites or services.</p>
+### Links to Other Sites
+This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over, and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
 ### Children’s Privacy
 We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to carry out necessary actions.
