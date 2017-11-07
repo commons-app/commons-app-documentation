@@ -13,7 +13,7 @@ The Wikimedia Commons Android app is a free, open-source app developed by grante
 This Policy is used to inform users regarding our policies with the collection, use, and disclosure of Personal Information. If you choose to use the Wikimedia Commons Android app, then you agree to the collection and use of information in relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy, and we do not rent or sell your information to third parties.
 
 ### Information Collection and Use
-<p>For a better experience while using our Service, [I|we] may require you to provide us with certain
+For a better experience while using our Service, [I|we] may require you to provide us with certain
     personally identifiable information, including but not limited to [add whatever else you collect here, e.g. users name | address | location | pictures]. 
 	The information that [I|we] request is [retained on your device and is not
     collected by [me|us] in any way]|[will be retained by us and used as described in this privacy policy.</p>
@@ -69,10 +69,8 @@ We want to inform you that whenever you use our Service, in case of an error in 
     are a parent or guardian and you are aware that your child has provided us with personal
     information, please contact [me|us] so that [I|we] will be able to do necessary actions.</p>
 
-<p><strong>Changes to This Privacy Policy</strong></p>
-<p>[I|We] may update our Privacy Policy from time to time. Thus, you are advised to review this page
-    periodically for any changes. [I|We] will notify you of any changes by posting the new Privacy Policy
-    on this page. These changes are effective immediately, after they are posted on this page.</p>
+### Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.
 
 ### Contact Us
 If you have any questions or suggestions about our Privacy Policy, please do not hesitate to contact us by creating an issue here on GitHub or posting on our [Google Groups forum](https://groups.google.com/forum/#!forum/commons-app-android).
