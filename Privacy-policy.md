@@ -62,12 +62,8 @@ We want to inform you that whenever you use our Service, in case of an error in 
     assume no responsibility for the content, privacy policies, or practices of any third-party
     sites or services.</p>
 
-<p><strong>Children’s Privacy</strong></p>
-<p>This Services do not address anyone under the age of 13. [I|We] do not knowingly collect personal
-    identifiable information from children under 13. In the case [I|we] discover that a child under 13
-    has provided [me|us] with personal information, [I|we] immediately delete this from our servers. If you
-    are a parent or guardian and you are aware that your child has provided us with personal
-    information, please contact [me|us] so that [I|we] will be able to do necessary actions.</p>
+### Children’s Privacy
+We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to carry out necessary actions.
 
 ### Changes to This Privacy Policy
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.
