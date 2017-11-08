@@ -13,23 +13,11 @@ The Wikimedia Commons Android app is a free, open-source app developed by grante
 This Policy is used to inform users regarding our policies with the collection, use, and disclosure of Personal Information. If you choose to use the Wikimedia Commons Android app, then you agree to the collection and use of information in relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy, and we do not rent or sell your information to third parties.
 
 ### Information Collection and Use
-For a better experience while using our Service, [I|we] may require you to provide us with certain
-    personally identifiable information, including but not limited to [add whatever else you collect here, e.g. users name | address | location | pictures]. 
-	The information that [I|we] request is [retained on your device and is not
-    collected by [me|us] in any way]|[will be retained by us and used as described in this privacy policy.</p>
-<p>The app does use third party services that may collect information used to identify you. [You can mention Google services here and link to Google's privacy policy if you want].
 
-### Image EXIF data
+For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to your username, location and pictures stored on your phone. The information that we request is retained on your device and is not collected by us in any way. 
 
-Images uploaded to Wikimedia Commons via this Service will NOT be stripped of EXIF metadata that may contain (but is not limited to) image location, date taken, phone manufacturer and model, and camera settings. All of this metadata will be visible on Wikimedia Commons along with the image. If a user desires to strip an image of EXIF metadata, it is recommended that this be done prior to uploading.
+The app does use third party services that may collect information used to identify you. [TODO: Mapbox. What else?].
 
-### Log Data
-
-We want to inform you that whenever you use our Service, in case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your devices’s Internet Protocol (“IP”) address, device name, operating system version, configuration of the app when utilising our Service, the time and date of your use of the Service, and other statistics. This Data can only be viewed on the Google Play Developer console by developers with access to this console. 
-
-### Cookies
-
-Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory. This Service does not uses these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collection information and to improve their services. You have the option to either accept or refuse these cookies, and know when a cookie is being sent to your device. If you choose to refuse cookies, you may not be able to use some portions of this Service.
 
 <p><strong>Service Providers</strong></p> <!-- This part need seem like it's not needed, but if you use any Google services, or any other third party libraries, chances are, you need this. -->
 <p>[I|We] may employ third-party companies and individuals due to the following reasons:</p>
@@ -42,6 +30,18 @@ Cookies are files with small amount of data that is commonly used an anonymous u
 <p>[I|We] want to inform users of this Service that these third parties have access to your Personal
     Information. The reason is to perform the tasks assigned to them on our behalf. However, they
     are obligated not to disclose or use the information for any other purpose.</p>
+
+### Image EXIF data
+
+Images uploaded to Wikimedia Commons via this Service will NOT be stripped of EXIF metadata that may contain (but is not limited to) image location, date taken, phone manufacturer and model, and camera settings. All of this metadata will be visible on Wikimedia Commons along with the image. If a user desires to strip an image of EXIF metadata, it is recommended that this be done prior to uploading.
+
+### Log Data
+
+We want to inform you that whenever you use our Service, in case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your devices’s Internet Protocol (“IP”) address, device name, operating system version, configuration of the app when utilising our Service, the time and date of your use of the Service, and other statistics. This Data can only be viewed on the Google Play Developer console by developers with access to this console. 
+
+### Cookies
+
+Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory. This Service does not uses these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collection information and to improve their services. You have the option to either accept or refuse these cookies, and know when a cookie is being sent to your device. If you choose to refuse cookies, you may not be able to use some portions of this Service.
 
 ### Security
 
