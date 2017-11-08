@@ -4,7 +4,7 @@ Note: This is still work in progress. Volunteer help appreciated!
 
 _Note: I have removed the blanket copy/paste from the WMF privacy policy - from what I have read, the majority of that is not applicable to us. Instead, I am using https://gist.github.com/alphamu/c42f6c3fce530ca5e804e672fed70d78#file-android-privacy-policy-template as a template and modifying to suit our app._
 
-TODO: Modify sections, mention Mapbox, mention where logs of crashes are sent
+TODO: Modify sections, mention Mapbox
 
 ## Privacy Policy
 
