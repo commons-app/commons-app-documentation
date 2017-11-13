@@ -1,10 +1,4 @@
-# Draft
-
-Note: This is still work in progress. Volunteer help appreciated!
-
-TODO: Modify sections, mention Mapbox
-
-## Privacy Policy
+# Privacy Policy
 
 The Wikimedia Commons Android app is a free, open-source app developed by grantees and volunteers of the Wikimedia community to allow users to upload content to Wikimedia Commons. This SERVICE is provided by members of the Wikimedia community and is intended for use as is. 
 
