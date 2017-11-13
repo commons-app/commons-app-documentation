@@ -2,8 +2,6 @@
 
 Note: This is still work in progress. Volunteer help appreciated!
 
-_Note: I have removed the blanket copy/paste from the WMF privacy policy - from what I have read, the majority of that is not applicable to us. Instead, I am using https://gist.github.com/alphamu/c42f6c3fce530ca5e804e672fed70d78#file-android-privacy-policy-template as a template and modifying to suit our app._
-
 TODO: Modify sections, mention Mapbox
 
 ## Privacy Policy
@@ -16,7 +14,7 @@ This Policy is used to inform users regarding our policies with the collection, 
 
 For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to your username, location and pictures stored on your phone. The information that we request is retained on your device and is not collected by us in any way. 
 
-The app does use third party services that may collect information used to identify you. [TODO: Mapbox. What else?].
+The app does use third party services that may collect information used to identify you. [TODO: Mapbox. https://www.mapbox.com/privacy/#[MDWaYcfm]].
 
 
 <p><strong>Service Providers</strong></p> <!-- This part need seem like it's not needed, but if you use any Google services, or any other third party libraries, chances are, you need this. -->
