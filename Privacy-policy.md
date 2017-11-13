@@ -49,6 +49,6 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 
 ### Contact Us
 
-If you have any questions or suggestions about our Privacy Policy, please do not hesitate to contact us by creating an issue here on GitHub or posting on our [Google Groups forum](https://groups.google.com/forum/#!forum/commons-app-android).
+If you have any questions or suggestions about our Privacy Policy, please do not hesitate to contact us by [creating an issue](https://github.com/commons-app/apps-android-commons/issues/new) here on GitHub or posting on our [Google Groups forum](https://groups.google.com/forum/#!forum/commons-app-android).
 
 This Privacy Policy was adapted from a template from [privacypolicytemplate.net](https://privacypolicytemplate.net/)  
