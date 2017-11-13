@@ -16,7 +16,7 @@ We use Mapbox map servers in order to provide the "Nearby places that need photo
 
 Mapbox's [privacy policy](https://www.mapbox.com/privacy/#[MDWaYcfm]) states that:
 
-When a mobile application uses Mapbox SDKs, it may send to Mapbox certain limited location and usage data along with an ephemeral ID. We also use a more stable ID for the limited purpose of tracking the number of monthly active users connected to our developer customers. If we collect location data, we do not associate it with any identifying information, including names, permanent IDs, email addresses, IP addresses, or phone numbers. You can find more information about how we secure and use location data on our telemetry page.
+> When a mobile application uses Mapbox SDKs, it may send to Mapbox certain limited location and usage data along with an ephemeral ID. We also use a more stable ID for the limited purpose of tracking the number of monthly active users connected to our developer customers. If we collect location data, we do not associate it with any identifying information, including names, permanent IDs, email addresses, IP addresses, or phone numbers. You can find more information about how we secure and use location data on our telemetry page.
 
 
 ### Image EXIF data
