@@ -14,20 +14,16 @@ This Policy is used to inform users regarding our policies with the collection, 
 
 For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to your username, location and pictures stored on your phone. The information that we request is retained on your device and is not collected by us in any way. 
 
-The app does use third party services that may collect information used to identify you. [TODO: Mapbox. https://www.mapbox.com/privacy/#[MDWaYcfm]].
+The app does use third party services that may collect information used to identify you. 
 
+### Third-party Service Providers
 
-<p><strong>Service Providers</strong></p> <!-- This part need seem like it's not needed, but if you use any Google services, or any other third party libraries, chances are, you need this. -->
-<p>[I|We] may employ third-party companies and individuals due to the following reasons:</p>
-<ul>
-    <li>To facilitate our Service;</li>
-    <li>To provide the Service on our behalf;</li>
-    <li>To perform Service-related services; or</li>
-    <li>To assist us in analyzing how our Service is used.</li>
-</ul>
-<p>[I|We] want to inform users of this Service that these third parties have access to your Personal
-    Information. The reason is to perform the tasks assigned to them on our behalf. However, they
-    are obligated not to disclose or use the information for any other purpose.</p>
+We use Mapbox map servers in order to provide the "Nearby places that need photos" feature in our Service. We want to inform users of this Service that these third parties have access to your Personal Information. However, they are obligated not to disclose or use the information for any other purpose.
+
+Mapbox's [privacy policy](https://www.mapbox.com/privacy/#[MDWaYcfm]) states that:
+
+When a mobile application uses Mapbox SDKs, it may send to Mapbox certain limited location and usage data along with an ephemeral ID. We also use a more stable ID for the limited purpose of tracking the number of monthly active users connected to our developer customers. If we collect location data, we do not associate it with any identifying information, including names, permanent IDs, email addresses, IP addresses, or phone numbers. You can find more information about how we secure and use location data on our telemetry page.
+
 
 ### Image EXIF data
 
