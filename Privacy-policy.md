@@ -6,7 +6,7 @@ This Policy is used to inform users regarding our policies with the collection, 
 
 ### Information Collection and Use
 
-For a better experience while using our Application, we may require you to provide us with certain personally identifiable information, including but not limited to your username, location and pictures stored on your phone. Images that you upload to Wikimedia Commons via our Application will be publicly viewable on Wikimedia Commons along with your username, the location of the image (if geotagging is enabled) and associated image data. Aside from that, the information that we request is retained on your device and is not collected by us in any way. 
+While using our Application, we may require you to provide us with certain personally identifiable information, including but not limited to your username, location and pictures stored on your phone. Images that you upload to Wikimedia Commons via our Application will be publicly viewable on Wikimedia Commons along with your username, the location of the image (if geotagging is enabled) and associated image data. Aside from that, the information that we request is retained on your device and is not collected by us in any way. 
 
 The app does use third party services that may collect information used to identify you. 
 
