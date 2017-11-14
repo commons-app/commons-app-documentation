@@ -1,18 +1,18 @@
 # Privacy Policy
 
-The Wikimedia Commons Android app is a free, open-source app developed by grantees and volunteers of the Wikimedia community to allow users to upload content to Wikimedia Commons. This SERVICE is provided by members of the Wikimedia community and is intended for use as is. 
+The Wikimedia Commons Android app is a free, open-source app developed by grantees and volunteers of the Wikimedia community to allow users to upload content to Wikimedia Commons. This APPLICATION is provided by members of the Wikimedia community and is intended for use as is. 
 
-This Policy is used to inform users regarding our policies with the collection, use, and disclosure of Personal Information. If you choose to use the Wikimedia Commons Android app, then you agree to the collection and use of information in relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy, and we do not rent or sell your information to third parties.
+This Policy is used to inform users regarding our policies with the collection, use, and disclosure of Personal Information. If you choose to use the Wikimedia Commons Android app, then you agree to the collection and use of information in relation with this policy. The Personal Information that we collect are used for providing and improving the Application. We will not use or share your information with anyone except as described in this Privacy Policy, and we do not rent or sell your information to third parties.
 
 ### Information Collection and Use
 
-For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to your username, location and pictures stored on your phone. The information that we request is retained on your device and is not collected by us in any way. 
+For a better experience while using our Application, we may require you to provide us with certain personally identifiable information, including but not limited to your username, location and pictures stored on your phone. The information that we request is retained on your device and is not collected by us in any way. 
 
 The app does use third party services that may collect information used to identify you. 
 
 ### Third-party Service Providers
 
-We use Mapbox map servers in order to provide the "Nearby places that need photos" feature in our Service. We want to inform users of this Service that these third parties have access to your Personal Information. However, they are obligated not to disclose or use the information for any other purpose.
+We use Mapbox map servers in order to provide the "Nearby places that need photos" feature in our Application. We want to inform users of this Application that these third parties have access to your Personal Information. However, they are obligated not to disclose or use the information for any other purpose.
 
 Mapbox's [privacy policy](https://www.mapbox.com/privacy/#[MDWaYcfm]) states that:
 
@@ -21,15 +21,15 @@ Mapbox's [privacy policy](https://www.mapbox.com/privacy/#[MDWaYcfm]) states tha
 
 ### Image EXIF data
 
-Images uploaded to Wikimedia Commons via this Service will NOT be stripped of EXIF metadata that may contain (but is not limited to) image location, date taken, phone manufacturer and model, and camera settings. All of this metadata will be visible on Wikimedia Commons along with the image. If a user desires to strip an image of EXIF metadata, it is recommended that this be done prior to uploading.
+Images uploaded to Wikimedia Commons via this Application will NOT be stripped of EXIF metadata that may contain (but is not limited to) image location, date taken, phone manufacturer and model, and camera settings. All of this metadata will be visible on Wikimedia Commons along with the image. If a user desires to strip an image of EXIF metadata, it is recommended that this be done prior to uploading.
 
 ### Log Data
 
-We want to inform you that whenever you use our Service, in case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your devices’s Internet Protocol (“IP”) address, device name, operating system version, configuration of the app when utilising our Service, the time and date of your use of the Service, and other statistics. This Data can only be viewed on the Google Play Developer console by developers with access to this console. 
+We want to inform you that whenever you use our Application, in case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your devices’s Internet Protocol (“IP”) address, device name, operating system version, configuration of the app when utilising our Application, the time and date of your use of the Application, and other statistics. This Data can only be viewed on the Google Play Developer console by developers with access to this console. 
 
 ### Cookies
 
-Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory. This Service does not uses these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collection information and to improve their services. You have the option to either accept or refuse these cookies, and know when a cookie is being sent to your device. If you choose to refuse cookies, you may not be able to use some portions of this Service.
+Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory. This Application does not uses these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collection information and to improve their services. You have the option to either accept or refuse these cookies, and know when a cookie is being sent to your device. If you choose to refuse cookies, you may not be able to use some portions of this Application.
 
 ### Security
 
@@ -37,7 +37,7 @@ We value your trust in providing us your Personal Information, thus we are striv
 
 ### Links to Other Sites
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over, and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+This Application may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over, and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
 ### Children’s Privacy
 
