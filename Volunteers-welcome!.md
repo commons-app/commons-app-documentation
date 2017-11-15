@@ -18,6 +18,12 @@ It is recommended that you actually try the app and upload pictures with it. Bec
 
 Use the beta version or even better, compile from the latest source! Report bugs to the [issue tracker](https://github.com/commons-app/apps-android-commons/issues/).
 
+## How to install the beta
+TODO
+
+## How to install the test flavor
+TODO
+
 # Translators
 
 See [[Translating the App]].
