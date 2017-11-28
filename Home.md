@@ -6,7 +6,7 @@
 # Contributor Documentation
 
 - [[Volunteers welcome!]]
-- [[Translating the App]]
+- [[Translating the app]]
 
 # Developer Documentation
 
