@@ -2,7 +2,7 @@ We are always looking for volunteers, feel free to step in! It is very easy, cho
 
 # Developers
 
-1.  Fork the repository and clone it to your computer, then follow the build instructions above.
+1.  Fork the repository and clone it to your computer, then follow the [build instructions](https://github.com/commons-app/apps-android-commons/wiki/Develop-with-Android-Studio-or-IntelliJ).
 2. Choose an [unassigned issue](https://github.com/commons-app/apps-android-commons/issues?utf8=%E2%9C%93&q=is%3Aopen%20is%3Aissue%20no%3Aassignee%20-label%3Aassigned) that sounds interesting to you (here are [beginner-friendly issues](https://github.com/commons-app/apps-android-commons/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee+-label%3Aassigned+label%3A%22beginner+friendly%22)).
 3. Read the issue's comments to make sure you understand what is the bug, or what feature is being proposed.
 4. Write a "I start working on this" comment on the issue
