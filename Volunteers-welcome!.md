@@ -34,4 +34,4 @@ See https://commons.wikimedia.org/wiki/Commons:Mobile_app#We_need_your_help:_ple
 
 # Documentation writers
 
-Be this wiki, the [Wikimedia page](https://commons.wikimedia.org/wiki/Commons:Mobile_app#We_need_your_help:_please_monitor_uploads), the [official webpage](http://commons-app.github.io) or the source code, documentation always needs to be improved and updated.
+Be it this wiki, the [Wikimedia page](https://commons.wikimedia.org/wiki/Commons:Mobile_app#We_need_your_help:_please_monitor_uploads), the [official webpage](http://commons-app.github.io) or the source code, documentation always needs to be improved and updated.
