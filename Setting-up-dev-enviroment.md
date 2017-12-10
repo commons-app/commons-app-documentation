@@ -9,7 +9,7 @@ Do `git remote -v`. It will probably show you
 origin https://github.com/maskaravivek/apps-android-commons.git (fetch and push)
 ```
 
-Then add original remote ie. commons repo by using
+Then add the upstream remote ie. commons repo by using
 ```
 git remote add upstream https://github.com/commons-app/apps-android-commons.git
 ```
