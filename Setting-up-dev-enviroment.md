@@ -16,7 +16,7 @@ git remote add upstream https://github.com/commons-app/apps-android-commons.git
 
 Now `git remote -v` will show 
 ```
-origin https://github.com/neslihanturan/apps-android-commons.git (fetch and push)
+origin https://github.com/maskaravivek/apps-android-commons.git (fetch and push)
 upstream https://github.com/commons-app/apps-android-commons.git (fetch and push)
 ```
 
