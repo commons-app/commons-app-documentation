@@ -90,4 +90,4 @@ Do not forget to update the [Wiki pages](https://github.com/commons-app/apps-and
 on GitHub to describe the updated behavior and make sure that the resulting
 Wiki pages don't become stale as a consequence of your change.
 
-Note: These guidelines are based on the git project's guideline for submitting patches (Documentation/SubmittingPatches). It's licensed under GPLv2.
+Note: These guidelines are based on the Git project's [guideline for submitting patches](https://github.com/git/git/blob/master/Documentation/SubmittingPatches). It's licensed under GPLv2.
