@@ -70,7 +70,7 @@ format, or this invocation of "git show":
     git show -s --date=short --pretty='format:%h ("%s", %ad)' <commit>
 
 
-### Write tests for your code
+### Write tests for your code (if possible)
 
 Make sure that you have tests for the bug you are fixing.
 
@@ -84,7 +84,7 @@ on open source projects), you can use their Travis CI integration to
 test your changes.
 
 
-### Update the Wiki pages
+### Update the Wiki pages (if possible)
 
 Do not forget to update the [Wiki pages](https://github.com/commons-app/apps-android-commons/wiki)
 on GitHub to describe the updated behavior and make sure that the resulting
