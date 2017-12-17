@@ -23,7 +23,7 @@ Download the app from [here](https://play.google.com/store/apps/details?id=fr.fr
 
 ![App page](https://i.imgur.com/8oQqtCs.png)
 
-Scroll down until you see a box mentioning the beta program. 
+Scroll down until you see a box mentioning the beta programme. 
 
 ![Join beta program](https://i.imgur.com/GyBqL6X.png)
 
