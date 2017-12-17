@@ -20,9 +20,13 @@ Use the beta version or even better, compile from the latest source! Report bugs
 
 ## How to install the beta
 Download the app from [https://play.google.com/store/apps/details?id=fr.free.nrw.commons](here). The app page looks like this
+
 ![App page](https://i.imgur.com/8oQqtCs.png)
+
 Scroll down until you see a box mentioning the beta program. 
+
 ![Join beta program](https://i.imgur.com/GyBqL6X.png)
+
 After some minutes of enrolling, update your app to get the beta version.
 
 ## How to install the test flavor
