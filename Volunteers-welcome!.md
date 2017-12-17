@@ -19,7 +19,7 @@ It is recommended that you actually try the app and upload pictures with it. Bec
 Use the beta version or even better, compile from the latest source! Report bugs to the [issue tracker](https://github.com/commons-app/apps-android-commons/issues/).
 
 ## How to install the beta
-Download the app from here https://play.google.com/store/apps/details?id=fr.free.nrw.commons . The app page looks like this
+Download the app from here https://play.google.com/store/apps/details?id=fr.free.nrw.commons. The app page looks like this
 ![App page](https://i.imgur.com/8oQqtCs.png)
 Scroll down until you see a box mentioning the beta program. 
 ![Join beta program](https://i.imgur.com/GyBqL6X.png)
