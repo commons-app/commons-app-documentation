@@ -17,7 +17,13 @@
 6. Publish to Google Play
 7. Update Google Play's changelog
 
+# Branching and hotfix system for releases
 
+- Every major release (e.g. 2.6) should be pulled from master and a new branch created (e.g. `2.6.x-release`)
+- Hotfixes to the major release must be done in the `2.6.x-release` branch, not in master
+- Hotfix releases (e.g. 2.6.1) will be pulled from the `2.6.x-release` branch. New changes/enhancements to master will not be included in the hotfix release
+- Release branches will be merged into master periodically (so master is up to date with hotfixes made to release branches)
+- Hotfixes can be released to production after being tested in beta for a few days. Major releases on the other hand should be tested in beta for a much longer time (e.g. 2 weeks?)
 
 # Moderation of the mailing list
 
