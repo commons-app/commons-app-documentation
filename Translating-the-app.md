@@ -20,8 +20,7 @@ Translatewiki is configured to export a certain list of languages to a certain f
 This is defined in their [Git repository](https://phabricator.wikimedia.org/diffusion/GTWN/repository/master/) ([Github mirror](https://github.com/wikimedia/translatewiki/)) in [this yaml file](https://phabricator.wikimedia.org/diffusion/GTWN/browse/master/groups/Wikimedia/CommonsAndroid.yaml) ([copy at the Github mirror](https://github.com/wikimedia/translatewiki/blob/master/groups/Wikimedia/CommonsAndroid.yaml))
 
 ## How to add new languages
-
-TODO
+If your language is not available, please crate a new Github issue asking for it, and we will add it as soon as possible. Thanks!
 
 ## Statistics
 
