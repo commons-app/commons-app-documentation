@@ -7,7 +7,8 @@ We are always looking for volunteers, feel free to step in! It is very easy, cho
 3. Read the issue's comments to make sure you understand what is the bug, or what feature is being proposed.
 4. Write a "I start working on this" comment on the issue
 5. Write the code :-)
-6. Commit and push
+6. If it takes more than two days, please post other comments at least every two days, explaining in a few words how you are handling the issue. Also, commit and push to Git from time to time.
+6. After fixing the issue, commit and push, and test one last time.
 7. Go to your fork of the repository, select the "Pull Requests" tab and click "create a pull request", as a comment, write something like "Fix for issue #12345 crash when rotating screen", then submit the pull request.
 8. Within a few hours or days, a core developer will review your patch, and either merge it or suggest a few corrections.
 9. If you change your mind, or if it is too difficult, no problem, just write "Sorry I don't work on this anymore" on the issue, if possible including feedback (for instance what approaches failed) and ideas.
