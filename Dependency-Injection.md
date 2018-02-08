@@ -124,3 +124,12 @@ public class CoffeeMaker {
 Constructor injection makes it clear what dependencies a class needs and there is far less chance that a `NullPointerException` will be generated because someone created an instance of `CoffeeMaker` and forgot to initialize the members.
 
 The time when you'll need to use member injection is in classes created by Android - Activities, Fragments, etc - but if you follow the framework outlined on this page your dependencies will arrive when you need them.
+
+## Example usage 1 
+
+I want to create a new fragment, ExampleFragment.java that will use a LocationServiceManager. How do I do this?
+
+1. Check if one of the methods annotated with `@Provides` in CommonsApplicationModule.java already returns a LocationServiceManager. 
+2. If it does, then I can use this method by calling `@Inject LocationServiceManager locationServiceManager` in ExampleFragment.java
+3. Check how ExampleFragment.java should be added to the Dagger configuration. As it is a Fragment, I would go to FragmentBuilderModule.java and add the line `@ContributesAndroidInjector abstract ExampleFragment bindExampleFragment();`
+4. ExampleFragment.java must subclass DaggerFragment for this to work
