@@ -127,9 +127,19 @@ The time when you'll need to use member injection is in classes created by Andro
 
 ## Example usage 1 
 
-I want to create a new fragment, ExampleFragment.java that will use a LocationServiceManager. How do I do this?
+I want to create a new fragment, ExampleFragment.java, that will use a LocationServiceManager. How do I do this?
 
 1. Check if one of the methods annotated with `@Provides` in CommonsApplicationModule.java already returns a LocationServiceManager. 
 2. If it does, then I can use this method by calling `@Inject LocationServiceManager locationServiceManager` in ExampleFragment.java
 3. Check how ExampleFragment.java should be added to the Dagger configuration. As it is a Fragment, I would go to FragmentBuilderModule.java and add the line `@ContributesAndroidInjector abstract ExampleFragment bindExampleFragment();`
-4. ExampleFragment.java must subclass DaggerFragment for this to work
+4. `ExampleFragment` must subclass `DaggerFragment` for this to work
+
+## Example usage 2
+
+I want to inject the `SharedPreferences` named `("direct_nearby_upload_prefs")` into PlaceRenderer.java.
+
+1. Check if one of the methods annotated with `@Provides` in CommonsApplicationModule.java already returns a SharedPreferences named ("direct_nearby_upload_prefs")
+2. If it does, then I can use this dependency by calling `@Inject @Named("direct_nearby_upload_prefs") SharedPreferences directPrefs;` in PlaceRenderer.java
+3. Before this dependency is used, I need to create an injector in PlaceRenderer.java by invoking
+ `((CommonsApplication) getContext().getApplicationContext()).injector().inject(this);`
+4. And I also need to add `void inject(PlaceRenderer placeRenderer);` to the interface in CommonsApplicationComponent.java
