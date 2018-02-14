@@ -15,6 +15,7 @@
 - [[Develop with Android Studio or IntelliJ]]
 - [[Build manually]]
 - [[Issue Template]]
+- [[Pull Request Template]]
 
 ## Implementation
 
