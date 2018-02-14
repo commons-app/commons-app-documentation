@@ -14,6 +14,7 @@
 - [[Code Style]]
 - [[Develop with Android Studio or IntelliJ]]
 - [[Build manually]]
+- [[Issue Template]]
 
 ## Implementation
 
