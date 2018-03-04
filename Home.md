@@ -35,6 +35,7 @@ Documentation about the App itself, not the implementation:
 * [[Screen Structure]]
   * [[Tutorial for new users]]
 * [[App Functionality]]
+* [[Frequently Asked Questions]]
 
 
 ## API testing:
