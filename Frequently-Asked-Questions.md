@@ -1,4 +1,4 @@
-- [[Questions about the project]]
+# Questions about the project
 ## What is this app about?
 ## What is the scope of this project?
 ## Can I put material on this app?
