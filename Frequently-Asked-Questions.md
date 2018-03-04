@@ -1,9 +1,11 @@
+# Commons:FAQ
+
 1. [Questions about the project](#questions-about-the-project)
 2. [Copyright questions](#copyright-questions)
 3. [Technical questions](#technical-questions)
 4. [Questions about the Commons community](#questions-about-the-commons-community)
 
-# Questions about the project
+## Questions about the project
 
 **What is this app about?**
 
@@ -26,10 +28,10 @@
 
 > Commons is about multimedia content (images, video, sound), not text. Text may, depending on form and content, fit into some other Wikimedia project, such as Wikibooks, Wikipedia, Wikisource, or Wikiversity. However, please note that you must not copy and paste text to these other projects unless you are willing to release it into the public domain or license it for use under the Creative Commons Attribution/Share-Alike (CC BY or CC BY-SA) licenses. For example, to use text from a website—even your own—that external website must exhibit a clear statement of such public domain release or CC BY-SA licensing.
 
-# Copyright questions
+## Copyright questions
 
-# Technical questions
+## Technical questions
 
-# Questions about the Commons community
+## Questions about the Commons community
 
 
