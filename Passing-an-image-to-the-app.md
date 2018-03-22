@@ -2,7 +2,7 @@ Developers who wish to pass an image from their app to the Wikimedia Commons app
 
 ```java
 public void shareImage() {
-    Uri imageUri = // your image uri
+    Uri imageUri = // your image URI
         
     Intent shareIntent = new Intent();
     shareintent.setAction(Intent.ACTION_SEND);
@@ -21,8 +21,8 @@ private static final String INTENT_DESCRIPTION_KEY = "description";
 public void shareImage() {
     Uri imageUri = // your image uri
 
-    String imageTitle = ""; // The title of the image you want to share
-    String imageDescription = ""; // A short description of the image you want to share
+    String imageTitle = ""; // The title of the image you want to share, for instance "Joe Biden climbing Eiffel Tower"
+    String imageDescription = ""; // Further description of the image you want to share, for instance "Taken a the third floor, after meeting reporters"
 
     Intent shareIntent = new Intent();
     shareintent.setAction(Intent.ACTION_SEND);
