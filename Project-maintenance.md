@@ -4,8 +4,9 @@
 - Any reviewers can merge a pull request from another developer after review. 
 - Except for small/straightforward changes, it is strongly recommended that the reviewer test the code before merging. This can be done via `git fetch upstream pull/304/head:pr-304` then `git checkout pr-304`.
 - Nobody can merge their own pull requests. The only exception is for the project leader, who can push straightforward changelogs/versioning/etc or urgent bugfixes.
+- We strongly prefer that pull requests be merged via "Squash and merge".
 
-
+![image](https://user-images.githubusercontent.com/3611199/38073828-f6add6ca-336f-11e8-8f97-333406aaf029.png)
 
 # Procedure to release a new version
 
