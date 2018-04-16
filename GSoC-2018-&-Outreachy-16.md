@@ -2,7 +2,7 @@ Huge thanks to all students who have sent us proposals for [Google Summer of Cod
 
 In alphabetical order:
 
-### "Allow users to Browse Commons" project
+### "Allow users to browse Commons" project
 
 - [B Jatin Rao](https://phabricator.wikimedia.org/T190232)
 - [Rostyslav Khoptiy](https://phabricator.wikimedia.org/T190640)
