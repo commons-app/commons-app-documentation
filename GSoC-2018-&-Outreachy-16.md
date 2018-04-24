@@ -20,7 +20,4 @@ In alphabetical order:
 - [Tanvi Dadu](https://phabricator.wikimedia.org/T189788)
 - [Valentina Koniukhova](https://phabricator.wikimedia.org/T190964)
 
-We were very impressed by the high quality of the proposals. Many of the students solved bugs and implemented new features in the Wikimedia [Commons mobile app](https://commons-app.github.io/). In particular, we would like to highlight the **fantastic work** of:
-
-- **Suchit Kar**, who single-handedly implemented a particularly difficult feature (picture deletion), including the API research, API calls, UI, and exception handling. Suchit implemented the feature in a very short time, while maintaining perfect communication with the team.
-- TODO add as relevant
+We were very impressed by the high quality of the proposals. Many of the students solved bugs and implemented new features in the Wikimedia [Commons mobile app](https://commons-app.github.io/).
