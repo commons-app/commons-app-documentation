@@ -4,7 +4,7 @@ Our coding style follows [Google Java Style Guide](http://checkstyle.sourceforge
 
 ## Javadocs
 
-We require contributors to include [http://www.oracle.com/technetwork/articles/java/index-137868.html](Javadocs) for all new methods and classes submitted via PRs (after 1 May 2018). This is aimed at making it easier for new contributors to dive into our codebase, especially those who are new to Android development. A few things to note:
+We require contributors to include [Javadocs](http://www.oracle.com/technetwork/articles/java/index-137868.html) for all new methods and classes submitted via PRs (after 1 May 2018). This is aimed at making it easier for new contributors to dive into our codebase, especially those who are new to Android development. A few things to note:
 
 * This should not **replace** the need for code that is easily-readable in and of itself
 * Please make sure that your Javadocs are reasonably descriptive, not just a copy of the method name
