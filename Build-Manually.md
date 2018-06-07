@@ -1,6 +1,6 @@
 ### Requirements ###
 
-1. Java SDK 8 (OpenJDK 8 or Oracle Java SE 8), later versions do not work
+1. Java SDK 8 ([OpenJDK 8](http://openjdk.java.net/install/) or [Oracle Java SE 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)), later versions do not work
 2. [Android SDK][3] (Level 23 or higher)
 3. [Gradle][4]
 
