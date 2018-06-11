@@ -4,7 +4,8 @@
 
 ## Background
 
-Wikimedia Commons Android app allows users to share pictures from Android devices to Wikimedia Commons. One of its feature is geotagging - with this enabled, file pages created via the app contain location information, enabling re-users to find photos based on location, for example.
+<img src="https://raw.githubusercontent.com/wiki/commons-app/apps-android-commons/screenshot-commons-location-template.png" alt="location template on Wikimedia Commons" align="right" width=300/>
+Wikimedia Commons Android app allows users to share pictures from Android devices to Wikimedia Commons. One of its feature is geotagging - with this enabled, file pages created via the app contain location information, enabling re-users to find photos based on location, for example. See the image on the right where the location information is published on Wikimedia Commons.
 
 There are two timings when location information was obtained and used: when the photo was taken and when it was shared to Wikimedia Commons.  The latter is primarily used for [location-based category search](https://github.com/commons-app/apps-android-commons/wiki/Location-based-category-search) when the photo is not already geotagged, and it needed to be explicitly set on the Settings screen of the app to be activated.
 
@@ -26,8 +27,9 @@ There are two timings when location information was obtained and used: when the 
 * 2018-06-11: A new beta version of the app was released for emergency fix. It now explicitly stated that upload-time location information will be published when the user enabled the upload-time geotagging.
 
 ## FAQ
+<img src="https://raw.githubusercontent.com/wiki/commons-app/apps-android-commons/screenshot-gps.png" alt="upload-time GPS preference" width=300 align="right"/>
 
 * **Q** I have never enabled the "Automatically get current location" preference. Does this incident affect me?
-  * **A** No, this preference is disabled by default. If you have never enabled it, your current coordinates will not have been retrieved.
+  * **A** No, this preference is disabled by default. See the image on the right to see where it is. If you have never enabled it, your current coordinates will not have been retrieved.
 * **Q** I allow my camera to embed GPS information to photos. Does this incident affect me?
   * **A** No, if the photo contained GPS information in it, that is the only location information the app might have published. The upload-time geotagging was not activated in that case.
