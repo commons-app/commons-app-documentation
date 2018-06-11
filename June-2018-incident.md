@@ -15,3 +15,5 @@
 
 * **Q** I allow my camera to embed GPS information to photos. Does this mean I was affected of this incident?
   * **A** No, if the photo contained GPS information in it, that is the only location information the app published. The upload-time geotagging was not activated in that case.
+* **Q** I have never enabled the "Automatically get current location" preference. Does this incident affect me?
+  * **A** No, this preference is disabled by default. If you have never enabled it, your current coordinates will not have been retrieved.
