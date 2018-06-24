@@ -69,7 +69,7 @@ format, or this invocation of "git show":
 
     git show -s --date=short --pretty='format:%h ("%s", %ad)' <commit>
 
-
+Read the importance of commit message in the [linked blog](https://blog.oozou.com/commit-messages-matter-60309983c227?gi=c550a10d0f67).
 ### Write tests for your code (if possible)
 
 Make sure that you have tests for the bug you are fixing.
