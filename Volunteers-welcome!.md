@@ -11,10 +11,10 @@ We are always looking for volunteers, feel free to step in! It is very easy, cho
 6. After fixing the issue, make sure to test a final time.
 *  If you prefer to use android Studio to push; Go to VCS Tab -> Git -> Commit. A new window will pop up showing the changes you've made. Write a commit message. Hover the mouse over the commit button, and select "commit and push" from the drop-down menu. 
 * If you prefer to push from terminal (Gitbash for Windows Users), cd into your local repo, then type;
-```
-git commit -m <enter-commit-message>
-git push origin <branch_name>
-```
+   ```
+   git commit
+   git push origin <branch_name>
+   ```
 7. Go to your fork of the repository, select the "Pull Requests" tab and click "create a pull request", as a comment, write something like "Fix for issue #12345 crash when rotating screen", then submit the pull request.
 8. Within a few hours or days, a core developer will review your patch, and either merge it or suggest a few corrections.
 9. If you change your mind, or if it is too difficult, no problem, just write "Sorry I don't work on this anymore" on the issue, if possible including feedback (for instance what approaches failed) and ideas.
