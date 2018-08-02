@@ -33,7 +33,7 @@ Nearby is a fantastic way to find interesting places. But imagine that go to the
 ## Obsolete
 **Scenario**: Yes there used to be a castle here, but now there is absolutely nothing left, maybe it is just green fields or a factory or recent houses. There is not even a plaque indicating that there used to be a castle.
 
-**How to fix it**: Go to the Wikidata item, click on "Add statement", type "ended" property and select the "ended" property that appears. In the field that appears, enter the date at which the item disappeared, or just set it to "unknown" if you don't know when that happened. Finally, press "Publish".
+**How to fix it**: Go to www.wikidata.org in your browser, and search for the item in the search bar. At the Wikidata item page, click on "Add statement", type "ended" property and select the "ended" property that appears. In the field that appears, enter the date at which the item disappeared, or just set it to "unknown" if you don't know when that happened. Finally, press "Publish".
 
 ![](https://upload.wikimedia.org/wikipedia/commons/c/c1/Wikidata_screenshot_-_Add_statement.png)
 ![](https://upload.wikimedia.org/wikipedia/commons/5/5c/Wikidata_screenshot_-_select_%22ended%22_property.png)
@@ -44,5 +44,5 @@ Nearby is a fantastic way to find interesting places. But imagine that go to the
 ## Wrong coordinates
 **Scenario**: The pin shows the "Bodleian Library" here, but actually you know this library it is at a different place, maybe 10 meters across the street or even a few kilometers away. Make sure your GPS is correct, and double-check locations.
 
-**How to fix it**: Go to the Wikidata item, edit the coordinate location, enter the right location (most latitude/longitude formats are accepted), and remove the reference if there was one. Then go to the talk page and explain why you think this is the real location.
+**How to fix it**: Go to www.wikidata.org in your browser, and search for the item in the search bar. At the Wikidata item page, edit the coordinate location, enter the right location (most latitude/longitude formats are accepted), and remove the reference if there was one. Then go to the talk page and explain why you think this is the real location.
 
