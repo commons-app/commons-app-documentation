@@ -35,11 +35,11 @@ Scenario: Yes there used to be a castle here, but now there is absolutely nothin
 
 How to fix it: Go to the Wikidata item, click on "Add statement", type "ended" property and select the "ended" property that appears. In the field that appears, enter the date at which the item disappeared, or just set it to "unknown" if you don't know when that happened.
 
-![](https://commons.wikimedia.org/wiki/File:Wikidata_screenshot_-_Add_statement.png)
-![](https://commons.wikimedia.org/wiki/File:Wikidata_screenshot_-_select_%22ended%22_property.png)
-![](https://commons.wikimedia.org/wiki/File:Wikidata_screenshot_-_date.png)
-![](https://commons.wikimedia.org/wiki/File:Wikidata_screenshot_-_custom-no-unknown_value_menu.png)
-![](https://commons.wikimedia.org/wiki/File:Wikidata_screenshot_-_unknown_value.png)
+![](https://upload.wikimedia.org/wikipedia/commons/c/c1/Wikidata_screenshot_-_Add_statement.png)
+![](https://upload.wikimedia.org/wikipedia/commons/5/5c/Wikidata_screenshot_-_select_%22ended%22_property.png)
+![](https://upload.wikimedia.org/wikipedia/commons/5/5f/Wikidata_screenshot_-_date.png)
+![](https://upload.wikimedia.org/wikipedia/commons/1/1c/Wikidata_screenshot_-_unknown_value.png)
+![](https://upload.wikimedia.org/wikipedia/commons/0/0c/Wikidata_screenshot_-_custom-no-unknown_value_menu.png)
 
 ## Wrong coordinates
 Scenario: The pin shows the "Bodleian Library" here, but actually you know this library it is at a different place, maybe 10 meters across the street or even a few kilometers away.
