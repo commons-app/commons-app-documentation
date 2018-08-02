@@ -31,9 +31,9 @@ Pictures you upload may lead to your identity. Let's say you live under a dictat
 Nearby is a fantastic way to find interesting places. But imagine that go to the place pinned on the map, and it is not at all what was expected? In such cases, fixing the problem is very important, and you can do it easily! It will benefit not only Commons but also all other Wikimedia projects and in particular Wikipedia. Here is how to proceed:
 
 ## Obsolete
-Scenario: Yes there used to be a castle here, but now there is absolutely nothing left, maybe it is just green fields or a factory or recent houses. There is not even a plaque indicating that there used to be a castle.
+**Scenario**: Yes there used to be a castle here, but now there is absolutely nothing left, maybe it is just green fields or a factory or recent houses. There is not even a plaque indicating that there used to be a castle.
 
-How to fix it: Go to the Wikidata item, click on "Add statement", type "ended" property and select the "ended" property that appears. In the field that appears, enter the date at which the item disappeared, or just set it to "unknown" if you don't know when that happened.
+**How to fix it**: Go to the Wikidata item, click on "Add statement", type "ended" property and select the "ended" property that appears. In the field that appears, enter the date at which the item disappeared, or just set it to "unknown" if you don't know when that happened.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/c/c1/Wikidata_screenshot_-_Add_statement.png)
 ![](https://upload.wikimedia.org/wikipedia/commons/5/5c/Wikidata_screenshot_-_select_%22ended%22_property.png)
@@ -42,6 +42,7 @@ How to fix it: Go to the Wikidata item, click on "Add statement", type "ended" p
 ![](https://upload.wikimedia.org/wikipedia/commons/0/0c/Wikidata_screenshot_-_custom-no-unknown_value_menu.png)
 
 ## Wrong coordinates
-Scenario: The pin shows the "Bodleian Library" here, but actually you know this library it is at a different place, maybe 10 meters across the street or even a few kilometers away.
+**Scenario**: The pin shows the "Bodleian Library" here, but actually you know this library it is at a different place, maybe 10 meters across the street or even a few kilometers away. Make sure your GPS is correct, and double-check locations.
 
-How to fix it: Make sure 
+**How to fix it**: Go to the Wikidata item, edit the coordinate location, enter the right location (most latitude/longitude formats are accepted), and remove the reference if there was one. Then go to the talk page and explain why you think this is the real location.
+
