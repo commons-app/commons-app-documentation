@@ -25,3 +25,23 @@ Pictures you upload may lead to your identity. Let's say you live under a dictat
 - Create a throwaway Wikimedia account without an email address, and only use it for that picture or set of pictures. Then afterwards avoid modifying these pictures with your usual account.
 - Remove the EXIF from your picture. Only a few persons on Earth use the same camera model, same firmware version, same settings as you, and all of this information is available in the EXIF, making it easy to link from this picture to your other pictures. The application [Scrambled Exif](https://gitlab.com/juanitobananas/scrambled-exif) ([F-Droid](https://f-droid.org/en/packages/com.jarsilio.android.scrambledeggsif/), [Google Play](https://play.google.com/store/apps/details?id=com.jarsilio.android.scrambledeggsif)) makes the process easy.
 - Even lens/camera imperfections might theoretically allow a very motivated organization to match your pictures.
+
+# Fixing errors in Nearby
+
+Nearby is a fantastic way to find interesting places. But imagine that go to the place pinned on the map, and it is not at all what was expected? In such cases, fixing the problem is very important, and you can do it easily! It will benefit not only Commons but also all other Wikimedia projects and in particular Wikipedia. Here is how to proceed:
+
+## Obsolete
+Scenario: Yes there used to be a castle here, but now there is absolutely nothing left, maybe it is just green fields or a factory or recent houses. There is not even a plaque indicating that there used to be a castle.
+
+How to fix it: Go to the Wikidata item, click on "Add statement", type "ended" property and select the "ended" property that appears. In the field that appears, enter the date at which the item disappeared, or just set it to "unknown" if you don't know when that happened.
+
+![](https://commons.wikimedia.org/wiki/File:Wikidata_screenshot_-_Add_statement.png)
+![](https://commons.wikimedia.org/wiki/File:Wikidata_screenshot_-_select_%22ended%22_property.png)
+![](https://commons.wikimedia.org/wiki/File:Wikidata_screenshot_-_date.png)
+![](https://commons.wikimedia.org/wiki/File:Wikidata_screenshot_-_custom-no-unknown_value_menu.png)
+![](https://commons.wikimedia.org/wiki/File:Wikidata_screenshot_-_unknown_value.png)
+
+## Wrong coordinates
+Scenario: The pin shows the "Bodleian Library" here, but actually you know this library it is at a different place, maybe 10 meters across the street or even a few kilometers away.
+
+How to fix it: Make sure 
