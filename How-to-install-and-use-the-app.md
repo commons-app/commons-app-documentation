@@ -33,7 +33,7 @@ Nearby is a fantastic way to find interesting places. But imagine that go to the
 ## Obsolete
 **Scenario**: Yes there used to be a castle here, but now there is absolutely nothing left, maybe it is just green fields or a factory or recent houses. There is not even a plaque indicating that there used to be a castle.
 
-**How to fix it**: Go to the Wikidata item, click on "Add statement", type "ended" property and select the "ended" property that appears. In the field that appears, enter the date at which the item disappeared, or just set it to "unknown" if you don't know when that happened.
+**How to fix it**: Go to the Wikidata item, click on "Add statement", type "ended" property and select the "ended" property that appears. In the field that appears, enter the date at which the item disappeared, or just set it to "unknown" if you don't know when that happened. Finally, press "Publish".
 
 ![](https://upload.wikimedia.org/wikipedia/commons/c/c1/Wikidata_screenshot_-_Add_statement.png)
 ![](https://upload.wikimedia.org/wikipedia/commons/5/5c/Wikidata_screenshot_-_select_%22ended%22_property.png)
