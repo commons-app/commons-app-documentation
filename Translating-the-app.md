@@ -7,8 +7,8 @@ Translation of the text content of the Wikimedia Commons Android app happens on 
 Getting a translator account on translatewiki is a bit cumbersome, but don't worry you will get one soon:
 
 1. Create an account at https://translatewiki.net
-2. To get "translate rights" edit 20 [random keys](https://translatewiki.net/wiki/Special:TranslationStash?)
-3. If for any reason that does not work, you can also ask in their [chat](https://translatewiki.net/wiki/Special:WebChat)).
+2. To get "translate rights", first edit 20 [random keys](https://translatewiki.net/wiki/Special:TranslationStash?)
+3. If for any reason that does not work, you can also ask in TranslateWiki's [chat](https://translatewiki.net/wiki/Special:WebChat).
 
 # Internals
 
