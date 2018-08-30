@@ -2,7 +2,7 @@
 
 - All changes must be done via pull requests.
 - Any reviewers can merge a pull request from another developer after review. Before merging, please ensure the following requirements are met:
- - Unless the changes are extremely small/straightforward (e.g. changing part of a string), the PR must be tested at least once and the results of the tests documented in a comment on that PR. You can test the PR via `git fetch upstream pull/304/head:pr-304` then `git checkout pr-304`
+  - Unless the changes are extremely small/straightforward (e.g. changing part of a string), the PR must be tested at least once and the results of the tests documented in a comment on that PR. You can test the PR via `git fetch upstream pull/304/head:pr-304` then `git checkout pr-304`
   - Ensure that there is appropriate documentation of the pull request via [Javadocs](https://github.com/commons-app/apps-android-commons/wiki/Code-style#javadocs). All new classes and methods must have Javadocs.
   - Check that any strings added do not have [unescaped HTML tags](https://github.com/commons-app/apps-android-commons/issues/1333#issuecomment-412430539), and that string literals are avoided.
   - Check that new libraries are not added without [appropriate discussion](https://github.com/commons-app/apps-android-commons/wiki/Code-style#new-libraries) in a separate issue.
