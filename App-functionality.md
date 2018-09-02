@@ -20,7 +20,7 @@ The Wikimedia Commons app offers the following functionality:
     - Show Place Details
         - Get directions (=> external app)
         - Commons Article (=> external browser)
-        - Wikidata item (=> external browser)
+        - Wikidata item ([See edits](https://quarry.wmflabs.org/query/29196))
 - Select Picture from Gallery
 - Select Picture from Camera
 - Set data for Picture
