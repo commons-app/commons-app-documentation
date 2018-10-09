@@ -12,7 +12,7 @@ We require contributors to include [Javadocs](http://www.oracle.com/technetwork/
 
 ## New libraries
 
-As of 30 Aug 2018, new libraries can only be added if an issue is created specifically for including the new library, and the person proposing it has good reasons for why the library would benefit the app as a whole, rather than just making it easier for them to do that one specific thing that they wanted to do in their PR. At least 3 other collaborators must agree before the inclusion can proceed. (We can change this number as activity fluctuates)
+For reasons mentioned [here](https://github.com/commons-app/apps-android-commons/issues/1489#issuecomment-416009545), as of 30 Aug 2018, new libraries can only be added if an issue is created specifically for including the new library, and the person proposing it has good reasons for why the library would benefit the app as a whole, rather than just making it easier for them to do that one specific thing that they wanted to do in their PR. At least 3 other collaborators must agree before the inclusion can proceed. (We can change this number as activity fluctuates)
 
 In short, please discuss things with us before you submit a PR with a new library, as otherwise your entire PR might be declined.
 
