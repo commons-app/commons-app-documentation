@@ -1,21 +1,20 @@
 # Pull requests and merging workflow
 
 - All changes must be done via pull requests.
-- Any reviewers can merge a pull request from another developer after review. Before merging, please ensure the following requirements are met:
-  - Unless the changes are extremely small/straightforward (e.g. changing part of a string), the PR must be tested at least once and the results of the tests documented in a comment on that PR. You can test the PR via `git fetch upstream pull/304/head:pr-304` then `git checkout pr-304`
-  - Ensure that there is appropriate documentation of the pull request via [Javadocs](https://github.com/commons-app/apps-android-commons/wiki/Code-style#javadocs). All new classes and methods must have Javadocs.
-  - Check that any strings added do not have [unescaped HTML tags](https://github.com/commons-app/apps-android-commons/issues/1333#issuecomment-412430539), and that string literals are avoided.
+- Any reviewer can merge a pull request from another developer after review. Before merging, please ensure the following requirements are met:
+  - Unless the changes are extremely small and straightforward, the PR must be tested and the results of the tests documented in a comment. You can fetch and checkout the PR from Github. As an example, for PR #304:<br>`git fetch upstream pull/304/head:pr-304`<br>`git checkout pr-304`
+  - Ensure that there is appropriate documentation (in the form of [Javadocs](https://github.com/commons-app/apps-android-commons/wiki/Code-style#javadocs)). All new classes and methods *must* have Javadocs.
+  - Check that strings added do not have [unescaped HTML tags](https://github.com/commons-app/apps-android-commons/issues/1333#issuecomment-412430539), and that string literals are avoided.
   - Check that new libraries are not added without [appropriate discussion](https://github.com/commons-app/apps-android-commons/wiki/Code-style#new-libraries) in a separate issue.
-- Nobody can merge their own pull requests. The only exception is for the project leader, who can push straightforward changelogs/versioning/etc or urgent bugfixes.
-- We strongly prefer that pull requests be merged via "Squash and merge".
-
+- Do not merge your own pull requests. The only exception is for the project leader, who can push straightforward changelogs/versioning/etc or urgent bugfixes.
+- Pull requests should be merged via "Squash and merge":
 ![image](https://user-images.githubusercontent.com/3611199/38073828-f6add6ca-336f-11e8-8f97-333406aaf029.png)
 
 # Procedure to release a new version
 
 1. Add the new features to [CHANGELOG.md](https://github.com/commons-app/apps-android-commons/blob/master/CHANGELOG.md)
 2. Increment `versionCode` and `versionName` in [AndroidManifest.xml](https://github.com/commons-app/apps-android-commons/blob/master/app/src/main/AndroidManifest.xml)
-3. Commit, push
+3. Commit, and push to Github
 4. Tag the commit as `v` + the version number, for instance `v1.32` for version 1.32. This is needed [for F-Droid](https://gitlab.com/fdroid/fdroiddata/blob/master/metadata/fr.free.nrw.commons.txt). Don't forget to push the tags (`git push commons-app --tags`).
 5. Click 'Draft a new release' and fill in details
 6. Publish to Google Play
@@ -31,17 +30,16 @@
 
 # Moderation of the mailing list
 
-The [mailing list](https://groups.google.com/d/forum/commons-app-android) is moderated by a volunteer. New users who post to the mailing list have their messages put in a moderation queue, and an email is sent to the moderators asking them to either whitelist or blacklist the person. The moderator receives emails with this kind of title:
+The [mailing list](https://groups.google.com/d/forum/commons-app-android) is moderated by volunteers. New users who post to the mailing list have their messages put in a moderation queue, and an email is sent to the moderators asking them to either whitelist or blacklist the person. The moderator receives emails with this kind of title:
 
 _commons-app-android - Google Groups: Message Pending [{IJCjjKCbgtX0ASoCb2kwB4ITL8vhkvwd0}]_
 
-When a such a moderation email comes, the moderator has a look at the message written by the new user, then blacklist if it is spam, whitelist if it is not. Spam is usually companies that want our app to use their advertisement products.
+A moderator will then review the email, and blacklist or whitelist the sender. All spam will be blacklisted; Spam is often companies that want our app for advertising.
 
-Notes for the moderator(s):
-- Only mark as spam messages that are clearly spam, or companies want us to use their advertisement products. If in doubt please contact the project leader, by discussing about specific messages you will learn what we consider spam or not.
-- Don't delete any message unless it is a duplicated message (sent twice) or totally empty (no attachment and no body).
-- Be extremely generous with whitelisting.
-- Any feedback about the app is obviously OK. Even hate mail (ex: "This app sucks!") is OK.
-- The moderation interface si similar to this:
-
+Notes for moderators:
+- Only mark as spam messages that are clearly spam, or companies wanting to provide advertising. If in doubt please contact the project leader
+- Be extremely generous with whitelisting
+- Don't delete any message unless it is a duplicated message (sent twice) or totally empty (no attachment and no body)
+- Any feedback about the app is obviously OK. Even hate mail (e.g. "This app sucks!") is OK.
+- The moderation interface is similar to this:
 ![Google Group moderation web interface screenshot](https://i.imgur.com/jOvcCFl.png)
