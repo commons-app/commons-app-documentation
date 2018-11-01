@@ -8,14 +8,14 @@
 7. Enter as many relevant categories as possible (see: [Categorization tips](https://commons.wikimedia.org/wiki/Commons:Categories#Categorization_tips))
 8. Press **Save**
 
-# Coordinates
+# Geotagging (adding location data to pictures)
 
-Pictures with a latitude/longitude are much more valuable, so please:
+Pictures with geolocation data are much more valuable, so please:
 
 - Enable **geotagging** in your camera app (often labelled: *GPS (tags)*, *Location (tags)*, or *save location* and with an icon of a map pin marker)
-- Before taking pictures, launch the free [GPS Locker](https://play.google.com/store/apps/details?id=com.silentlexx.gpslock) app. Another option is to install [Fine Geotag](https://play.google.com/store/apps/details?id=eu.faircode.finegeotag) which wakes up _just after_ a picture is taken and updates it with the current latitude/longitude, it is a bit less precise (especially if you travel fast) but consumes less battery. You can use an app such as [PhotoMap](https://play.google.com/store/apps/details?id=eu.bischofs.photomap) to check whether the pictures you take are correctly geolocalized or not.
-
-You can also manually add or edit the location of your photos using [Geotag Photos Pro](https://play.google.com/store/apps/details?id=com.tappytaps.android.geotagphotospro2) or [geoLLERY](https://play.google.com/store/apps/details?id=com.pkg.geollery).
+- To improve location accuracy, before taking pictures launch the free [GPS Locker](https://play.google.com/store/apps/details?id=com.silentlexx.gpslock) app.
+- You can use an app such as [PhotoMap](https://play.google.com/store/apps/details?id=eu.bischofs.photomap) to check whether the pictures you take are correctly geolocalized or not.
+- You can manually add or edit the location of your photos using [Geotag Photos Pro](https://play.google.com/store/apps/details?id=com.tappytaps.android.geotagphotospro2).
 
 # Need to be anonymous?
 
