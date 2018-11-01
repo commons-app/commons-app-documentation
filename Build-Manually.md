@@ -1,3 +1,5 @@
+Tip: it's much easier to build with [[Android Studio|Develop with Android Studio or IntelliJ]] instead.
+
 ### Requirements ###
 
 1. Java SDK 8 ([OpenJDK 8](http://openjdk.java.net/install/) or [Oracle Java SE 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)), later versions do not work
@@ -15,4 +17,4 @@ There are more thorough instructions on the [Android Developers website][5]
 
 [3]: https://developer.android.com/sdk/index.html
 [4]: http://gradle.org/gradle-download/
-[5]: https://developer.android.com/studio/build/building-cmdline.html
+[5]: https://developer.android.com/studio/build/building-cmdline
