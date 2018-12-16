@@ -64,6 +64,12 @@ Eliminate anonymous inner-classes for listeners by annotating methods with `@OnC
     }
 ```
 
+## Test-driven development
+
+- Use wrapper classes for accessing any static methods wherever possible. For eg. see `FileUtilsWrapper`, `ImageUtilsWrapper` and `BitmapRegionDecoderWrapper`. If we use static functions directly, it won't be possible to mock them. 
+- Avoid instance creation inside classes. Try to provide all instances required by a particular classs. For eg. see `UploadModel`. It uses dagger to get all the required instances. Creating an instance of a class inside a method makes it difficult to mock it. 
+
+
 ## External libraries
 We can only embed libraries that allow being embedded with Apache 2-licensed software.
 
