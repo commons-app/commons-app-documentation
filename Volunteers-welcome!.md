@@ -44,7 +44,7 @@ An alpha gets released automatically each time we modify the app. This means you
 To install the alpha:
 
 1) Join this Google Group: https://groups.google.com/d/forum/commons-alpha
-2) Perform the same steps as the section above "*How to install the beta*". Confusingly, Google Play says "beta" even for "alpha".
+2) Go to https://play.google.com/apps/testing/fr.free.nrw.commons/join and join the test program. Confusingly in some places this shows "beta" instead of "alpha", that's a Google Play bug.
 3) Another confusing thing is that the app still shows the beta version number in "*About*". However, the full version number is visible in Android's `Settings`>`Apps`>`Commons`, for instance `2.9.0.114`.
 
 ## How to install the test flavor
