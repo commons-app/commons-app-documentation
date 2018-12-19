@@ -26,18 +26,29 @@ It is recommended that you actually try the app and upload pictures with it. Bec
 Use the beta version or even better, compile from the latest source! Report bugs to the [issue tracker](https://github.com/commons-app/apps-android-commons/issues/).
 
 ## How to install the beta
-Download the app from [here](https://play.google.com/store/apps/details?id=fr.free.nrw.commons). The app page looks like this
+The beta version might have bugs, your role is to find them all so that we can make a bug-free stable release :-)
+
+Install the app from [here](https://play.google.com/store/apps/details?id=fr.free.nrw.commons). The app page looks like this
 
 ![App page](https://i.imgur.com/8oQqtCs.png)
 
-Scroll down until you see a box mentioning the beta programme. 
+Scroll down until you see a box mentioning the beta program.
 
 ![Join beta program](https://i.imgur.com/GyBqL6X.png)
 
-After some minutes of enrolling, update your app to get the beta version.
+After some minutes to an hour of enrolling, update your app to get the beta version.
+
+## How to install the alpha
+An alpha gets released automatically each time we modify the app. This means you get all new features immediately, but it also means that you will encounter bugs very often! Please report any bug you find. This also means Google Play will update the app every few days or even several times per day, so be sure to set up Google Play to only download updates on Wi-Fi.
+
+To install the alpha:
+
+1) Join this Google Group: https://groups.google.com/d/forum/commons-alpha
+2) Perform the same steps as the section above "*How to install the beta*". Confusingly, Google Play says "beta" even for "alpha".
+3) Another confusing thing is that the app still shows the beta version number in "*About*". However, the full version number is visible in Android's `Settings`>`Apps`>`Commons`, for instance `2.9.0.114`.
 
 ## How to install the test flavor
-TODO
+The test flavor allows you to use a server different from the Commons server. Only needed if you plan to upload many test images with no encyclopedic value. You must compile this version by yourself, from the source code.
 
 # Translators
 
