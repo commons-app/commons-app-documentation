@@ -4,7 +4,9 @@
 
 2. If you have chosen an issue, comment that you have begun work on the issue. If it will take you a long time, keep the issue updated with progress reports so people know you are still working on it.
 
-3. If you give up working on an issue leave a comment to let people know it's unassigned. It might also be helpful to explain what challenges you faced so future contributors get a head-start working on it.
+3. As you're working on your change, be sure to follow the [[code style guidelines|code style]]
+
+4. If you give up working on an issue leave a comment to let people know it's unassigned. It might also be helpful to explain what challenges you faced so future contributors get a head-start working on it.
 
 ## Submitting a change
 
