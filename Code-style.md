@@ -1,10 +1,10 @@
 ## General coding style
 
-Our coding style follows [Google Java Style Guide](http://checkstyle.sourceforge.net/reports/google-java-style-20170228.html). (See [#359](https://github.com/commons-app/apps-android-commons/issues/359))
+Our coding style follows [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html).
 
 ## Javadocs
 
-We require contributors to include [Javadocs](http://www.oracle.com/technetwork/articles/java/index-137868.html) for all new methods and classes submitted via PRs (after 1 May 2018). This is aimed at making it easier for new contributors to dive into our codebase, especially those who are new to Android development. A few things to note:
+We require contributors to include [Javadocs](http://www.oracle.com/technetwork/articles/java/index-137868.html) for all new methods and classes submitted via PRs. This is aimed at making it easier for new contributors to dive into our codebase, especially those who are new to Android development. A few things to note:
 
 * This should not **replace** the need for code that is easily-readable in and of itself
 * Please make sure that your Javadocs are reasonably descriptive, not just a copy of the method name
@@ -12,13 +12,13 @@ We require contributors to include [Javadocs](http://www.oracle.com/technetwork/
 
 ## New libraries
 
-For reasons mentioned [here](https://github.com/commons-app/apps-android-commons/issues/1489#issuecomment-416009545), as of 30 Aug 2018, new libraries can only be added if an issue is created specifically for including the new library, and the person proposing it has good reasons for why the library would benefit the app as a whole, rather than just making it easier for them to do that one specific thing that they wanted to do in their PR. At least 3 other collaborators must agree before the inclusion can proceed. (We can change this number as activity fluctuates)
+For reasons mentioned in [#1489](https://github.com/commons-app/apps-android-commons/issues/1489#issuecomment-416009545), new libraries can only be added if an issue is created specifically for including the new library, and the person proposing it has good reasons for why the library would benefit the app as a whole, rather than just making it easier for them to do that one specific thing that they wanted to do in their PR. At least 3 other collaborators must agree before the inclusion can proceed. (We can change this number as activity fluctuates)
 
 In short, please discuss things with us before you submit a PR with a new library, as otherwise your entire PR might be declined.
 
 ## Butterknife
 
-Contributors have the option of using [butterknife](https://github.com/JakeWharton/butterknife) for their view bindings. 
+Contributors have the option of using [butterknife](https://github.com/JakeWharton/butterknife) for their view bindings. We recommend doing so if you can.
 
 ### Adding Support
 To add support for butterknife we have added the following dependency in the [app/build.gradle](https://github.com/commons-app/apps-android-commons/blob/master/app/build.gradle) file.
@@ -67,7 +67,7 @@ Eliminate anonymous inner-classes for listeners by annotating methods with `@OnC
 ## Test-driven development
 
 - Use wrapper classes for accessing any static methods wherever possible. For eg. see `FileUtilsWrapper`, `ImageUtilsWrapper` and `BitmapRegionDecoderWrapper`. If we use static functions directly, it won't be possible to mock them. 
-- Avoid instance creation inside classes. Try to provide all instances required by a particular classs. For eg. see `UploadModel`. It uses dagger to get all the required instances. Creating an instance of a class inside a method makes it difficult to mock it. 
+- Avoid instance creation inside classes. Try to provide all instances required by a particular class. For eg. see `UploadModel`. It uses dagger to get all the required instances. Creating an instance of a class inside a method makes it difficult to mock it. 
 
 
 ## External libraries
