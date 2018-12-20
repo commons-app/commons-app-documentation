@@ -45,8 +45,7 @@
 If you have write access, you may merge anyone else's code after review.
 
 Before merging, ensure:
-- You have reviewed the changes
-- You are happy to sign off on these changes and do not think there are any potential legal implications
+- You have reviewed and approved the changes
 - The pull request has been carefully tested
 - The changes comply with our [[code style guide|code style]]
 - You are not merging your own pull request, or one which you have significantly contributed to
