@@ -10,10 +10,9 @@
 
 # Developer Documentation
 
+- [[Quick start guide for developers]]
 - [[Project Maintenance]]
 - [[Code Style]]
-- [[Develop with Android Studio or IntelliJ]]
-- [[Build manually]]
 - [[Libraries used]]
 
 ## Implementation
@@ -24,8 +23,6 @@
 * [[External APIs]]
 * [[Code Structure]]
 * [[On Device Storage]]
-
-- Viewing tables and shared preferences via debugging with Stetho: Run in debug mode, go to browser, chrome://inspect/#device, select inspect device, Resources tab.
 
 ## App Information
 
