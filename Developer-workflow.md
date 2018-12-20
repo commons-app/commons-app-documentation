@@ -12,7 +12,7 @@
 
 ## Submitting a change
 
-1. Create a branch in your fork of the repository, and push your changes to it
+1. Create a new branch with a descriptive name in your fork of the repository, and push your changes to it
 
 2. Submit a pull request to master with your change
 
