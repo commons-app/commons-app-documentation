@@ -19,7 +19,9 @@
     - In `Build, Execution, Deployment` > `Instant Run` uncheck the `Enable Instant Run` checkbox
     - Click `OK` to save and exit from the settings window
 
-6. You should be set up to start developing!
+6. Read through the [pull request and merging workflow](https://github.com/commons-app/apps-android-commons/wiki/Project-maintenance#pull-requests-and-merging-workflow) and the [code style guide](https://github.com/commons-app/apps-android-commons/wiki/Code-style).
+
+7. Start contributing! Please do ask for help in an issue if you need it.
 
 ## Common issues
 
