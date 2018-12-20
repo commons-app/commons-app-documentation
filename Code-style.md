@@ -1,10 +1,29 @@
+# Commons Android App Style Guide
+
+## Summary
+
+You must:
+- Add Javadocs to all new methods and classes
+- Follow correct procedures if adding a new library
+- Escape HTML tags in strings
+
+You should:
+- Follow the [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
+- Avoid using string literals
+- Avoid calling proprietary HTTP endpoints
+- Avoid instance creation inside classes
+- Use wrapper classes when accessing static methods
+- Write code that is easy to read, test and debug
+
+---
+
 ## General coding style
 
-Our coding style follows [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html).
+Our coding style follows the [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html).
 
 ## Javadocs
 
-We require contributors to include [Javadocs](http://www.oracle.com/technetwork/articles/java/index-137868.html) for all new methods and classes submitted via PRs. This is aimed at making it easier for new contributors to dive into our codebase, especially those who are new to Android development. A few things to note:
+You must include [Javadocs](http://www.oracle.com/technetwork/articles/java/index-137868.html) for all new methods and classes. This is aimed at making it easier for new contributors to dive into our codebase, especially those who are new to Android development. A few things to note:
 
 * This should not **replace** the need for code that is easily-readable in and of itself
 * Please make sure that your Javadocs are reasonably descriptive, not just a copy of the method name
@@ -12,9 +31,37 @@ We require contributors to include [Javadocs](http://www.oracle.com/technetwork/
 
 ## New libraries
 
-For reasons mentioned in [#1489](https://github.com/commons-app/apps-android-commons/issues/1489#issuecomment-416009545), new libraries can only be added if an issue is created specifically for including the new library, and the person proposing it has good reasons for why the library would benefit the app as a whole, rather than just making it easier for them to do that one specific thing that they wanted to do in their PR. At least 3 other collaborators must agree before the inclusion can proceed. (We can change this number as activity fluctuates)
+For reasons mentioned in [#1489](https://github.com/commons-app/apps-android-commons/issues/1489#issuecomment-416009545), new libraries can only be added if: 
+- an issue is created specifically for including the new library
+- the person proposing it has good reasons for why the library would benefit the app as a whole
+- at least 3 other collaborators agree to the addition (number may change as activity fluctuates)
+- they are compatible Apache 2-licensed
 
 In short, please discuss things with us before you submit a PR with a new library, as otherwise your entire PR might be declined.
+
+### Licensing
+We can only embed libraries that allow being embedded with Apache 2-licensed software.
+
+In particular, we can NOT embed:
+
+- Google Play Services, as it is not even open source
+- GNU-GPL source code, [for this reason](https://www.apache.org/licenses/GPL-compatibility.html)
+
+We CAN embed:
+- Apache 2-licensed source code
+- MIT-licensed source code, because the MIT license is compatible with the Apache 2 license.
+- Public domain source code
+
+Calling HTTP services powered by non open source software (example: Google Search, Crashlytics, HockeyApp) is not illegal per se, but:
+- It should be avoided if possible, because it would attract as a negative badge on F-Droid saying "_promotes non-free network services_" (_free_ being used with the meaning of [free software](https://www.gnu.org/philosophy/free-sw.en.html)).
+- Following [our privacy policy](https://wikimediafoundation.org/wiki/Privacy_policy), we must not reveal much about the user. Arguably revealing the user's IP address might be considered as already too much, which effectively would prevent any such third-party service from being used.
+- The client-side source code should be compatible license-wise.
+
+## Strings
+
+Strings added must not have [unescaped HTML tags](https://github.com/commons-app/apps-android-commons/issues/1333#issuecomment-412430539)
+
+String literals should be avoided
 
 ## Butterknife
 
@@ -68,22 +115,3 @@ Eliminate anonymous inner-classes for listeners by annotating methods with `@OnC
 
 - Use wrapper classes for accessing any static methods wherever possible. For eg. see `FileUtilsWrapper`, `ImageUtilsWrapper` and `BitmapRegionDecoderWrapper`. If we use static functions directly, it won't be possible to mock them. 
 - Avoid instance creation inside classes. Try to provide all instances required by a particular class. For eg. see `UploadModel`. It uses dagger to get all the required instances. Creating an instance of a class inside a method makes it difficult to mock it. 
-
-
-## External libraries
-We can only embed libraries that allow being embedded with Apache 2-licensed software.
-
-In particular, we can NOT embed:
-
-- Google Play Services, as it is not even open source
-- GNU-GPL source code, [for this reason](https://www.apache.org/licenses/GPL-compatibility.html)
-
-We CAN embed:
-- Apache 2-licensed source code
-- MIT-licensed source code, because the MIT license is compatible with the Apache 2 license.
-- Public domain source code
-
-Calling HTTP services powered by non open source software (example: Google Search, Crashlytics, HockeyApp) is not illegal per se, but:
-- It should be avoided if possible, because it would attract as a negative badge on F-Droid saying "_promotes non-free network services_" (_free_ being used with the meaning of [free software](https://www.gnu.org/philosophy/free-sw.en.html)).
-- Following [our privacy policy](https://wikimediafoundation.org/wiki/Privacy_policy), we must not reveal much about the user. Arguably revealing the user's IP address might be considered as already too much, which effectively would prevent any such third-party service from being used.
-- The client-side source code should be compatible license-wise.
