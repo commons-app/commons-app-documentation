@@ -11,9 +11,10 @@
 # Developer Documentation
 
 - [[Quick start guide for developers]]
-- [[Project Maintenance]]
+- [[Developer workflow]]
 - [[Code Style]]
 - [[Libraries used]]
+- [[Project Maintenance]]
 
 ## Implementation
 
