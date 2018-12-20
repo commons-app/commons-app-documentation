@@ -1,14 +1,6 @@
 # Pull requests and merging workflow
 
-- All changes must be done via pull requests.
-- Any reviewer can merge a pull request from another developer after review. Before merging, please ensure the following requirements are met:
-  - Unless the changes are extremely small and straightforward, the PR must be tested and the results of the tests documented in a comment. You can fetch and checkout the PR from Github. As an example, for PR #304:<br>`git fetch upstream pull/304/head:pr-304`<br>`git checkout pr-304`<br>To add the main repo as upstream, run (only needs to be done first time):<br>`git remote add upstream https://github.com/commons-app/apps-android-commons.git`
-  - Ensure that there is appropriate documentation (in the form of [Javadocs](https://github.com/commons-app/apps-android-commons/wiki/Code-style#javadocs)). All new classes and methods *must* have Javadocs.
-  - Check that strings added do not have [unescaped HTML tags](https://github.com/commons-app/apps-android-commons/issues/1333#issuecomment-412430539), and that string literals are avoided.
-  - Check that new libraries are not added without [appropriate discussion](https://github.com/commons-app/apps-android-commons/wiki/Code-style#new-libraries) in a separate issue.
-- Do not merge your own pull requests. The only exception is for the project leader, who can push straightforward changelogs/versioning/etc or urgent bugfixes.
-- Pull requests should be merged via "Squash and merge":
-![image](https://user-images.githubusercontent.com/3611199/38073828-f6add6ca-336f-11e8-8f97-333406aaf029.png)
+See [[Developer workflow]]
 
 # Procedure to release a new version
 
