@@ -2,22 +2,8 @@ We are always looking for volunteers, feel free to step in! It's very easy to ge
 
 # Developers
 
-1. Fork the repository and clone it to your computer; to do so using Android Studio, follow the [build instructions](https://github.com/commons-app/apps-android-commons/wiki/Develop-with-Android-Studio-or-IntelliJ) . Otherwise, here's a guide on setting up the [dev environment](https://github.com/commons-app/apps-android-commons/wiki/Setting-up-dev-enviroment) internally 
-2. Choose an [unassigned issue](https://github.com/commons-app/apps-android-commons/issues?utf8=%E2%9C%93&q=is%3Aopen%20is%3Aissue%20no%3Aassignee%20-label%3Aassigned) that sounds interesting to you (here are [beginner-friendly issues](https://github.com/commons-app/apps-android-commons/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee+-label%3Aassigned+label%3A%22beginner+friendly%22)).
-3. Read the issue's comments to make sure you understand what is the bug, or what feature is being proposed.
-4. Comment "I've started working on this" on the issue
-5. Write the code :-)
-6. If it takes more than two days, please post update comments explaining in a few words how you are handling the issue.
-7. After fixing the issue, make sure to test a final time.
-*  If you prefer to use android Studio to push; Go to VCS Tab -> Git -> Commit. A new window will pop up showing the changes you've made. Write a commit message. Hover the mouse over the commit button, and select "commit and push" from the drop-down menu. 
-* If you prefer to push from terminal (Git Bash for Windows Users), cd into your local repo, then type;
-   ```
-   git commit
-   git push origin <branch_name>
-   ```
-8. Go to your fork of the repository, select the "Pull Requests" tab and click "create a pull request". Fill out the pull request form and submit it for review.
-9. Within a few hours or days, a core developer should review your patch, and either merge it or suggest a few corrections.
-10. If you change your mind, or if it is too difficult, no problem, just write "Sorry I don't work on this anymore" on the issue, if possible including feedback (for instance what approaches failed) and ideas.
+1. Set up your working environment by following the [[quick start guide|Quick start guide for Developers]].
+2. Choose an [unassigned issue](https://github.com/commons-app/apps-android-commons/issues?utf8=%E2%9C%93&q=is%3Aopen%20is%3Aissue%20no%3Aassignee%20-label%3Aassigned) that sounds interesting to you (here are [beginner-friendly issues](https://github.com/commons-app/apps-android-commons/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee+-label%3Aassigned+label%3A%22beginner+friendly%22)) and follow the [[developer workflow]].
 
 It is recommended that you actually try the app and upload pictures with it. Become familiar with the various workflows. Notice what kind of categories are suggested depending on where the picture is taken or what you type. Check what people consider [excellent pictures](https://commons.wikimedia.org/wiki/Commons:Featured_pictures) and get inspired by their rich descriptions and accurate categories.
 
