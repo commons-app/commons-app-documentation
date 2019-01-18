@@ -111,6 +111,38 @@ Eliminate anonymous inner-classes for listeners by annotating methods with `@OnC
     }
 ```
 
+## Shared Preferences
+
+We have 2 wrapper classes to provide instances of shared prefs. 
+- `BasicKvStore`
+- `JsonKvStore`
+
+These classes handle all the logic for talking with `SharedPreferences`. Anyone trying to use shared prefs can do it using simple interfaces: 
+
+```
+BasicKvStore store = new BasicKvStore(context, "storeName");
+
+Put string value:
+store.putString("test", "Hello world");
+
+Get String value:
+String value = store.getString("test");
+```
+Similiarly JsonKvStore can be used for complex objects: 
+
+```
+JsonKvStore store = new JsonKvStore(context, "storeName");
+
+Put Json value: 
+
+Place place = new Place(); //assume you have an instance of place object
+store.putJson("test", place)
+
+Get Json value: 
+
+Place place = store.getJson("test", Place.java)
+```
+
 ## Test-driven development
 
 - Use wrapper classes for accessing any static methods wherever possible. For eg. see `FileUtilsWrapper`, `ImageUtilsWrapper` and `BitmapRegionDecoderWrapper`. If we use static functions directly, it won't be possible to mock them. 
