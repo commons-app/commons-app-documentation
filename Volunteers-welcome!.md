@@ -3,7 +3,7 @@ We are always looking for volunteers, feel free to step in! It's very easy to ge
 # Developers
 
 1. Set up your working environment by following the [[quick start guide|Quick start guide for Developers]].
-2. Choose an [unassigned issue](https://github.com/commons-app/apps-android-commons/issues?utf8=%E2%9C%93&q=is%3Aopen%20is%3Aissue%20no%3Aassignee%20-label%3Aassigned) that sounds interesting to you (here are [beginner-friendly issues](https://github.com/commons-app/apps-android-commons/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee+-label%3Aassigned+label%3A%22beginner+friendly%22)) and follow the [[developer workflow]].
+2. Choose an [unassigned issue](https://github.com/commons-app/apps-android-commons/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+no%3Aassignee+-label%3Aassigned+-label%3Adebated) that sounds interesting to you (here are [beginner-friendly issues](https://github.com/commons-app/apps-android-commons/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee+-label%3Aassigned+label%3A%22beginner+friendly%22)) and follow the [[developer workflow]].
 
 It is recommended that you actually try the app and upload pictures with it. Become familiar with the various workflows. Notice what kind of categories are suggested depending on where the picture is taken or what you type. Check what people consider [excellent pictures](https://commons.wikimedia.org/wiki/Commons:Featured_pictures) and get inspired by their rich descriptions and accurate categories.
 
