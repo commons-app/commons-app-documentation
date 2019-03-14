@@ -3,9 +3,11 @@ We are always looking for volunteers, feel free to step in! It's very easy to ge
 # Developers
 
 1. Set up your working environment by following the [[quick start guide|Quick start guide for Developers]].
-2. Choose an [unassigned issue](https://github.com/commons-app/apps-android-commons/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+no%3Aassignee+-label%3Aassigned+-label%3Adebated) that sounds interesting to you (here are [beginner-friendly issues](https://github.com/commons-app/apps-android-commons/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+no%3Aassignee+-label%3Aassigned+label%3A%22beginner+friendly%22+-label%3Adebated)) and follow the [[developer workflow]].
+2. Choose an [unassigned issue](https://github.com/commons-app/apps-android-commons/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+no%3Aassignee+-label%3Aassigned+-label%3Adebated) that sounds interesting to you, and ask to be assigned the issue. 
+3. As of 14 March 2019 (see [#2553](https://github.com/commons-app/apps-android-commons/issues/2553) for rationale and further details), new contributors may only be assigned issues with "bug" and "beginner-friendly" labels. Issues labeled "enhancement" will usually only be assigned to contributors with **>5 previous contributions** to this repo. Exceptions may be granted if multiple collaborators agree, but it will take time for approval.
+4. Follow the [[developer workflow]].
 
-It is recommended that you actually try the app and upload pictures with it. Become familiar with the various workflows. Notice what kind of categories are suggested depending on where the picture is taken or what you type. Check what people consider [excellent pictures](https://commons.wikimedia.org/wiki/Commons:Featured_pictures) and get inspired by their rich descriptions and accurate categories.
+It is also recommended that you actually try the app and upload pictures with the app. Become familiar with the various workflows. Notice what kind of categories are suggested depending on where the picture is taken or what you type. Check what people consider [excellent pictures](https://commons.wikimedia.org/wiki/Commons:Featured_pictures) and get inspired by their rich descriptions and accurate categories.
 
 # Testers
 
