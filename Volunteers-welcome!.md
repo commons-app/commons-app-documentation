@@ -3,7 +3,7 @@ We are always looking for volunteers, feel free to step in! It's very easy to ge
 # Developers
 
 1. Set up your working environment by following the [[quick start guide|Quick start guide for Developers]].
-2. Choose an [unassigned issue](https://github.com/commons-app/apps-android-commons/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+no%3Aassignee+-label%3Aassigned+-label%3Adebated) that sounds interesting to you, and ask to be assigned the issue. 
+2. Choose an [unassigned issue](https://github.com/commons-app/apps-android-commons/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+no%3Aassignee+-label%3Aassigned+-label%3Adebated) that sounds interesting to you, and ask to be assigned the issue. If the issue was assigned to someone who has been inactive for over 1 month, you can bring this to the attention of collaborators who may ping them for updates and possibly re-assign the issue to you.
 3. As of 14 March 2019 (see [#2553](https://github.com/commons-app/apps-android-commons/issues/2553) for rationale and further details), new contributors may only be assigned issues with "bug" and "beginner-friendly" labels. Issues labeled "enhancement" will usually only be assigned to contributors with **>5 previous contributions** to this repo. Exceptions may be granted if multiple collaborators agree, but it will take time for approval.
 4. Follow the [[developer workflow]].
 
