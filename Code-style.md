@@ -15,6 +15,7 @@ You should also:
 - Avoid calling proprietary HTTP endpoints
 - Avoid instance creation inside classes
 - Use wrapper classes when accessing static methods
+- Avoid storing instances of `Context` as a member variable in your class
 - Write code that is easy to read, test and debug
 
 ---
