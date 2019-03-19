@@ -8,7 +8,9 @@
 
 4. As you're working on your change, be sure to follow the [[code style guidelines|code style]]
 
-5. If you give up working on an issue leave a comment to let people know it's unassigned. It might also be helpful to explain what challenges you faced so future contributors get a head-start working on it.
+5. Test your change. If the feature involves uploading pictures, either upload good picture that you take yourself, or ask us on the mailing list: We can send you dozens of good pictures that are not yet on Commons.
+
+6. If you give up working on an issue leave a comment to let people know it's unassigned. It might also be helpful to explain what challenges you faced so future contributors get a head-start working on it.
 
 ## Submitting a change
 
