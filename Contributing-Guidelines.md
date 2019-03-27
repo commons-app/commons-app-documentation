@@ -2,6 +2,16 @@ Thanks for considering to contribute to this project! A few guidelines for
 people who want to contribute their code to this software are documented
 here. If you're not sure where to start head on to [this wiki page](https://github.com/commons-app/apps-android-commons/wiki/Volunteers-welcome!).
 
+## Code Style
+
+https://github.com/commons-app/apps-android-commons/wiki/Code-style
+
+## Developer Workflow
+
+https://github.com/commons-app/apps-android-commons/wiki/Developer-workflow
+
+## General Guidelines
+
 ### Make separate commits for logically separate changes
 
 Always make a commit with complete commit message for a logically
