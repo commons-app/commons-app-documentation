@@ -10,6 +10,7 @@
 
 # Developer Documentation
 
+- [[Contributing-Guidelines]]
 - [[Quick start guide for developers]]
 - [[Developer workflow]]
 - [[Code Style]]
