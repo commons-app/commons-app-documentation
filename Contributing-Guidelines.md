@@ -2,6 +2,24 @@ Thanks for considering to contribute to this project! A few guidelines for
 people who want to contribute their code to this software are documented
 here. If you're not sure where to start head on to [this wiki page](https://github.com/commons-app/apps-android-commons/wiki/Volunteers-welcome!).
 
+## Summary
+
+You **must**:
+- Add Javadocs to all new methods and classes that you create
+- Follow correct procedures if adding a new library (additions of new libraries must always be discussed and approved beforehand)
+- Escape HTML tags in strings
+- Write unit tests to cover your own code if you are submitting an enhancement (the issue that you are working on has an "enhancement" label)
+- Follow the [MVP architecture](https://github.com/commons-app/apps-android-commons/issues/888) if you are submitting a large enhancement after 18 March 2019 (definitions of "large" vary according to context - if you are not sure whether this is needed for your code, ask beforehand)
+
+You should also:
+- Follow the [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
+- Avoid using string literals
+- Avoid calling proprietary HTTP endpoints
+- Avoid instance creation inside classes
+- Use wrapper classes when accessing static methods
+- Avoid storing instances of `Context` as a member variable in your class
+- Write code that is easy to read, test and debug
+
 ## Code Style
 
 https://github.com/commons-app/apps-android-commons/wiki/Code-style
