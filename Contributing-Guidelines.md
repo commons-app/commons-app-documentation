@@ -72,9 +72,7 @@ format, or this invocation of "git show":
 Read the importance of commit message in the [linked blog](https://blog.oozou.com/commit-messages-matter-60309983c227?gi=c550a10d0f67).
 ### Write tests for your code (if possible)
 
-Make sure that you have tests for the bug you are fixing.
-
-When adding a new feature, make sure that you have new tests to show
+When adding a new feature or submitting an enhancement, make sure that you have written unit tests to show
 the feature triggers the new behavior when it should, and to show the
 feature does not trigger when it shouldn't. After any code change, make
 sure that the entire test suite passes.
