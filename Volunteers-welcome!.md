@@ -11,7 +11,19 @@ It is also recommended that you actually try the app and upload pictures with th
 
 # Testers
 
-Use the beta version or even better, compile from the latest source! Report bugs to the [issue tracker](https://github.com/commons-app/apps-android-commons/issues/).
+Use the beta version, or even the alpha version, and report bugs to the [issue tracker](https://github.com/commons-app/apps-android-commons/issues/).
+
+Choose the beta version if:
+
+- You want to test only relatively stable versions of the app.
+- You consider that uploading your pictures is more important than finding the app's bugs.
+- You don't want to receive many app updates, because you don't have access to unlimited Internet.
+
+Choose the alpha version if:
+
+- You want to test the latest cutting edge (each commit is released as an alpha).
+- You love finding bugs, and don't mind if some features are unusable sometimes.
+- You don't mind receiving app updates several times per day.
 
 ## How to install the beta
 The beta version might have bugs, your role is to find them all so that we can make a bug-free stable release :-)
