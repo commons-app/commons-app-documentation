@@ -126,6 +126,17 @@ Get Json value:
 Place place = store.getJson("test", Place.java)
 ```
 
+If you need to save a List/Map/Set of values then you can simply save and retrieve it in JSON format. 
+
+The eg. below shows how to save and retrieve a `Set<String>`
+
+```
+Type setType = new TypeToken<Set<String>>() {}.getType();
+directKvStore.putJson("keyName", new HashSet<String>());
+directKvStore.getJson("keyName", setType);
+```
+
+
 ## Test-driven development
 
 - Use wrapper classes for accessing any static methods wherever possible. For eg. see `FileUtilsWrapper`, `ImageUtilsWrapper` and `BitmapRegionDecoderWrapper`. If we use static functions directly, it won't be possible to mock them. 
