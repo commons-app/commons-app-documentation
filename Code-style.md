@@ -102,6 +102,8 @@ We have 2 wrapper classes to provide instances of shared prefs.
 
 These classes handle all the logic for talking with `SharedPreferences`. Anyone trying to use shared prefs can do it using simple interfaces: 
 
+### BasicKvStore
+
 ```
 BasicKvStore store = new BasicKvStore(context, "storeName");
 
@@ -111,6 +113,9 @@ store.putString("test", "Hello world");
 Get String value:
 String value = store.getString("test");
 ```
+
+### JsonKvStore
+
 Similiarly JsonKvStore can be used for complex objects: 
 
 ```
