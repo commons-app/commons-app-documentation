@@ -12,7 +12,6 @@
 * [MaterialShowcaseView][12]
 * [CircleProgressBar][13]
 * [Dexter][14]
-* [SimpleMagic][15]
 * [Timber][16]
 * [SLF4J][17]
 * [Logback][18]
@@ -48,7 +47,6 @@
 [12]: https://github.com/deano2390/MaterialShowcaseView
 [13]: https://github.com/dinuscxj/CircleProgressBar
 [14]: https://github.com/Karumi/Dexter
-[15]: https://github.com/j256/simplemagic
 [16]: https://github.com/JakeWharton/timber
 [17]: https://www.slf4j.org/
 [18]: https://github.com/tony19/logback-android
