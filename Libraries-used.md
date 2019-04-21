@@ -6,8 +6,6 @@
 * [Apache Commons Codec][6]
 * [Renderers][7]
 * [Gson][8]
-* [Java-String-Similarity][9]
-* [ReadMoreTextView][10]
 * [MapBox][11]
 * [MaterialShowcaseView][12]
 * [CircleProgressBar][13]
@@ -20,7 +18,6 @@
 * [Okio][21]
 * [RxJava][22]
 * [RxBinding][23]
-* [Traceur][24]
 * [Fresco][25]
 * [Stetho][26]
 * [Dagger][27]
@@ -41,8 +38,6 @@
 [6]: https://commons.apache.org/proper/commons-codec/
 [7]: https://github.com/pedrovgs/Renderers
 [8]: https://github.com/google/gson
-[9]: https://github.com/tdebatty/java-string-similarity
-[10]: https://github.com/bravoborja/ReadMoreTextView
 [11]: https://www.mapbox.com/android-docs/maps/overview/
 [12]: https://github.com/deano2390/MaterialShowcaseView
 [13]: https://github.com/dinuscxj/CircleProgressBar
@@ -55,7 +50,6 @@
 [21]: https://github.com/square/okio
 [22]: https://github.com/ReactiveX/RxJava
 [23]: https://github.com/JakeWharton/RxBinding
-[24]: https://github.com/T-Spoon/Traceur
 [25]: https://github.com/facebook/fresco
 [26]: https://github.com/facebook/stetho
 [27]: https://github.com/google/dagger
