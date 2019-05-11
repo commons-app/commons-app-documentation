@@ -1,4 +1,4 @@
-Huge thanks to all students who have sent us proposals for [Google Summer of Code](https://summerofcode.withgoogle.com/) 2019 and Outreachy 17!
+Huge thanks to all students who have sent us proposals for [Google Summer of Code](https://summerofcode.withgoogle.com/) 2019 and Outreachy 18!
 
 In alphabetical order:
 
