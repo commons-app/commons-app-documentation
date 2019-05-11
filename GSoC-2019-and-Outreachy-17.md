@@ -4,21 +4,22 @@ In alphabetical order:
 
 ### "Add leaderboard based on user's edits using Commons Android app" project
 
-- Silky Priya 
-- Oluwadara Abijo 
-- Menna Ali Elshazly 
-- Uzosike Lynda Adaku 
-- Vanshika Arora 
-- Nahid Fatma 
-- Sashrika Kaur 
 - Jayshree Phulare 
-- Walugembe 
 - job getabu 
+- Menna Ali Elshazly 
+- Nahid Fatma 
+- Oluwadara Abijo 
+- Sashrika Kaur
+- Silky Priya 
+- Uzosike Lynda Adaku 
+- Vanshika Arora  
+- Walugembe 
+
 
 ### "Add Structured Commons support to Commons Android app" project
 
-- Vanshika Arora 
 - Madhur Gupta
 - Shubham Pinjwani
+- Vanshika Arora 
 
 We were very impressed by the high quality of the proposals. Many of the students solved bugs and implemented new features in the Wikimedia [Commons mobile app](https://commons-app.github.io/).
