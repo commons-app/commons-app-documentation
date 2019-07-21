@@ -3,7 +3,7 @@
 ## Category suggestions
 
 When search field is empty, display:
-* Category suggestions based on title that user input for that upload in the previous step
+* Category suggestions based on title that user input as the image title for that upload
 * Category suggestions based on location of image (if geotagged)
 * Category suggestions based on recently-selected categories for previous uploads (e.g. if user uploaded an image previously with the category "Japanese art", that would be suggested in their next upload)
 * Categories associated with the Wikidata item that an image is being uploaded for (if uploaded via Nearby)
