@@ -22,7 +22,11 @@ For reasons mentioned in [#1489](https://github.com/commons-app/apps-android-com
 
 In short, please discuss things with us before you submit a PR with a new library, as otherwise your entire PR might be declined.
 
-### Licensing
+## Architecture
+
+Follow the [MVP architecture](https://github.com/commons-app/apps-android-commons/issues/888) if you are submitting a large enhancement after 18 March 2019 (definitions of "large" vary according to context - if you are not sure whether this is needed for your code, ask beforehand)
+
+## Licensing
 We can only embed libraries that allow being embedded with Apache 2-licensed software.
 
 In particular, we can NOT embed:
