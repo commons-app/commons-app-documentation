@@ -7,6 +7,7 @@ The Commons app is localized (sometimes partially) to these languages:
 * Armenian
 * Assamese
 * Asturian
+* Azeri
 * Azerbaijani
 * Bangla
 * Bashkir
