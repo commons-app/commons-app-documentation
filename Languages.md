@@ -111,4 +111,4 @@ The Commons app is localized (sometimes partially) to these languages:
 * Yiddish
 * Zazaki
 
-(This list is used for Google Code-in 2018)
+(This list is used for Google Code-in)
