@@ -21,7 +21,7 @@
 
 6. Start contributing! Be sure to read through the [[developer workflow]] and the [[code style guide|code style]].
 
-## Common issues
+## Frequent issues
 
 - **Issue:** Most compile errors<br>
     **Fix:** Ensure you have disabled Instant Run in settings. See step 5 above.
