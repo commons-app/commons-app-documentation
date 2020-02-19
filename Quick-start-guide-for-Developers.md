@@ -21,6 +21,27 @@
 
 6. Start contributing! Be sure to read through the [[developer workflow]] and the [[code style guide|code style]].
 
+## Building the source code
+
+You can build the `beta` and `prod` flavor of the app for `debug` build type using the Android Studio. Read up more about flavor and build type [here](https://developer.android.com/studio/build/build-variants).
+
+You can either directly invoke the following commands using your terminal or you can [edit configurations](https://developer.android.com/studio/run/rundebugconfig) in android studio and add these configs. 
+To build the `beta` `debug` variant use: 
+
+```
+:app:installBetaDebug
+``` 
+
+To build the `prod` `debug` variant use: 
+
+```
+:app:installProdDebug
+``` 
+
+Note: 
+
+- You can also build and test the `release` variant for both `beta` and `prod` but you would need to use your own signing keys for it. Read up more about signing keys [https://developer.android.com/studio/publish/app-signing](here). Building and testing `release` variant might be required when you are debugging an issue that is happening just on `release` builds and not on `debug` builds. Most likely it should be a proguard issue. 
+
 ## Frequent issues
 
 - **Issue:** Most compile errors<br>
