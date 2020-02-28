@@ -40,7 +40,7 @@ To build the `prod` `debug` variant use:
 
 Note: 
 
-- You can also build and test the `release` variant for both `beta` and `prod` but you would need to use your own signing keys for it. Read up more about signing keys [https://developer.android.com/studio/publish/app-signing](here). Building and testing `release` variant might be required when you are debugging an issue that is happening just on `release` builds and not on `debug` builds. Most likely it should be a proguard issue. 
+- You can also build and test the `release` variant for both `beta` and `prod` but you would need to use your own signing keys for it. Read up more about signing keys [here](https://developer.android.com/studio/publish/app-signing). Building and testing `release` variant might be required when you are debugging an issue that is happening just on `release` builds and not on `debug` builds. Most likely it should be a proguard issue. 
 
 ## Frequent issues
 
