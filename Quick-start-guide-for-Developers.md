@@ -14,12 +14,7 @@
     - Enter the Git URL you obtained in step 3.
     - Specify a local directory you would like to save the project in and select `OK`.
 
-5. Disable Instant Run
-    - In the menu bar, click `File` > `Settings`
-    - In `Build, Execution, Deployment` > `Instant Run` uncheck the `Enable Instant Run` checkbox
-    - Click `OK` to save and exit from the settings window
-
-6. Start contributing! Be sure to read through the [[developer workflow]] and the [[code style guide|code style]].
+5. Start contributing! Be sure to read through the [[developer workflow]] and the [[code style guide|code style]].
 
 ## Building the source code
 
@@ -43,9 +38,6 @@ Note:
 - You can also build and test the `release` variant for both `beta` and `prod` but you would need to use your own signing keys for it. Read up more about signing keys [here](https://developer.android.com/studio/publish/app-signing). Building and testing `release` variant might be required when you are debugging an issue that is happening just on `release` builds and not on `debug` builds. Most likely it should be a proguard issue. 
 
 ## Frequent issues
-
-- **Issue:** Most compile errors<br>
-    **Fix:** Ensure you have disabled Instant Run in settings. See step 5 above.
 
 - **Issue:** `Cannot run program "git" (in directory "<project path>"): CreateProcess error=2, The system cannot find the file specified`<br>
     **Fix:** Make sure git is installed and added in the PATH environment variable. Don't forget to restart the machine after updating your PATH environment variable.
