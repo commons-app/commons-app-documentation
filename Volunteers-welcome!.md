@@ -50,6 +50,10 @@ To install the alpha:
 ## How to install the test flavor
 The test flavor allows you to use a server different from the Commons server. Only needed if you plan to upload many test images with no encyclopedic value. You must compile this version by yourself, from the source code.
 
+## Stress-testing
+
+To detect more crashes, we encourage testers to sometimes enable "Don't keep activities" (In [Developer options](https://developer.android.com/studio/debug/dev-options)), for instance one day per week.
+
 # Translators
 
 See [[Translating the App]].
