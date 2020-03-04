@@ -14,7 +14,7 @@
     - Enter the Git URL you obtained in step 3.
     - Specify a local directory you would like to save the project in and select `OK`.
 
-5. Start contributing! Be sure to read through the [[developer workflow]] and the [[code style guide|code style]].
+5. Start contributing! Be sure to read through the [developer workflow](Developer-workflow.md) and the [code style guide](Code-style.md).
 
 ## Building the source code
 

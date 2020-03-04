@@ -6,7 +6,7 @@
 
 3. Before you start working, ensure you are starting from an up-to-date branch to minimise merge conflicts and bugs in integrating your changes.
 
-4. As you're working on your change, be sure to follow the [[code style guidelines|code style]]
+4. As you're working on your change, be sure to follow the [code style guidelines](Code-style.md)
 
 5. Test your change. If the feature involves uploading pictures, either upload good picture that you take yourself, or ask us on the mailing list: We can send you dozens of good pictures that are not yet on Commons.
 
@@ -28,7 +28,7 @@
     - If not have a look in the logs to try and deduce what the error might be and provide feedback to the requester
     - If you think Travis should pass but isn't, try restarting the build. If this still doesn't work, see if there is any discussion in issues. If one doesn't exist already, submit a new issue tagged `continuous integration` and `high priority`.
 
-2. Read through the code, ensuring it looks sensible and complies with our [[code style guide|code style]].
+2. Read through the code, ensuring it looks sensible and complies with our [code style guide](Code-style.md).
 
 3. Get a copy of the code into Android Studio. To get a copy of a pull request, you can run
     ```
@@ -51,7 +51,7 @@ If you have write access, you may merge anyone else's code after review.
 Before merging, ensure:
 - You have reviewed and approved the changes
 - The pull request has been carefully tested
-- The changes comply with our [[code style guide|code style]]
+- The changes comply with our [code style guide](Code-style.md)
 - You are not merging your own pull request, or one which you have significantly contributed to
 
 Please use "Squash and merge" to merge changes.

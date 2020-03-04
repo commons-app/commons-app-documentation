@@ -1,6 +1,6 @@
 # Pull requests and merging workflow
 
-See [[Developer workflow]]
+See [Developer workflow](Developer-workflow.md)
 
 # Procedure to release a new version
 
