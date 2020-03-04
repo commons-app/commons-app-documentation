@@ -1,9 +1,6 @@
-# 📝 Documentation
+# 📓 iOS Documentation
 
-This repository acts as a wiki containing documentation for the Wikimedia Commons apps.
-
-- [📗 Android](android/README.md)
-- [📓 iOS](ios/README.md)
+This will hold information on the Wikimedia Commons iOS app.
 
 <!-- This is copied across README.md, ios/README.md, android/README.md - please keep them in sync! -->
 ## 🙌 Improving the docs
