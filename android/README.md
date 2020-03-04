@@ -1,5 +1,7 @@
 # 📗 Android Documentation
 
+This holds information on the Wikimedia Commons Android app.
+
 ## 👤 User Documentation
 
 - [How to install and use the app](How-to-install-and-use-the-app.md)
