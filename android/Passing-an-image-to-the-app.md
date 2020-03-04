@@ -1,3 +1,5 @@
+# Passing an image to the app
+
 Developers who wish to pass an image from their app to the Wikimedia Commons app can do so using an Intent, just like you would with any other app.
 
 ```java

@@ -1,3 +1,5 @@
+# Location based category search
+
 Task: Identify the best strategy/APIs to find Commons categories that are within a certain radius of specified GPS coordinates.
 
 This page will be used to document the results of testing the categories obtained via different APIs/strategies against the benchmark of categories that have been manually entered (by the Commons community or by myself) for each picture. 

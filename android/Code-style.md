@@ -1,3 +1,5 @@
+# Code style
+
 # Commons Android App Style Guide
 
 ## General coding style

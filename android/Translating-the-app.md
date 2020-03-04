@@ -1,3 +1,5 @@
+# Translating the app
+
 Thanks to the translation work of many volunteers this app is available in a multitude of languages.
 
 Translation of the text content of the Wikimedia Commons Android app happens on the [Commons Android App project](https://translatewiki.net/w/i.php?title=Special:Translate&group=commons-android) on [translatewiki.net](https://translatewiki.net). 

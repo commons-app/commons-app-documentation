@@ -1,3 +1,5 @@
+# Screen structure
+
 The Wikimedia Commons app consists of the following screens:
 
 - Tutorial (4 slides)

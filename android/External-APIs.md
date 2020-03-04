@@ -1,3 +1,5 @@
+# External APIs
+
 The Wikimedia Commons Android app uses several external APIs to do its job.
 
 ## List of APIs used

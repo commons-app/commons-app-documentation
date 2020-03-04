@@ -1,3 +1,5 @@
+# App functionality
+
 The Wikimedia Commons app offers the following functionality:
 
 ## In-App functionality

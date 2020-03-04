@@ -1,3 +1,5 @@
+# Dependency Injection
+
 ## Overview
 
 At its core, dependency injection is just the principle of `"tell, dont ask"` put into practice; for instance, if a class needs to use an instance of `MediaWikiApi`, it should be handed an instance of the classs rather than reaching out to get it.  This has the effect of decoupling code, making it easier to test and reuse.

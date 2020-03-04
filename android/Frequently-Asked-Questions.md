@@ -1,3 +1,5 @@
+# Frequently Asked Questions
+
 1. [Questions about the project](#questions-about-the-project)
 2. [Copyright questions](#copyright-questions)
 3. [Technical questions](#technical-questions)

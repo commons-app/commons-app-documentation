@@ -1,3 +1,5 @@
+# Code walkthrough for new devs (draft)
+
 Note: This is only a draft taken from personal notes, please feel free to improve
 
 ### Share: Incoming Intent

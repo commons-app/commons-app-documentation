@@ -1,3 +1,5 @@
+# Getting app logs from Android Studio
+
 Brief walkthrough for users on how to post logs if they are encountering issues.
 
 1. On your computer, [download](https://developer.android.com/studio/) and [install](https://developer.android.com/studio/install) Android Studio

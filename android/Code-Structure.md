@@ -1,3 +1,5 @@
+# Code Structure
+
 ## Key breakdowns:
 
 ### Activities started within the UI:

@@ -1,3 +1,5 @@
+# Category suggestions (readme)
+
 Three new types of category suggestions were implemented as part of the Outreachy Dec '15 - Mar '16 project:
 
 # 1. If a picture with geolocation is uploaded, nearby category suggestions are offered based on the categories of other Commons images with similar coordinates.

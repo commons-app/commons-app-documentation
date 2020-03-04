@@ -1,3 +1,5 @@
+# Fuzzy category search
+
 # Test data
 
 ## Sample generation methodology
