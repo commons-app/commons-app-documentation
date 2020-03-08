@@ -29,7 +29,7 @@ The four build variants:
 
 `prodRelease`: This is the release version of the app which connects to the production server. This cannot be used for debugging the app. You would have to sign this version of the app using your signing keys.
 
-For information on how to change `build variants`, [this page can be referred](https://github.com/Glitch101/documentation/blob/master/android/build-variants/Changing-Build-Variants.md).
+For information on how to change `build variants`, [this page can be referred](Changing-Build-Variants.md).
 
 ### Links to official android documentation
 Build types - https://developer.android.com/studio/build/build-variants#build-types
