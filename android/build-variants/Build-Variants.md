@@ -28,3 +28,9 @@ The four build variants:
 `betaRelease`: This is the release version of the app which connects to the beta server. This cannot be used for debugging the app. You would have to [sign this version of the app](https://developer.android.com/studio/publish/app-signing) using your signing keys.
 
 `prodRelease`: This is the release version of the app which connects to the production server. This cannot be used for debugging the app. You would have to sign this version of the app using your signing keys.
+
+
+### Links to official android documentation
+Build types - https://developer.android.com/studio/build/build-variants#build-types
+
+Product flavours - https://developer.android.com/studio/build/build-variants#product-flavors
