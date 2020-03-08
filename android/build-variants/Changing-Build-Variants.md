@@ -1,5 +1,5 @@
 ## Changing build variants of the Commons android project
-This page contains the instructions for changing the build variants of the Commons app in Android Studio.
+This page contains the instructions for changing the build variants of the Commons project in Android Studio.
 Information regrading different build variants of the Commons project can be found [here](https://github.com/Glitch101/documentation/blob/master/android/build-variants/Build-Variants.md)
 
 Step 1: Go to `Build` on the toolbar
