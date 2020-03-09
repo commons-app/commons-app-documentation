@@ -30,6 +30,8 @@ Documentation about the App itself, not the implementation:
 - [Libraries used](Libraries-used.md)
 - [Project Maintenance](Project-maintenance.md)
 - [Software design document](Software-design-document.md)
+- [Build variants types](/android/build-variants/Build-Variants.md)
+- [Changing build variants](/android/build-variants/Changing-Build-Variants.md)
 
 #### 🔧 Implementation
 
