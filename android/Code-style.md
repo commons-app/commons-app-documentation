@@ -6,6 +6,16 @@
 
 Our coding style follows the [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html).
 
+Our code style is part of the project and should be automatically used.  
+ The code style is located at `.idea/codeStyles/Project.xml`  
+ it is important that you commit no changes to this file unless you are working on a ticket
+ to update our code style.
+
+ It may also be beneficial to create a [macro](https://www.jetbrains.com/help/idea/using-macros-in-the-editor.html)
+ to help you keep files formatted, indented and saved.  
+  These actions can be found in the `Code` and `File` menus respectively.  
+  This macro can be bound to `ctrl+s` for convenience
+
 ## Javadocs
 
 You must include [Javadocs](http://www.oracle.com/technetwork/articles/java/index-137868.html) for all new methods and classes. This is aimed at making it easier for new contributors to dive into our codebase, especially those who are new to Android development. A few things to note:
