@@ -66,23 +66,22 @@ Strings added must not have [unescaped HTML tags](https://github.com/commons-app
 
 String literals should be avoided
 
-## Butterknife
+## View Bindings
+
+We have decided to move away from Butterknife and gradually replace its usage with [Kotlin Android Extensions ViewBinding](https://kotlinlang.org/docs/tutorials/android-plugin.html#view-binding). 
+
+Note: 
+- Whenever a new Android Component written in Kotlin in added, you should use Kotlin Android Extensions ViewBindings. 
+- Whenever an existing Android component which is written in Java is converted to Kotlin, we should ideally replace Butterknife with Kotlin Android Extensions ViewBinding.
+- If you are simply changing or adding anything in an existing Android component which is written in Java then you can continue using Butterknife. 
+
+### Butterknife
 
 Contributors have the option of using [butterknife](https://github.com/JakeWharton/butterknife) for their view bindings. We recommend doing so if you can.
 
-### Adding Support
-To add support for butterknife we have added the following dependency in the [app/build.gradle](https://github.com/commons-app/apps-android-commons/blob/master/app/build.gradle) file.
+#### Usage
 
-```
-dependencies {
-    compile "com.jakewharton:butterknife:$BUTTERKNIFE_VERSION"
-    annotationProcessor "com.jakewharton:butterknife-compiler:$BUTTERKNIFE_VERSION"
-}
-```
-
-### Usage
-
-#### BindView
+##### BindView
 Eliminate `findViewById` calls by using `@BindView` on fields. We have refactored the [AboutActivity](https://github.com/commons-app/apps-android-commons/blob/master/app/src/main/java/fr/free/nrw/commons/AboutActivity.java) to use `@BindView` instead of `findViewById`. 
 
 ```
@@ -105,7 +104,7 @@ public class AboutActivity extends BaseActivity {
 }
 ```
 
-#### Events
+##### Events
 Eliminate anonymous inner-classes for listeners by annotating methods with `@OnClick` and others.. Similarly events can be bound as follows as used in [SingleUploadFragment](https://github.com/commons-app/apps-android-commons/blob/master/app/src/main/java/fr/free/nrw/commons/upload/SingleUploadFragment.java). 
 
 ```
