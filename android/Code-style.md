@@ -84,7 +84,7 @@ Contributors have the option of using [butterknife](https://github.com/JakeWhart
 ##### BindView
 Eliminate `findViewById` calls by using `@BindView` on fields. We have refactored the [AboutActivity](https://github.com/commons-app/apps-android-commons/blob/master/app/src/main/java/fr/free/nrw/commons/AboutActivity.java) to use `@BindView` instead of `findViewById`. 
 
-```
+```java
 public class AboutActivity extends BaseActivity {
     @BindView(R.id.about_version) TextView versionText;
     @BindView(R.id.about_license) TextView licenseText;
@@ -107,8 +107,8 @@ public class AboutActivity extends BaseActivity {
 ##### Events
 Eliminate anonymous inner-classes for listeners by annotating methods with `@OnClick` and others.. Similarly events can be bound as follows as used in [SingleUploadFragment](https://github.com/commons-app/apps-android-commons/blob/master/app/src/main/java/fr/free/nrw/commons/upload/SingleUploadFragment.java). 
 
-```
-@OnClick(R.id.titleDescButton) void setTitleDescButton() {
+```java
+    @OnClick(R.id.titleDescButton) void setTitleDescButton() {
     
     }
 ```
@@ -123,13 +123,13 @@ These classes handle all the logic for talking with `SharedPreferences`. Anyone 
 
 ### BasicKvStore
 
-```
+```java
 BasicKvStore store = new BasicKvStore(context, "storeName");
 
-Put string value:
+// Put string value
 store.putString("test", "Hello world");
 
-Get String value:
+// Get String value
 String value = store.getString("test");
 ```
 
@@ -137,16 +137,14 @@ String value = store.getString("test");
 
 Similiarly JsonKvStore can be used for complex objects: 
 
-```
+```java
 JsonKvStore store = new JsonKvStore(context, "storeName");
 
-Put Json value: 
-
+// Put Json value
 Place place = new Place(); //assume you have an instance of place object
 store.putJson("test", place)
 
-Get Json value: 
-
+// Get Json value
 Place place = store.getJson("test", Place.java)
 ```
 
@@ -154,7 +152,7 @@ If you need to save a List/Map/Set of values then you can simply save and retrie
 
 The eg. below shows how to save and retrieve a `Set<String>`
 
-```
+```java
 Type setType = new TypeToken<Set<String>>() {}.getType();
 directKvStore.putJson("keyName", new HashSet<String>());
 directKvStore.getJson("keyName", setType);
