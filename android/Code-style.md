@@ -75,7 +75,7 @@ Note:
 
 ### Butterknife
 
-Contributors have the option of using [butterknife](https://github.com/JakeWharton/butterknife) for their view bindings. We recommend doing so if you can.
+As mentioned above, contributors have the option of using [butterknife](https://github.com/JakeWharton/butterknife) for their view bindings for existing Java classes.
 
 #### Usage
 
