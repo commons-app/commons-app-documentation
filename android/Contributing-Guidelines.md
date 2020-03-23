@@ -2,7 +2,7 @@
 
 Thanks for considering to contribute to this project! A few guidelines for
 people who want to contribute their code to this software are documented
-here. If you're not sure where to start head on to [this wiki page](https://github.com/commons-app/apps-android-commons/wiki/Volunteers-welcome!).
+here. If you're not sure where to start read the [Volunteers welcome!](./Volunteers-welcome!.md) document.
 
 ## Summary
 
@@ -24,11 +24,11 @@ You should also:
 
 ## Code Style
 
-https://github.com/commons-app/apps-android-commons/wiki/Code-style
+See [Code Style](Code-style.md) document.
 
 ## Developer Workflow
 
-https://github.com/commons-app/apps-android-commons/wiki/Developer-workflow
+See [Developer workflow](Developer-workflow.md) document.
 
 ## General Guidelines
 
@@ -112,10 +112,10 @@ on open source projects), you can use their Travis CI integration to
 test your changes.
 
 
-### Update the Wiki pages (if possible)
+### Update the documentation pages (if possible)
 
-Do not forget to update the [Wiki pages](https://github.com/commons-app/apps-android-commons/wiki)
+Do not forget to update the [documentation pages](https://github.com/commons-app/documentation/blob/master/android/)
 on GitHub to describe the updated behavior and make sure that the resulting
-Wiki pages don't become stale as a consequence of your change.
+documentation pages don't become stale as a consequence of your change.
 
 Note: These guidelines are based on the Git project's [guideline for submitting patches](https://github.com/git/git/blob/master/Documentation/SubmittingPatches). It's licensed under GPLv2.
