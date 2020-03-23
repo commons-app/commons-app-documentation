@@ -2,7 +2,7 @@
 
 Thanks for considering to contribute to this project! A few guidelines for
 people who want to contribute their code to this software are documented
-here. If you're not sure where to start head on to [this wiki page](https://github.com/commons-app/apps-android-commons/wiki/Volunteers-welcome!).
+here. If you're not sure where to start read the [Volunteers welcome!](./Volunteers-welcome!.md) document.
 
 ## Summary
 
@@ -24,11 +24,11 @@ You should also:
 
 ## Code Style
 
-https://github.com/commons-app/apps-android-commons/wiki/Code-style
+See [Code Style](Code-style.md) document.
 
 ## Developer Workflow
 
-https://github.com/commons-app/apps-android-commons/wiki/Developer-workflow
+See [Developer workflow](Developer-workflow.md) document.
 
 ## General Guidelines
 
