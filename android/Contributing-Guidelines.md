@@ -11,7 +11,7 @@ You **must**:
 - Follow correct procedures if adding a new library (additions of new libraries must always be discussed and approved beforehand)
 - Escape HTML tags in strings
 - Write unit tests to cover your own code if you are submitting an enhancement (the issue that you are working on has an "enhancement" label)
-- Follow the [MVP architecture](https://github.com/commons-app/apps-android-commons/issues/888) if you are submitting a large enhancement after 18 March 2019 (definitions of "large" vary according to context - if you are not sure whether this is needed for your code, ask beforehand)
+- Follow the [MVP architecture](https://github.com/commons-app/apps-android-commons/issues/888) if you are submitting a large enhancement (definitions of "large" vary according to context - if you are not sure whether this is needed for your code, ask beforehand)
 
 You should also:
 - Follow the [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
