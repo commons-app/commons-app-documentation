@@ -15,8 +15,8 @@ There are two timings when location information was obtained and used: when the 
 
 * Initial analysis of affected files and users - done
 * [Emergency fix of the app to explicitly explains how upload-time geotagging works](https://github.com/commons-app/apps-android-commons/issues/1599) - done
-* [Redacting location information which is likely to be published unexpectedly from publicly visible pages](https://github.com/commons-app/apps-android-commons/issues/1613) - on-going
-* Notifying the affected users of the issue and ask to review preferences - to be done
+* [Redacting location information which is likely to be published unexpectedly from publicly visible pages](https://github.com/commons-app/apps-android-commons/issues/1613) - done
+* Notifying the affected users of the issue and ask to review preferences - never done. See discussion at [commons-app/apps-android-commons#1613](https://github.com/commons-app/apps-android-commons/issues/1613) for more information.
 
 ## Timeline
 
