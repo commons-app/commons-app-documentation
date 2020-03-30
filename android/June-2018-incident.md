@@ -1,5 +1,3 @@
-# June 2018 incident
-
 # June 2018 incident - upload-time geotagging
 
 **Summary:** A label in the app's preferences misrepresented a feature of the app that retrieves and publishes location information when uploading a picture. The label said _"Automatically get current location - Retrieve current location to offer category suggestions if image is not geotagged"_, while the app additionally published the current location of the device as part of the file page it creates. Remedies are being done, including a more appropriate label for the feature, redaction of already published location information, and messages to affected users.
