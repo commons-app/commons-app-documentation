@@ -28,17 +28,14 @@ Choose the alpha version if:
 - You don't mind receiving app updates several times per day.
 
 ## How to install the beta
+
 The beta version might have bugs, your role is to find them all so that we can make a bug-free stable release :-)
 
-Install the app from [here](https://play.google.com/store/apps/details?id=fr.free.nrw.commons). The app page looks like this
+| 1. Install the app from the [Google Play Store](https://play.google.com/store/apps/details?id=fr.free.nrw.commons). | 2. Scroll down until you see a box mentioning the beta program. |
+| - | - |
+| ![App page](https://i.imgur.com/8oQqtCs.png) | ![Join beta program](https://i.imgur.com/GyBqL6X.png) |
 
-![App page](https://i.imgur.com/8oQqtCs.png)
-
-Scroll down until you see a box mentioning the beta program.
-
-![Join beta program](https://i.imgur.com/GyBqL6X.png)
-
-After some minutes to an hour of enrolling, update your app to get the beta version.
+3. After some minutes to an hour of enrolling, update your app to get the beta version.
 
 ## How to install the alpha
 An alpha gets released automatically each time we modify the app. This means you get all new features immediately, but it also means that you will encounter bugs very often! Please report any bug you find. This also means Google Play will update the app every few days or even several times per day, so be sure to set up Google Play to only download updates on Wi-Fi.
