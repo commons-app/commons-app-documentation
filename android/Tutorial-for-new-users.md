@@ -7,11 +7,11 @@ New pictures in tutorial taken by Nicolas Raoul and Josephine Lim, and released 
 
 **Page 1**
 
-![tutorial-1](https://cloud.githubusercontent.com/assets/3611199/20912096/0765f68a-bbd2-11e6-85ce-898e29a3b7e5.png)
+![tutorial-1](https://cloud.githubusercontent.com/assets/3611199/20912096/0765f68a-bbd2-11e6-85ce-898e29a3b7e5.png) | **Page 2** ![tutorial-2](https://cloud.githubusercontent.com/assets/3611199/20912097/0939059c-bbd2-11e6-9980-266b33df303e.png)
 
 **Page 2**
 
-![tutorial-2](https://cloud.githubusercontent.com/assets/3611199/20912097/0939059c-bbd2-11e6-9980-266b33df303e.png)
+
 
 **Page 3**
 
