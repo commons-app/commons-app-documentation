@@ -34,3 +34,10 @@ After that run the following commands
 - `> desc leaderboard_nearby;`
 
   ![desc-tables](images/desc-tables.PNG)
+
+
+## To Create Tables Run
+
+```
+mysql -u root -p --no-data dbname > create_leaderboard_tables.sql
+```
