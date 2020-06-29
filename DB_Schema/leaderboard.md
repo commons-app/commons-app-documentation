@@ -35,8 +35,24 @@ After that run the following commands
 
   ![desc-tables](images/desc-tables.PNG)
 
+## Create Database
 
-## To Create Tables Run
+```
+$ sql tools
+
+> CREATE DATABASE CREDENTIALUSER__DBNAME;
+
+```
+
+For Example
+
+```
+> CREATE DATABASE s53794__leaderboard;
+```
+Note: make sure to use `__` double underscore
+
+
+## To Create Tables Run a SQL file like
 
 ```
 mysql -u root -p --no-data dbname > create_leaderboard_tables.sql
