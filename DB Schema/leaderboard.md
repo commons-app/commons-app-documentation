@@ -13,7 +13,7 @@ After that run the following commands
 
 - `$ ssh username@tools-login.wmflabs.org` where username is your username
 
-  ![tools-screenshot](images/tools-screenshot.png)
+  ![tools-screenshot](images/tools-screenshot.PNG)
 
 - `$ become commons-android-app`
 
@@ -23,7 +23,7 @@ After that run the following commands
 
 - `> show tables;`
 
-  ![show-tables](images/show-tables.png)
+  ![show-tables](images/show-tables.PNG)
 
 - `> desc leaderboard_user;`
 
@@ -33,4 +33,4 @@ After that run the following commands
 
 - `> desc leaderboard_nearby;`
 
-  ![desc-tables](images/desc-tables.png)
+  ![desc-tables](images/desc-tables.PNG)
