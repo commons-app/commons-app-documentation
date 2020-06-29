@@ -39,6 +39,8 @@ Documentation about the App itself, not the implementation:
 * [Code walkthrough for new devs (draft)](Code-walkthrough-for-new-devs-(draft).md)
 * [Category suggestions (readme)](Category-suggestions-(readme).md)
 * [External APIs](External-APIs.md)
+* [Tools Forge APIs](../API)
+* [DB Schema](../DB_Schema)
 * [Code Structure](Code-Structure.md)
 * [On Device Storage](On-Device-Storage.md)
 
