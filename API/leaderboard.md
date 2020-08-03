@@ -26,7 +26,7 @@ Note: If username is not already added to leaderboard then it would be added in 
 
 ## Optional Paramaters
 
-- **avatar** - This should be only used if a new user needs to be added to the leaderboard and wants a custom avatar, should be just the file name from `https://commons.wikimedia.org/wiki/File:` For example: **User-avatar_Dark.png** If no **avatar** is supplied then default one would be used i.e. **Gnome-stock_person.svg**
+- **avatar** - This should be only used if a new user needs to be added to the leaderboard and wants a custom avatar, should be complete Image URL for example `https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gnome-stock_person.svg/200px-Gnome-stock_person.svg.png` If no **avatar** is supplied then default one would be used i.e. **https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gnome-stock_person.svg/200px-Gnome-stock_person.svg.png**
 
 - **limit** - This is the limit for the number of results and should be passed along with offset, for example **5**
 
@@ -46,56 +46,56 @@ curl --location --request GET 'https://tools.wmflabs.org/commons-android-app/too
     "username": "Syced",
     "category_count": 462,
     "limit": null,
-    "avatar": "Gnome-stock_person.svg",
+    "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gnome-stock_person.svg/200px-Gnome-stock_person.svg.png",
     "offset": null,
     "duration": "all_time",
     "leaderboard_list": [
         {
             "username": "Fæ",
             "category_count": 107147,
-            "avatar": "Gnome-stock_person.svg",
+            "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gnome-stock_person.svg/200px-Gnome-stock_person.svg.png",
             "rank": 1
         },
         {
             "username": "JAn Dudík",
             "category_count": 912,
-            "avatar": "Gnome-stock_person.svg",
+            "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gnome-stock_person.svg/200px-Gnome-stock_person.svg.png",
             "rank": 2
         },
         {
             "username": "Vojtěch Dostál",
             "category_count": 749,
-            "avatar": "Gnome-stock_person.svg",
+            "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gnome-stock_person.svg/200px-Gnome-stock_person.svg.png",
             "rank": 3
         },
         {
             "username": "Syced",
             "category_count": 462,
-            "avatar": "Gnome-stock_person.svg",
+            "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gnome-stock_person.svg/200px-Gnome-stock_person.svg.png",
             "rank": 4
         },
         {
             "username": "Misaochan",
             "category_count": 101,
-            "avatar": "Gnome-stock_person.svg",
+            "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gnome-stock_person.svg/200px-Gnome-stock_person.svg.png",
             "rank": 5
         },
         {
             "username": "Kookaburra 81",
             "category_count": 41,
-            "avatar": "Gnome-stock_person.svg",
+            "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gnome-stock_person.svg/200px-Gnome-stock_person.svg.png",
             "rank": 6
         },
         {
             "username": "Madhurgupta10",
             "category_count": 1,
-            "avatar": "Gnome-stock_person.svg",
+            "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gnome-stock_person.svg/200px-Gnome-stock_person.svg.png",
             "rank": 7
         },
         {
             "username": "Macgills2",
             "category_count": 1,
-            "avatar": "Gnome-stock_person.svg",
+            "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gnome-stock_person.svg/200px-Gnome-stock_person.svg.png",
             "rank": 8
         }
     ],
