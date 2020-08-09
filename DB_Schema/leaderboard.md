@@ -156,5 +156,5 @@ $ crontab -e
 
 Example cronjob to refresh leaderboard after every 2 hours
 ```
-0 */2 * * * cd public_html/tool-commons-android-app/scripts/refresh_leaderboard && /usr/bin/python3.5 refresh_leaderboard.py >> output.out
+0 */2 * * * cd /data/project/commons-android-app/public_html/tool-commons-android-app/scripts/refresh_leaderboard && /usr/bin/jsub -N cron-29 -once -quiet -cwd /usr/bin/python3.5 refresh_leaderboard.py
 ```
