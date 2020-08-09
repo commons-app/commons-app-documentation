@@ -1,6 +1,6 @@
 # Unique Used Images by a User API
 
-This API is used to check if a username is valid or not.
+This API is used to get unique used images by a user.
 
 ## Base URL
 `https://tools.wmflabs.org/commons-android-app/tool-commons-android-app`
