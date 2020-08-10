@@ -114,6 +114,7 @@ Note: make sure to use `__` double underscore
 ## To Create Tables Run a SQL file like
 
 ```
+$ cd scripts/create_leaderboard_tables
 $ mysql -u root -p --no-data dbname < create_leaderboard_tables.sql
 ```
 
