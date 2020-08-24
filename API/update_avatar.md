@@ -1,6 +1,6 @@
 # Update Leaderboard Avatar API
 
-This API is used to check if a username is valid or not.
+This API is used to update a leaderboard user avatar.
 
 ## Base URL
 `https://tools.wmflabs.org/commons-android-app/tool-commons-android-app`
