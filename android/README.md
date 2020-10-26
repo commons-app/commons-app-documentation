@@ -18,6 +18,7 @@ Documentation about the App itself, not the implementation:
 
 * [Screen Structure](Screen-structure.md)
   * [Tutorial for new users](Tutorial-for-new-users.md)
+  * [Tutorial for reviewing content](Review-content-and-thank.md)
 * [App Functionality](App-functionality.md)
 * [Frequently Asked Questions](Frequently-Asked-Questions.md)
 
