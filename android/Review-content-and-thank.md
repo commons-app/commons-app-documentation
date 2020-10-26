@@ -11,7 +11,7 @@ On the sidemenu, select "Review" | Review landing page will populate with an ima
 
 The second step for reviewing an image is verifying that the image meets the copyright requirements | Next, verify that the image is correctly categorized. Categories help images be found on Wikimedia, so it is important that the categories be correct.
 |:---:|:---:|
-![tutorial-3](https://raw.githubusercontent.com/borisenkotim/commons-app-documentation/rebecca/%233974-add-review-documentation/android/review-content/images_for_reviewing_content/review_4.png) | ![tutorial-4](https://github.com/borisenkotim/commons-app-documentation/blob/rebecca/%233974-add-review-documentation/android/review-content-images/review_5.png)
+![tutorial-3](https://github.com/borisenkotim/commons-app-documentation/blob/rebecca/%233974-add-review-documentation/android/review-content-images/review_4.png) | ![tutorial-4](https://github.com/borisenkotim/commons-app-documentation/blob/rebecca/%233974-add-review-documentation/android/review-content-images/review_5.png)
 
 If at any point while reviewing you are unsure of the answer, you can skip reviewing this image | After reviewing an image and approving an image, you have the option to thank the user who uploaded it for their contribution. 
 |:---:|:---:|
