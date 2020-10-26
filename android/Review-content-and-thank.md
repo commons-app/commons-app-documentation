@@ -7,16 +7,19 @@ Users of the Android app can contribute to the Wikimedia community by reviewing 
 
 On the sidemenu, select "Review" | Review landing page will populate with an image for you to review. The first step for reviewing is checking that the image is in scope. Does the displayed image fit within WikiMedia's mission? 
 |:---:|:---:|
-![tutorial-1](https://raw.githubusercontent.com/borisenkotim/commons-app-documentation/rebecca/%233974-add-review-documentation/android/review-content/images_for_reviewing_content/review_1.png) | ![tutorial-2](https://raw.githubusercontent.com/borisenkotim/commons-app-documentation/rebecca/%233974-add-review-documentation/android/review-content/images_for_reviewing_content/review_3.png)
+![tutorial-1](https://github.com/borisenkotim/commons-app-documentation/blob/rebecca/%233974-add-review-documentation/android/review-content-images/review_1.png) | ![tutorial-2](https://github.com/borisenkotim/commons-app-documentation/blob/rebecca/%233974-add-review-documentation/android/review-content-images/review_3.png)
 
 The second step for reviewing an image is verifying that the image meets the copyright requirements | Next, verify that the image is correctly categorized. Categories help images be found on Wikimedia, so it is important that the categories be correct.
 |:---:|:---:|
-![tutorial-3](https://raw.githubusercontent.com/borisenkotim/commons-app-documentation/rebecca/%233974-add-review-documentation/android/review-content/images_for_reviewing_content/review_4.png) | ![tutorial-4](https://raw.githubusercontent.com/borisenkotim/commons-app-documentation/rebecca/%233974-add-review-documentation/android/review-content/images_for_reviewing_content/review_4.png)
+![tutorial-3](https://raw.githubusercontent.com/borisenkotim/commons-app-documentation/rebecca/%233974-add-review-documentation/android/review-content/images_for_reviewing_content/review_4.png) | ![tutorial-4](https://github.com/borisenkotim/commons-app-documentation/blob/rebecca/%233974-add-review-documentation/android/review-content-images/review_5.png)
 
 If at any point while reviewing you are unsure of the answer, you can skip reviewing this image | After reviewing an image and approving an image, you have the option to thank the user who uploaded it for their contribution. 
 |:---:|:---:|
-![tutorial-3](https://raw.githubusercontent.com/borisenkotim/commons-app-documentation/rebecca/%233974-add-review-documentation/android/review-content/images_for_reviewing_content/review_2.png) | ![tutorial-4](https://raw.githubusercontent.com/borisenkotim/commons-app-documentation/rebecca/%233974-add-review-documentation/android/review-content/images_for_reviewing_content/review_6.png)
+![tutorial-5](https://github.com/borisenkotim/commons-app-documentation/blob/rebecca/%233974-add-review-documentation/android/review-content-images/review_2.png) | ![tutorial-6](https://github.com/borisenkotim/commons-app-documentation/blob/rebecca/%233974-add-review-documentation/android/review-content-images/review_6.png)
 
+User thanks are logged in the [Thanks Log](https://commons.wikimedia.org/wiki/Special:Log?type=thanks&user=&page=&wpdate=&tagfilter=&wpfilters%5B%5D=newusers)
+
+Users also receive a notification when they have been thanked for a contribution.
 
 Tutorial and app released under Apache 2.0 license. 
 New pictures in tutorial taken by Rebecca Rothschild, and released under Public Domain license.
