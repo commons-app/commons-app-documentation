@@ -1,9 +1,6 @@
 # Tutorial for reviewing user's content
 
-## New tutorial
-
 Users of the Android app can contribute to the Wikimedia community by reviewing other user's content. After content is approved, you can also send a virtual thanks to the user that uploaded to send the communities appreciation of their contribution.
-
 
 On the sidemenu, select "Review" | Review landing page will populate with an image for you to review. The first step for reviewing is checking that the image is in scope. Does the displayed image fit within WikiMedia's mission? 
 |:---:|:---:|
