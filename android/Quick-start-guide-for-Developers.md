@@ -12,7 +12,7 @@
     - Open Android Studio
     - In the menu bar, click `File` > `New` > `Project from Version Control...` > `Git`<br>
     OR<br>
-    (if Quick Start menu open): `Check out project from Version Control` > `Git`
+    (if Quick Start menu open): `Get from Version Control` > `Git`
     - Enter the Git URL you obtained in step 3.
     - Specify a local directory you would like to save the project in and select `OK`.
 
