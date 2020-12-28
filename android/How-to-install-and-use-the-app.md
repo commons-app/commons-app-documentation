@@ -32,7 +32,7 @@ Pictures you upload may lead to your identity. Let's say you live under a dictat
 
 Nearby is a fantastic way to find interesting places. But imagine that go to the place pinned on the map, and it is not at all what was expected? In such cases, fixing the problem is very important, and you can do it easily! It will benefit not only Commons but also all other Wikimedia projects and in particular Wikipedia. Here is how to proceed:
 
-## Obsolete
+## Obsolete items
 **Scenario**: Yes there used to be a castle here, but now there is absolutely nothing left, maybe it is just green fields or a factory or recent houses. There is not even a plaque indicating that there used to be a castle.
 
 **How to fix it**: Go to www.wikidata.org in your browser, and search for the item in the search bar. At the Wikidata item page, click on "Add statement", type "ended" property and select the "ended" property that appears. In the field that appears, enter the date at which the item disappeared, or just set it to "unknown" if you don't know when that happened. Finally, press "Publish".
