@@ -1,12 +1,5 @@
 # Frequently Asked Questions
 
-1. [Questions about the project](#questions-about-the-project)
-2. [Copyright questions](#copyright-questions)
-3. [Technical questions](#technical-questions)
-4. [Questions about the Commons community](#questions-about-the-commons-community)
-
-## Questions about the project
-
 **What is this app about?**
 
 > "Wikimedia Commons" (short form "Commons") is a media repository that is created and maintained by volunteers. It provides a central repository for freely licensed photographs, diagrams, animations, music, spoken text, video clips, and media of all sorts that are useful for any Wikimedia project, the most well-known of which is Wikipedia, the free encyclopedia. The name "Wikimedia Commons" is derived from the umbrella project Wikimedia that manages all Wikimedia projects and the word "common" as it is a common project (commons) that stores media for use on all Wikimedia projects.
@@ -31,10 +24,6 @@
 **I am in a course that requires participation in an open source project. Can I contribute to this project?**
 > Yes! We are happy to accept all contributions. Get started by checkout out our Volunteers Welcome! page here: https://github.com/commons-app/apps-android-commons/wiki/Volunteers-welcome%21
 
-## Copyright questions
+**How do I close my account?**
 
-## Technical questions
-
-## Questions about the Commons community
-
-
+> Accounts are managed on the Wikimedia Commons website, not by the Android app's maintainers. See https://commons.wikimedia.org/wiki/Commons:FAQ#How_do_I_close_my_account?
