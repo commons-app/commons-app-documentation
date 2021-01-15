@@ -40,8 +40,8 @@ Nearby is a fantastic way to find interesting places. But imagine that go to the
 ![](https://upload.wikimedia.org/wikipedia/commons/c/c1/Wikidata_screenshot_-_Add_statement.png)
 ![](https://upload.wikimedia.org/wikipedia/commons/5/5c/Wikidata_screenshot_-_select_%22ended%22_property.png)
 ![](https://upload.wikimedia.org/wikipedia/commons/5/5f/Wikidata_screenshot_-_date.png)
-![](https://upload.wikimedia.org/wikipedia/commons/1/1c/Wikidata_screenshot_-_unknown_value.png)
 ![](https://upload.wikimedia.org/wikipedia/commons/0/0c/Wikidata_screenshot_-_custom-no-unknown_value_menu.png)
+![](https://upload.wikimedia.org/wikipedia/commons/1/1c/Wikidata_screenshot_-_unknown_value.png)
 
 ## Wrong coordinates
 **Scenario**: The pin shows the "Bodleian Library" here, but actually you know this library it is at a different place, maybe 10 meters across the street or even a few kilometers away. Make sure your GPS is correct, and double-check locations.
