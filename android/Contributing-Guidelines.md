@@ -57,7 +57,7 @@ to have.
 
 The first line of the commit message should be a short description (50
 characters is the soft limit, see the DISCUSSION section found in the
-man page of git commit(1)), and should skip the full stop.  It is also
+main page of git commit(1)), and should skip the full stop.  It is also
 good in most cases to prefix the first line with "area: " where the area
 is a filename or identifier for the general area of the code being modified,
 e.g.
