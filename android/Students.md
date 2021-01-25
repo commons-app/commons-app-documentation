@@ -2,24 +2,34 @@
 
 # What
 
-TODO
+GSoC is TODO
+
+The Commons app is TODO
 
 # How to apply
 
-TODO
+Prior to the internship, we ask you (the student) to learn about the project by performing these tasks (in this order):
 
-Example proposals from previous years:
+1. Review 1 existing pull request
+2. Fix 1 bug
+3. (Optionally, you can fix more bugs)
+4. (Optionally, after 5 bugfixes, you can also work on enhancements)
 
-TODO
+Once you have fixed 1 bug, please apply by creating a proposal on Phabricator. Example proposals from previous years:
 
-# How we choose students
+- TODO
 
-1. Rank students by merit, based on:
-  - Number and difficulty of merged pull requests
-  - Quality of code
-  - Communication skills
-  - Extra points for previous open source project participation, helping others, and more.
-2. Ask the 1st placed student whether they prefer Outreachy (if eligible) or GSoC.
-3. If Outreachy was chosen at step 2, then the GSoC project will go to the student who was placed 2nd. If GSoC was chosen at step 2, then the Outreachy project will go to the 2nd-ranked student if eligible, or 3rd-ranked student if eligible, etc.
+# Proposal ideas
 
-As a consequence, students are encouraged to apply to both GSoC and Outreachy (if eligible).
+It can be hard to estimate difficulty, so we have selected a few ideas that we think are not too simple, not too difficult:
+
+- 
+
+# How we choose the intern
+
+We choose the intern based on:
+  - Technical challengingness of merged bugfixes.
+  - Quality of code.
+  - Efficiency and smoothness of interactions on GitHub.
+  - Ability to read documentation and find solutions independently.
+  - Extra points for helping others, previous open source project participation, etc.
