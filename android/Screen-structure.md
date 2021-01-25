@@ -2,8 +2,8 @@
 
 The Wikimedia Commons app consists of the following screens:
 
-- Tutorial (4 slides)
-- Sign up (In App Browser)
+- **Tutorial** (4 slides)
+- **Sign up** (In App Browser)
 - **Log in**
 - **My Recent Uploads** / Home
     - Image / Upload Details
@@ -15,7 +15,7 @@ The Wikimedia Commons app consists of the following screens:
 - **Nearby Places**
     - List
     - Map
-- About
-- Settings
-- Feedback
-- Logout
+- **About**
+- **Settings**
+- **Feedback**
+- **Logout**
