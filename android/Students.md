@@ -1,6 +1,4 @@
-# Students
-
-# What
+# Introduction
 
 GSoC is TODO
 
@@ -28,8 +26,8 @@ It can be hard to estimate difficulty, so we have selected a few ideas that we t
 # How we choose the intern
 
 We choose the intern based on:
-  - Technical challengingness of merged bugfixes.
-  - Quality of code.
-  - Efficiency and smoothness of interactions on GitHub.
-  - Ability to read documentation and find solutions independently.
-  - Extra points for helping others, previous open source project participation, etc.
+- Technical challengingness of merged bugfixes.
+- Quality of code.
+- Efficiency and smoothness of interactions on GitHub.
+- Ability to read documentation and find solutions independently.
+- Extra points for helping others, previous open source project participation, etc.
