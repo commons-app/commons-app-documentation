@@ -1,8 +1,8 @@
 # Introduction
 
-GSoC is TODO
+[GSoC](https://summerofcode.withgoogle.com) is a coding internship organized by Google.
 
-The Commons app is TODO
+The [Commons app](https://play.google.com/store/apps/details?id=fr.free.nrw.commons) is an open source Android app that allows anyone to upload pictures to Wikimedia Commons (the image repository used by Wikipedia, Wikinews and other projects).
 
 # How to apply
 
@@ -18,15 +18,11 @@ Prior to the internship, we ask you (the student) to learn about the project by 
         - These exact words: "Review by student"
         - Post the two videos (before merging the pull request showing the issue, after merging the pull request)
         - Say whether the issue was solved after merging the pull request or not.
-3. Fix 1 bug.
-4. Write and submit a proposal. Please note that it must contain a link to your review and your bug fix.
+3. Fix 1 bug by following the instructions at the "Developers" section [here](https://github.com/commons-app/commons-app-documentation/blob/master/android/Volunteers-welcome!.md#developers).
+4. Write and submit a proposal on Phabricator. Please note that it must contain a link to your review and your bug fix. Example proposal from last year: https://phabricator.wikimedia.org/T248341
 5. Post to [the mailing list](commons-app-android@googlegroups.com) asking for early feedback about your proposal.
-4. (Optionally, you can fix more bugs)
-5. (Optionally, after 5 bugfixes, you can also work on enhancements)
-
-Once you have fixed 1 bug, please apply by creating a proposal on Phabricator. Example proposals from previous years:
-
-- TODO
+6. (Optionally, you can fix more bugs)
+7. (Optionally, after 5 bugfixes, you can also work on enhancements)
 
 # Proposal ideas
 
@@ -37,7 +33,7 @@ It can be hard to estimate difficulty, so we have selected a few ideas that we t
 # How we choose the intern
 
 We choose the intern based on:
-- Technical challengingness of merged bugfixes.
+- Technical challengingness of merged bugfix(es).
 - Quality of code.
 - Efficiency and smoothness of interactions on GitHub.
 - Ability to read documentation and find solutions independently.
