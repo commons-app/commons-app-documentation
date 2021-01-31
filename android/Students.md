@@ -8,10 +8,21 @@ The Commons app is TODO
 
 Prior to the internship, we ask you (the student) to learn about the project by performing these tasks (in this order):
 
-1. Review 1 existing pull request
-2. Fix 1 bug
-3. (Optionally, you can fix more bugs)
-4. (Optionally, after 5 bugfixes, you can also work on enhancements)
+1. Compile and run the app as described in [the documentation](https://github.com/commons-app/commons-app-documentation/blob/master/android/Quick-start-guide-for-Developers.md#quick-start-guide-for-developers).
+2. Review 1 existing pull request:
+    1. Go to https://github.com/commons-app/apps-android-commons/pulls and find a pull request that does not contain the words "Review by student"
+    2. Go to the page of the original issue. The original issue should be mentioned at the top of the pull request, for instance "_Fixes #xyz_". If the pull request does not mention any issue, please add a comment on the pull request asking for a link to the original issue, and choose a different pull request.
+    3. Try to reproduce the original issue. Once you have managed to reproduce it, take a video of the issue reproduction (to make a screencast on Android you can use [adb](https://stackoverflow.com/questions/28217333/how-to-record-android-devices-screen-on-android-version-below-4-4-kitkat) or [this button](https://support.google.com/android/answer/9075928) or any other screencast app that works for you). Keep the resulting video file, you will use it later.
+    3. Go back to the source code of the app, and perform a `git pull` to make sure you are at the latest master. Now create a new branch and _pull_ the pull request, for instance: `git checkout -b pr1 master; git pull https://github.com/person-who-wrote-the-pr/apps-android-commons.git pr1` (replace `person-who-wrote-the-pr` with the username of the person who wrote the pull request). Compile and run. If the pull request really solves the issue, then the issue should not happen now. Take a video showing that.
+    4. On the pull request page, add a comment containing:
+        - These exact words: "Review by student"
+        - Post the two videos (before merging the pull request showing the issue, after merging the pull request)
+        - Say whether the issue was solved after merging the pull request or not.
+3. Fix 1 bug.
+4. Write and submit a proposal. Please note that it must contain a link to your review and your bug fix.
+5. Post to [the mailing list](commons-app-android@googlegroups.com) asking for early feedback about your proposal.
+4. (Optionally, you can fix more bugs)
+5. (Optionally, after 5 bugfixes, you can also work on enhancements)
 
 Once you have fixed 1 bug, please apply by creating a proposal on Phabricator. Example proposals from previous years:
 
@@ -20,8 +31,8 @@ Once you have fixed 1 bug, please apply by creating a proposal on Phabricator. E
 # Proposal ideas
 
 It can be hard to estimate difficulty, so we have selected a few ideas that we think are not too simple, not too difficult:
-
-- 
+- In the upload feature, add an activity to crop/blur pictures for privacy purposes (example usages: crop out a passer-by, blur a car's number plate).
+- Edit already uploaded pictures: Edit title/description, add depictions, maybe even add coordinates.
 
 # How we choose the intern
 
