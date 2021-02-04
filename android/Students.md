@@ -20,15 +20,15 @@ Prior to the internship, we ask you (the student) to learn about the project by 
         - Say whether the issue was solved after merging the pull request or not.
 3. Fix 1 bug by following the instructions at the "Developers" section [here](https://github.com/commons-app/commons-app-documentation/blob/master/android/Volunteers-welcome!.md#developers).
 4. Write and submit a proposal on Phabricator. Please note that it must contain a link to your review and your bug fix. Example proposal from last year: https://phabricator.wikimedia.org/T248341
-5. Post to [the mailing list](commons-app-android@googlegroups.com) asking for early feedback about your proposal.
+5. Post an email to [the mailing list](commons-app-android@googlegroups.com) with a link to your proposal, and ask for early feedback about it.
 6. (Optionally, you can fix more bugs)
 7. (Optionally, after 5 bugfixes, you can also work on enhancements)
 
 # Proposal ideas
 
 It can be hard to estimate difficulty, so we have selected a few ideas that we think are not too simple, not too difficult:
-- In the upload feature, add an activity to crop/blur pictures for privacy purposes (example usages: crop out a passer-by, blur a car's number plate).
 - Edit already uploaded pictures: Edit title/description, add depictions, maybe even add coordinates.
+- In the upload feature, add an activity to crop/blur pictures for privacy purposes (example usages: crop out a passer-by, blur a car's number plate).
 
 # How we choose the intern
 
