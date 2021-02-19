@@ -27,3 +27,7 @@
 **How do I close my account?**
 
 > Accounts are managed on the Wikimedia Commons website, not by the Android app's maintainers. See https://commons.wikimedia.org/wiki/Commons:FAQ#How_do_I_close_my_account?
+
+**How to contribute word pronunciation?**
+
+Use this dedicated webapp: https://lingualibre.fr
