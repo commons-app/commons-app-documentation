@@ -28,6 +28,7 @@ Prior to the internship, we ask you (the student) to learn about the project by 
 
 It can be hard to estimate difficulty, so we have selected a few ideas that we think are not too simple, not too difficult:
 - Edit already uploaded pictures: Edit title/description, add depictions, maybe even add coordinates.
+- Improve Nearby by splotting from one big server request to a first fast server requests then an asynchronous request for each item.
 - In the upload feature, add an activity to crop/blur pictures for privacy purposes (example usages: crop out a passer-by, blur a car's number plate).
 
 # How we choose the intern
