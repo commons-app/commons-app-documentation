@@ -12,6 +12,12 @@ Getting a translator account on translatewiki is a bit cumbersome, but don't wor
 2. To get "translate rights", first edit 20 [random keys](https://translatewiki.net/wiki/Special:TranslationStash?)
 3. If for any reason that does not work, you can also ask in TranslateWiki's [chat](https://translatewiki.net/wiki/Special:WebChat).
 
+# Terminology
+
+Commons uses many elaborate terms. Before inventing your own translation for a term, please look at how this term is already translated in the Commons web interface or in the Commons help pages.
+
+For instance, to translate "depicts", go to https://commons.wikimedia.org/wiki/Commons:Depicts and choose your language in the top banner (which says "_Other languages_"). If you can not find any translation, please do not hesitate to ask at the [Commons village pump](https://commons.wikimedia.org/wiki/Commons:Village_pump).
+
 # Internals
 
 ## How translations make their way into the app
