@@ -4,7 +4,7 @@ Thanks to the translation work of many volunteers this app is available in a mul
 
 Translation of the text content of the Wikimedia Commons Android app happens on the [Commons Android App project](https://translatewiki.net/w/i.php?title=Special:Translate&group=commons-android) on [translatewiki.net](https://translatewiki.net). 
 
-# Getting an account on translatewiki
+## Getting an account on translatewiki
 
 Getting a translator account on translatewiki is a bit cumbersome, but don't worry you will get one soon:
 
@@ -12,11 +12,14 @@ Getting a translator account on translatewiki is a bit cumbersome, but don't wor
 2. To get "translate rights", first edit 20 [random keys](https://translatewiki.net/wiki/Special:TranslationStash?)
 3. If for any reason that does not work, you can also ask in TranslateWiki's [chat](https://translatewiki.net/wiki/Special:WebChat).
 
-# Terminology
+## Terminology
 
 Commons uses many elaborate terms. Before inventing your own translation for a term, please look at how this term is already translated in the Commons web interface or in the Commons help pages.
 
 For instance, to translate "depicts", go to https://commons.wikimedia.org/wiki/Commons:Depicts and choose your language in the top banner (which says "_Other languages_"). If you can not find any translation, please do not hesitate to ask at the [Commons village pump](https://commons.wikimedia.org/wiki/Commons:Village_pump).
+
+## How to add new languages
+If your language is not available, please crate a new Github issue asking for it, and we will add it as soon as possible. Thanks!
 
 # Internals
 
@@ -27,8 +30,11 @@ Translatewiki is configured to export a certain list of languages to a certain f
 
 This is defined in their [Git repository](https://phabricator.wikimedia.org/diffusion/GTWN/repository/master/) ([Github mirror](https://github.com/wikimedia/translatewiki/)) in [this yaml file](https://phabricator.wikimedia.org/diffusion/GTWN/browse/master/groups/Wikimedia/CommonsAndroid.yaml) ([copy at the Github mirror](https://github.com/wikimedia/translatewiki/blob/master/groups/Wikimedia/CommonsAndroid.yaml)). This file also describes what files contain the original strings in English, adding a new string to one of these files will automatically add it to the list of strings to translate.
 
-## How to add new languages
-If your language is not available, please crate a new Github issue asking for it, and we will add it as soon as possible. Thanks!
+## Developers: How to add a new string
+
+You just need to add the new string to `app/src/main/res/values/strings.xml`.
+It will automatically be sent for to the volunteers, and localized strings will be added to the `app/src/main/res/values-XYZ/strings.xml` files.
+Similarly, to modify or remove strings, you just need to edit `app/src/main/res/values/strings.xml`.
 
 ## Statistics
 
