@@ -1,12 +1,12 @@
 # Introduction
 
-[GSoC](https://summerofcode.withgoogle.com) is a coding internship organized by Google.
+[GSoC](https://summerofcode.withgoogle.com) is a coding program organized by Google.
 
 The [Commons app](https://play.google.com/store/apps/details?id=fr.free.nrw.commons) is an open source Android app that allows anyone to upload pictures to Wikimedia Commons (the image repository used by Wikipedia, Wikinews and other projects).
 
 # How to apply
 
-Prior to the internship, we ask you (the student) to learn about the project by performing these tasks (in this order):
+In the candidate selection phase of GSoC, we ask you (the student) to learn about the project by performing these tasks (in this order):
 
 1. Compile and run the app as described in [the documentation](https://github.com/commons-app/commons-app-documentation/blob/master/android/Quick-start-guide-for-Developers.md#quick-start-guide-for-developers).
 2. Review 1 existing pull request:
