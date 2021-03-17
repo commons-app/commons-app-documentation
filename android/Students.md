@@ -31,9 +31,9 @@ It can be hard to estimate difficulty, so we have selected a few ideas that we t
 - Improve Nearby by splotting from one big server request to a first fast server requests then an asynchronous request for each item.
 - In the upload feature, add an activity to crop/blur pictures for privacy purposes (example usages: crop out a passer-by, blur a car's number plate).
 
-# How we choose the intern
+# How we choose
 
-We choose the intern based on:
+We choose the student based on:
 - Technical challengingness of merged bugfix(es).
 - Quality of code.
 - Efficiency and smoothness of interactions on GitHub.
