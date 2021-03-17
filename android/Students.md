@@ -20,7 +20,7 @@ In the candidate selection phase of GSoC, we ask you (the student) to learn abou
         - Say whether the issue was solved after merging the pull request or not.
 3. Fix 1 bug by following the instructions at the "Developers" section [here](https://github.com/commons-app/commons-app-documentation/blob/master/android/Volunteers-welcome!.md#developers).
 4. Write and submit a proposal on Phabricator. Please note that it must contain a link to your review and your bug fix. Example proposal from last year: https://phabricator.wikimedia.org/T248341
-5. Post an email to [the mailing list](commons-app-android@googlegroups.com) with a link to your proposal, and ask for early feedback about it.
+5. Post an email to [the mailing list](mailto:commons-app-android@googlegroups.com) with a link to your proposal, and ask for early feedback about it.
 6. (Optionally, you can fix more bugs)
 7. (Optionally, after 5 bugfixes, you can also work on enhancements)
 
