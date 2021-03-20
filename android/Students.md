@@ -42,7 +42,7 @@ In the candidate selection phase of GSoC, we ask you (the student) to learn abou
 It can be hard to estimate difficulty, so we have selected a few ideas that we think are not too simple, not too difficult:
 - [Custom picture(s) selector which indicates what pictures have been uploaded already](https://github.com/commons-app/apps-android-commons/issues/175)
 - Edit already uploaded pictures: Edit title/description, add depictions, maybe even add coordinates.
-- Improve Nearby by splotting from one big server request to a first fast server requests then an asynchronous request for each item.
+- Improve Nearby by splitting the current big server request into: a first fast server requests then an asynchronous request for each item.
 - In the upload feature, add an activity to crop/blur pictures for privacy purposes (example usages: crop out a passer-by, blur a car's number plate).
 
 # How we choose
@@ -52,4 +52,4 @@ We choose the student based on:
 - Quality of code.
 - Efficiency and smoothness of interactions on GitHub.
 - Ability to read documentation and find solutions independently.
-- Extra points for helping others, previous open source project participation, etc.
+- Extra points for helping others, previous open source projects participation, etc.
