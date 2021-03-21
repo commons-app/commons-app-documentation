@@ -27,7 +27,7 @@ In the candidate selection phase of GSoC, we ask you (the student) to learn abou
     - Description of what you will implement (or a link to a GitHub issue if the issue described perfectly what you will implement).
     - Timeline describing what subtasks you will work on each week. Even though it may change due to unseen difficulties, please try your best to schedule your subtasks, including unit tests and manual testing.
     - Availability:
-        - Are you eligible for Google Summer of Code?
+        - Are you [eligible for Google Summer of Code](https://developers.google.com/open-source/gsoc/faq#what_are_the_eligibility_requirements_for_participation)?
         - Do you plan to submit any other proposal apart from this one?
         - Do you have any other plans during the period of GSoC?
         - How many hours per week can you dedicate for this?
