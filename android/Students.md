@@ -19,13 +19,13 @@ Thank you for your interest! In the candidate selection phase of GSoC, we ask yo
         - These exact words: "Review by student"
         - Post the two videos (before merging the pull request showing the issue, after merging the pull request)
         - Say whether the issue was solved after merging the pull request or not.
-4. Choose a project idea (see section below).
+4. Choose a task idea (see section below).
 5. Create a proposal on [Phabricator](https://phabricator.wikimedia.org). It must include:
     - Link to your bugfix. If you have fixed several bugs, please write the bugfix you are most proud of at the top of the list.
     - Link to the pull request review you have performed (optional).
     - Your relevant skills.
     - Describe what you will implement, in your own words. Include a link to the GitHub issue if there is one.
-    - Timeline describing what subtasks you will work on each week. Even though it may change due to unseen difficulties, please try your best to schedule your subtasks, including unit tests and manual testing.
+    - Timeline describing what subtasks you will work on each week. Even though it may change due to unseen difficulties, please try your best to schedule your subtasks. Please also schedule time for unit tests and manual testing.
     - Availability:
         - Are you [eligible for Google Summer of Code](https://developers.google.com/open-source/gsoc/faq#what_are_the_eligibility_requirements_for_participation)?
         - Do you plan to submit any other proposal apart from this one?
@@ -37,16 +37,19 @@ Thank you for your interest! In the candidate selection phase of GSoC, we ask yo
 7. (_Optionally, you can fix more bugs, and add them to your proposal_)
 8. (_Optionally, after 5 bugfixes, you can also work on enhancements, and add them to your proposal. Please stay aware that quality is better than quantity, though._)
 
-# Proposal ideas
+# Task ideas
 
-It can be hard to estimate difficulty, so we have selected a few ideas that we think are not too simple, not too difficult:
-- (recommended) [Custom picture(s) selector which indicates what pictures have been uploaded already](https://github.com/commons-app/apps-android-commons/issues/175)
+Here is the recommended idea this year:
+- [Custom picture(s) selector which indicates what pictures have been uploaded already](https://github.com/commons-app/apps-android-commons/issues/175)
+
+If you really want to work on a different task, it can be considered. It can be hard to estimate difficulty, so we have selected a few ideas that we think are not too simple, not too difficult:
 - Edit already uploaded pictures: Edit title/description, add depictions, maybe even add coordinates.
 - Improve Nearby by splitting the current big server request into: a first fast server requests then an asynchronous request for each item.
 - In the upload feature, add an activity to crop/blur pictures for privacy purposes (example usages: crop out a passer-by, blur a car's number plate).
 - [Allow upload of videos](https://github.com/commons-app/apps-android-commons/issues/4).
+- If you have another idea, please post it as a new issue on our GitHub and mention you are considering it for GSoC, so that we can provide feedback.
 
-# How we choose
+# How we choose the student
 
 We choose the student based on:
 - Technical challengingness of merged bugfix(es).
