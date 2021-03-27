@@ -24,7 +24,7 @@ Thank you for your interest! In the candidate selection phase of GSoC, we ask yo
     - Link to your bugfix. If you have fixed several bugs, please write the bugfix you are most proud of at the top of the list.
     - Link to the pull request review you have performed (optional).
     - Your relevant skills.
-    - Proposal. Please see the "Proposal ideas" section below. Describe what you will implement, in your own words. Include a link to a GitHub issue if relevant.
+    - Describe what you will implement, in your own words. Include a link to the GitHub issue if there is one.
     - Timeline describing what subtasks you will work on each week. Even though it may change due to unseen difficulties, please try your best to schedule your subtasks, including unit tests and manual testing.
     - Availability:
         - Are you [eligible for Google Summer of Code](https://developers.google.com/open-source/gsoc/faq#what_are_the_eligibility_requirements_for_participation)?
@@ -33,7 +33,7 @@ Thank you for your interest! In the candidate selection phase of GSoC, we ask yo
         - How many hours per week can you dedicate for this?
         - Have you been accepted to GSoC before?
     Example proposal from last year: https://phabricator.wikimedia.org/T248341
-6. Post an email to [the mailing list](mailto:commons-app-android@googlegroups.com) with a link to your Phabricator proposal, and ask for early feedback about it.
+6. Post an email to [the mailing list](mailto:commons-app-android@googlegroups.com) with a link to your Phabricator proposal, and ask for early feedback about it. We will gladly tell you how your proposal can be improved.
 7. (_Optionally, you can fix more bugs, and add them to your proposal_)
 8. (_Optionally, after 5 bugfixes, you can also work on enhancements, and add them to your proposal. Please stay aware that quality is better than quantity, though._)
 
