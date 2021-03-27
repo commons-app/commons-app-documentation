@@ -24,7 +24,7 @@ Thank you for your interest! In the candidate selection phase of GSoC, we ask yo
     - Link to your bugfix. If you have fixed several bugs, please write the bugfix you are most proud of at the top of the list.
     - Link to the pull request review you have performed (optional).
     - Your relevant skills.
-    - Description of what you will implement (or a link to a GitHub issue if the issue described perfectly what you will implement).
+    - Proposal. Please see the "Proposal ideas" section below. Describe what you will implement, in your own words. Include a link to a GitHub issue if relevant.
     - Timeline describing what subtasks you will work on each week. Even though it may change due to unseen difficulties, please try your best to schedule your subtasks, including unit tests and manual testing.
     - Availability:
         - Are you [eligible for Google Summer of Code](https://developers.google.com/open-source/gsoc/faq#what_are_the_eligibility_requirements_for_participation)?
@@ -40,10 +40,11 @@ Thank you for your interest! In the candidate selection phase of GSoC, we ask yo
 # Proposal ideas
 
 It can be hard to estimate difficulty, so we have selected a few ideas that we think are not too simple, not too difficult:
-- [Custom picture(s) selector which indicates what pictures have been uploaded already](https://github.com/commons-app/apps-android-commons/issues/175)
+- (recommended) [Custom picture(s) selector which indicates what pictures have been uploaded already](https://github.com/commons-app/apps-android-commons/issues/175)
 - Edit already uploaded pictures: Edit title/description, add depictions, maybe even add coordinates.
 - Improve Nearby by splitting the current big server request into: a first fast server requests then an asynchronous request for each item.
 - In the upload feature, add an activity to crop/blur pictures for privacy purposes (example usages: crop out a passer-by, blur a car's number plate).
+- [Allow upload of videos](https://github.com/commons-app/apps-android-commons/issues/4).
 
 # How we choose
 
