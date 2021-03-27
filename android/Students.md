@@ -6,7 +6,7 @@ The [Commons app](https://play.google.com/store/apps/details?id=fr.free.nrw.comm
 
 # How to apply
 
-Thank you for your interest! In the candidate selection phase of GSoC, we ask you (the student) to learn about the project by performing these tasks (in this order):
+Thank you for your interest! In the candidate selection phase of GSoC, we ask you (the student) to learn about the project and apply by performing these tasks (in this order):
 
 1. Compile and run the app as described in [the documentation](https://github.com/commons-app/commons-app-documentation/blob/master/android/Quick-start-guide-for-Developers.md#quick-start-guide-for-developers).
 2. Fix 1 bug by following the instructions at the "Developers" section [here](https://github.com/commons-app/commons-app-documentation/blob/master/android/Volunteers-welcome!.md#developers). Fixing bugs is a good opportunity to demonstrate that you can work on the app.
