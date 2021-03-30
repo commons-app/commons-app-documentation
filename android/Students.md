@@ -20,7 +20,7 @@ Thank you for your interest! In the candidate selection phase of GSoC, we ask yo
         - Post the two videos (before merging the pull request showing the issue, after merging the pull request)
         - Say whether the issue was solved after merging the pull request or not.
 4. Choose a task idea (see section below).
-5. Create a proposal on [Phabricator](https://phabricator.wikimedia.org/maniphest/) ("Create Task"). You can edit your Phabricator task afterwards, so do not hesitate to first create a draft and then improve it little by little. It must include:
+5. Create a proposal on [Phabricator](https://phabricator.wikimedia.org/maniphest/) (button "_Create Task_"). You can edit your Phabricator task afterwards, so do not hesitate to first create a draft and then improve it little by little. It must include:
     - Link to your bugfix. If you have fixed several bugs, please write the bugfix you are most proud of at the top of the list.
     - Link to the pull request review you have performed (optional).
     - Your relevant skills.
