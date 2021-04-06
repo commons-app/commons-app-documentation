@@ -33,7 +33,7 @@ Thank you for your interest! In the candidate selection phase of GSoC, we ask yo
         - How many hours per week can you dedicate for this?
         - Have you been accepted to GSoC before?
     Example proposal from last year: https://phabricator.wikimedia.org/T248341
-6. Post an email to [the mailing list](mailto:commons-app-android@googlegroups.com) with a link to your Phabricator proposal, and ask for early feedback about it. We will gladly tell you how your proposal can be improved.
+6. Post an email to the mailing list (commons-app-android@googlegroups.com) with a link to your Phabricator proposal, and ask for early feedback about it. We will gladly tell you how your proposal can be improved.
 7. (_Optionally, you can fix more bugs, and add them to your proposal_)
 8. (_Optionally, after 5 bugfixes, you can also work on enhancements, and add them to your proposal. Please stay aware that quality is better than quantity, though._)
 
