@@ -51,9 +51,10 @@ If you really want to work on a different task, it can be considered. It can be 
 
 # How we choose the student
 
-We choose the student based on:
+We choose the student based on (from the most important):
 - Technical challengingness of merged bugfix(es).
-- Quality of code.
+- Quality of code (absence of bugs, good testing, use of Java & Android conventions).
 - Efficiency and smoothness of interactions on GitHub.
 - Ability to read documentation and find solutions independently.
+- Quality of the proposal (clear, convincing strategy and timeline, reasonably ambitious).
 - Extra points for helping others, previous open source projects participation, etc.
