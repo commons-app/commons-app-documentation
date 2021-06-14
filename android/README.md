@@ -54,7 +54,7 @@ Documentation about the App itself, not the implementation:
 
 - [Google Play store listing](Google-Play-store-listing.md)
 
-<!-- This is copied across README.md, ios/README.md, android/README.md - please keep them in sync! -->
+<!-- This is copied across README.md, android/README.md - please keep them in sync! -->
 ## 🙌 Improving the docs
 
 We appreciate any improvements you can make to the docs! Feel free to open pull requests with proposed changes and tag us for review.
