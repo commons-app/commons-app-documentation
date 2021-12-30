@@ -42,6 +42,8 @@ Here is the recommended idea this year:
 - (not decided yet)
 
 If you really want to work on a different task, it can be considered. It can be hard to estimate difficulty, so we have selected a few ideas that we think are not too simple, not too difficult:
+- [Improve the custom picture selector](https://github.com/commons-app/apps-android-commons/issues/4434)
+- Export Nearby items for offline use on map apps
 - In the upload feature, add an activity to crop/blur pictures for privacy purposes (example usages: crop out a passer-by, blur a car's number plate).
 - [Allow upload of videos](https://github.com/commons-app/apps-android-commons/issues/4).
 - If you have another idea, please post it as a new issue on our GitHub and mention you are considering it for GSoC, so that we can provide feedback.
