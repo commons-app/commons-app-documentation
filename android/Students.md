@@ -20,7 +20,7 @@ Thank you for your interest! In the candidate selection phase of GSoC, we ask yo
         - Post the two videos (before merging the pull request showing the issue, after merging the pull request)
         - Say whether the issue was solved after merging the pull request or not.
 4. Choose a task idea (see section below).
-5. Create a proposal on [Phabricator](https://phabricator.wikimedia.org/maniphest/) (button "_Create Task_"). You can edit your Phabricator task afterwards, so do not hesitate to first create a draft and then improve it little by little. It must include:
+5. Create a proposal on [Phabricator](https://phabricator.wikimedia.org/maniphest/) (button "_Create Task_"). You can edit your Phabricator task afterwards, so do not hesitate to first create a draft and then improve it little by little. Examples from previous years: [1](https://phabricator.wikimedia.org/T279266) [2](https://phabricator.wikimedia.org/T248341). It must include:
     - Link to your bugfix. If you have fixed several bugs, please write the bugfix you are most proud of at the top of the list.
     - Link to the pull request review you have performed (optional).
     - Your relevant skills.
@@ -32,7 +32,6 @@ Thank you for your interest! In the candidate selection phase of GSoC, we ask yo
         - Do you have any other plans during the period of GSoC?
         - How many hours per week can you dedicate for this?
         - Have you been accepted to GSoC before?
-    Example proposal from last year: https://phabricator.wikimedia.org/T248341
 6. Post an email to the mailing list (commons-app-android@googlegroups.com) with a link to your Phabricator proposal, and ask for early feedback about it. We will gladly tell you how your proposal can be improved.
 7. (_Optionally, you can fix more bugs, and add them to your proposal_)
 8. (_Optionally, after 5 bugfixes, you can also work on enhancements, and add them to your proposal. Please stay aware that quality is better than quantity, though._)
@@ -40,11 +39,9 @@ Thank you for your interest! In the candidate selection phase of GSoC, we ask yo
 # Task ideas
 
 Here is the recommended idea this year:
-- [Custom picture(s) selector which indicates what pictures have been uploaded already](https://github.com/commons-app/apps-android-commons/issues/175)
+- (not decided yet)
 
 If you really want to work on a different task, it can be considered. It can be hard to estimate difficulty, so we have selected a few ideas that we think are not too simple, not too difficult:
-- Edit already uploaded pictures: Edit title/description, add depictions, maybe even add coordinates.
-- Improve Nearby by splitting the current big server request into: a first fast server requests then an asynchronous request for each item.
 - In the upload feature, add an activity to crop/blur pictures for privacy purposes (example usages: crop out a passer-by, blur a car's number plate).
 - [Allow upload of videos](https://github.com/commons-app/apps-android-commons/issues/4).
 - If you have another idea, please post it as a new issue on our GitHub and mention you are considering it for GSoC, so that we can provide feedback.
