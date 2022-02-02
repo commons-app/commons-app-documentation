@@ -20,7 +20,7 @@
 
 ## Building the source code
 
-You can build the `beta` and `prod` flavor of the app for `debug` build type using the Android Studio. Read up more about flavor and build type [here](https://developer.android.com/studio/build/build-variants).
+You can build the `beta` and `prod` flavor of the app for `debug` build type using the Android Studio. Read up more about flavors and build types [here](https://developer.android.com/studio/build/build-variants).
 
 You can either directly invoke the following commands using your terminal or you can [edit configurations](https://developer.android.com/studio/run/rundebugconfig) in android studio and add these configs. 
 To build the `beta` `debug` variant use: 
