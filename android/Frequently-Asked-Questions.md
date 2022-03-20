@@ -30,4 +30,4 @@
 
 **How to contribute word pronunciation?**
 
-> Use this dedicated webapp (usable on mobile): https://lingualibre.fr
+> Use the [Spell4Wiki](https://github.com/manimaran96/Spell4Wiki) Android app, or this webapp usable on mobile: https://lingualibre.fr
