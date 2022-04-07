@@ -32,11 +32,11 @@ Thank you for your interest! In the candidate selection phase of GSoC, we ask yo
         - Do you have any other plans during the period of GSoC?
         - How many hours per week can you dedicate for this?
         - Have you been accepted to GSoC before?
-6. Also create the proposal on the [GSoC website](https://summerofcode.withgoogle.com). Most content can be copied from Phabricator. You will have to fill in these fields (feel free to adapt if necessary):
+6. Post an email to the mailing list (commons-app-android@googlegroups.com) with a link to your Phabricator proposal, and ask for early feedback about it. We will gladly tell you how your proposal can be improved.
+7. Also create the proposal on the [GSoC website](https://summerofcode.withgoogle.com). Most content can be copied from Phabricator. You will have to fill in these fields (feel free to adapt if necessary):
     - Project size: Large
     - Project Technologies: Android, Java, Kotlin, SQL
     - Project Topics: UI, UX, database
-7. Post an email to the mailing list (commons-app-android@googlegroups.com) with a link to your Phabricator proposal, and ask for early feedback about it. We will gladly tell you how your proposal can be improved.
 8. (_Optionally, you can fix more bugs, and add them to your proposal_)
 9. (_Optionally, after 5 bugfixes, you can also work on enhancements, and add them to your proposal. Please stay aware that quality is better than quantity, though._)
 
