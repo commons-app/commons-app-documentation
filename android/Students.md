@@ -32,7 +32,7 @@ Thank you for your interest! In the candidate selection phase of GSoC, we ask yo
         - Do you have any other plans during the period of GSoC?
         - How many hours per week can you dedicate for this?
         - Have you been accepted to GSoC before?
-6. Also create the proposal on the [GSoC website](https://summerofcode.withgoogle.com). Most content can be copied from Phabricator.
+6. Also create the proposal on the [GSoC website](https://summerofcode.withgoogle.com). Most content can be copied from Phabricator. You will have to fill in these fields (feel free to adapt if necessary):
     - Project size: Large
     - Project Technologies: Android, Java, Kotlin, SQL
     - Project Topics: UI, UX, database
