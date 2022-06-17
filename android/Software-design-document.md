@@ -19,8 +19,8 @@ When user types in search field, display:
 
 ## Upload flow
 * Copy the image to the cache folder.
-* Remove the EXIF data of the cached image.
+* Remove the EXIF data of the cached image, depending on the settings in `Settings`>`Manage EXIF Tags`.
 * Upload the image to the server.
 * Delete the cached image.
 
-Removing the EXIF data of the image is important as image might contain some personal information (User name, camera specifications etc) as its metadata. Furthermore, there is an [API](https://github.com/commons-app/apps-android-commons/issues/175#issue-164989234) that checks for the image in Commons server using the SHA1 of the image. Deleting EXIF data from an image changes the SHA1 of the image thus checking for an image in the server requires you to gennerate SHA1 of the modified (EXIF removed) image. 
+Removing the EXIF data of the image is important as image might contain some personal information (author, camera model, serial numbers, etc) as its metadata. Furthermore, there is an [API](https://github.com/commons-app/apps-android-commons/issues/175#issue-164989234) that checks for the image in Commons server using the SHA1 of the image. Deleting EXIF data from an image changes the SHA1 of the image thus checking for an image in the server requires you to gennerate SHA1 of the modified (EXIF similarly removed) image. 
