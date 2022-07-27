@@ -32,8 +32,8 @@ The Wikimedia Commons app offers the following functionality:
 - Check if picture already exists on Commons 
 ("This file already exists on Commons. Are you sure you want to proceed?")
 - Upload Picture
-- Suggest Category: Based on [1) image location or 2) user location](https://github.com/commons-app/apps-android-commons/wiki/Category-suggestions-(readme))
-- Search for Category: [prefix and fuzzy search](https://github.com/commons-app/apps-android-commons/wiki/Category-suggestions-(readme)#3-category-search-when-typing-in-the-search-field-has-been-made-more-flexible)
+- Suggest Category: Based on [1) image location or 2) user location](https://github.com/commons-app/commons-app-documentation/blob/master/android/Location-based-category-search.md)
+- Search for Category: [prefix and fuzzy search](https://github.com/commons-app/commons-app-documentation/blob/master/android/Fuzzy-category-search.md)
 - Save chosen Category
 - Settings
     - Enable/disable functionality
