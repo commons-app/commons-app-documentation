@@ -22,7 +22,7 @@
 > Commons is about multimedia content (images, video, sound), not text. Text may, depending on form and content, fit into some other Wikimedia project, such as Wikibooks, Wikipedia, Wikisource, or Wikiversity. However, please note that you must not copy and paste text to these other projects unless you are willing to release it into the public domain or license it for use under the Creative Commons Attribution/Share-Alike (CC BY or CC BY-SA) licenses. For example, to use text from a website—even your own—that external website must exhibit a clear statement of such public domain release or CC BY-SA licensing.
 
 **I am in a course that requires participation in an open source project. Can I contribute to this project?**
-> Yes! We are happy to accept all contributions. Get started by checkout out our Volunteers Welcome! page here: https://github.com/commons-app/apps-android-commons/wiki/Volunteers-welcome%21
+> Yes! We are happy to accept all contributions. Get started by checkout out our Volunteers Welcome! page here: https://github.com/commons-app/commons-app-documentation/blob/master/android/Volunteers-welcome!.md
 
 **How do I close my account?**
 
