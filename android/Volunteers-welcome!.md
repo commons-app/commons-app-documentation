@@ -23,7 +23,7 @@ Choose the beta version if:
 
 Choose the alpha version if:
 
-- You want to test the latest cutting edge (each commit is released as an alpha).
+- You want to test the latest cutting edge.
 - You love finding bugs, and don't mind if some features are unusable sometimes.
 - You don't mind receiving app updates several times per day.
 
@@ -35,7 +35,7 @@ The beta version might have bugs, your role is to find them all so that we can m
 | - | - |
 | ![App page](https://i.imgur.com/8oQqtCs.png) | ![Join beta program](https://i.imgur.com/GyBqL6X.png) |
 
-3. After some minutes to an hour of enrolling, update your app to get the beta version.
+3. After some minutes or hours of enrolling, update your app to get the beta version. Please be patient.
 
 <!--
 Jo: Unfortunately the alpha version isn't working as it was previously, due to the deprecation of travis.org, which we rely on for automated alpha updates. :(
