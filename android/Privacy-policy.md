@@ -1,5 +1,3 @@
-# Privacy policy
-
 # Privacy Policy
 
 The Wikimedia Commons Android app is a free, open-source app developed by grantees and volunteers of the Wikimedia community to allow users to upload content to Wikimedia Commons. This APPLICATION is provided by members of the Wikimedia community and is intended for use as is. 
