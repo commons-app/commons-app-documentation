@@ -38,7 +38,7 @@ Similarly, to modify or remove strings, you just need to edit `app/src/main/res/
 
 ## Fixing language mappings between TranslateWiki and Android
 
-Once in a while, a newly translated language is not matched automatically to an Android locale. That makes the build fail with an error such as `values-ks-arab: Resource and asset merger: Invalid resource directory name`. When that happens, please submit to Gerrit a change [like this one](https://gerrit.wikimedia.org/r/c/translatewiki/+/826587) to add a new line to [TEMPLATES>FILES>codeMap](https://phabricator.wikimedia.org/diffusion/GTWN/browse/master/groups/Wikimedia/CommonsAndroid.yaml$15).
+Once in a while, a newly translated language is not matched automatically to an Android locale. That makes the build fail with an error such as `values-ks-arab: Resource and asset merger: Invalid resource directory name`. When that happens, please submit to Gerrit (not GitHub) a change [like this one](https://gerrit.wikimedia.org/r/c/translatewiki/+/826587) to add a new line to [TEMPLATES>FILES>codeMap](https://phabricator.wikimedia.org/diffusion/GTWN/browse/master/groups/Wikimedia/CommonsAndroid.yaml$15).
 
 ## Statistics
 
