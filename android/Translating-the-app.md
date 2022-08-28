@@ -36,6 +36,10 @@ You just need to add the new string to `app/src/main/res/values/strings.xml`.
 It will automatically be sent for to the volunteers, and localized strings will be added to the `app/src/main/res/values-XYZ/strings.xml` files.
 Similarly, to modify or remove strings, you just need to edit `app/src/main/res/values/strings.xml`.
 
+## Fixing language mappings between TranslateWiki and Android
+
+Once in a while, a newly translated language is not matched automatically to an Android locale. That makes the build fail with an error such as `values-ks-arab: Resource and asset merger: Invalid resource directory name`. When that happens, please submit to Gerrit a change [like this one](https://gerrit.wikimedia.org/r/c/translatewiki/+/826587) to add a new line to [TEMPLATES>FILES>codeMap](https://phabricator.wikimedia.org/diffusion/GTWN/browse/master/groups/Wikimedia/CommonsAndroid.yaml$15).
+
 ## Statistics
 
 [Here](https://translatewiki.net/w/i.php?title=Special%3AMessageGroupStats&x=D&group=commons-android&suppressempty=1) is the current rate of translations for each language.
