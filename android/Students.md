@@ -43,7 +43,7 @@ Thank you for your interest! In the candidate selection phase of GSoC, we ask yo
 # Task ideas
 
 Here is the recommended idea this year:
-- [Improve the custom picture selector](https://github.com/commons-app/apps-android-commons/issues/4764)
+- [Make upload more reliable](https://github.com/commons-app/apps-android-commons/issues/5129)
 
 If you really want to work on a different task, it can be considered. It can be hard to estimate difficulty, so we have selected a few ideas that we think are not too simple, not too difficult:
 - [Losslessly transform picture (crop/rotate/etc) within the app](https://github.com/commons-app/apps-android-commons/issues/1192)
