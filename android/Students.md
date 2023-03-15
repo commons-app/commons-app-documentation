@@ -19,6 +19,7 @@ Thank you for your interest! In the candidate selection phase of GSoC, we ask yo
         - These exact words: "Review by student"
         - Post the two videos (before merging the pull request showing the issue, after merging the pull request)
         - Say whether the issue was solved after merging the pull request or not.
+        - Optionally, explain how the source code change could be improved.
 4. Choose a task idea (see section below).
 5. Create a proposal on [Phabricator](https://phabricator.wikimedia.org/maniphest/) (button "_Create Task_"). You can edit your Phabricator task afterwards, so do not hesitate to first create a draft and then improve it little by little. Examples from previous years: [1](https://phabricator.wikimedia.org/T279266) [2](https://phabricator.wikimedia.org/T248341). It must include:
     - Link to your bugfix. If you have fixed several bugs, please write the bugfix you are most proud of at the top of the list.
