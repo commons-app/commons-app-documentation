@@ -46,9 +46,8 @@ Here is the recommended idea this year:
 - [Make upload more reliable](https://github.com/commons-app/apps-android-commons/issues/5129)
 
 If you really want to work on a different task, it can be considered. It can be hard to estimate difficulty, so we have selected a few ideas that we think are not too simple, not too difficult:
-- [Losslessly transform picture (crop/rotate/etc) within the app](https://github.com/commons-app/apps-android-commons/issues/1192)
-- [Export Nearby items for offline use on map apps](https://github.com/commons-app/apps-android-commons/issues/953) and [Report that Nearby item is not at specified location](https://github.com/commons-app/apps-android-commons/issues/965)
-- [Allow upload of videos](https://github.com/commons-app/apps-android-commons/issues/4).
+- [Losslessly transform picture (crop/rotate/etc) within the app](https://github.com/commons-app/apps-android-commons/issues/1192).
+- [Export Nearby items for offline use on map apps](https://github.com/commons-app/apps-android-commons/issues/953) and [Report that Nearby item is not at specified location](https://github.com/commons-app/apps-android-commons/issues/965).
 - If you have another idea, please post it as a new issue on our GitHub and mention you are considering it for GSoC, so that we can provide feedback.
 
 # How we choose the student
