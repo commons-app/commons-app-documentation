@@ -21,7 +21,7 @@ Thank you for your interest! In the candidate selection phase of GSoC, we ask yo
         - Say whether the issue was solved after merging the pull request or not.
         - Optionally, explain how the source code change could be improved.
 4. Choose a task idea (see section below).
-5. Create a proposal on [Phabricator](https://phabricator.wikimedia.org/maniphest/) (button "_Create Task_"). You can edit your Phabricator task afterwards, so do not hesitate to first create a draft and then improve it little by little. Examples from previous years: [1](https://phabricator.wikimedia.org/T279266) [2](https://phabricator.wikimedia.org/T248341). It must include:
+5. Create a proposal on [Phabricator](https://phabricator.wikimedia.org/maniphest/) (button "_Create Task_"). You can edit your Phabricator task afterwards, so do not hesitate to first create a draft and then improve it little by little. Examples from previous years: [1](https://phabricator.wikimedia.org/T279266) [2](https://phabricator.wikimedia.org/T248341) [3](https://phabricator.wikimedia.org/T304044). It must include:
     - Link to your bugfix. If you have fixed several bugs, please write the bugfix you are most proud of at the top of the list.
     - Link to the pull request review you have performed (optional).
     - Your relevant skills.
@@ -60,3 +60,4 @@ We choose the student based on (from the most important):
 - Ability to read documentation and find solutions independently.
 - Quality of the proposal (clear, convincing strategy and timeline, reasonably ambitious).
 - Extra points for helping others, previous open source projects participation, etc.
+- Note:  We do not take into account the _number_ of merged bugfixes, only the _quality_ of the best one(s).
