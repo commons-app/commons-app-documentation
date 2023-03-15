@@ -10,7 +10,7 @@ Thank you for your interest! In the candidate selection phase of GSoC, we ask yo
 
 1. Compile and run the app as described in [the documentation](https://github.com/commons-app/commons-app-documentation/blob/master/android/Quick-start-guide-for-Developers.md#quick-start-guide-for-developers).
 2. Fix 1 bug by following the instructions at the "Developers" section [here](https://github.com/commons-app/commons-app-documentation/blob/master/android/Volunteers-welcome!.md#developers). Fixing bugs is a good opportunity to demonstrate that you can work on the app.
-3. (_optional but preferred as it demonstrates your attention to details and understanding of git_)Review 1 existing pull request:
+3. (_optional but preferred as it demonstrates your attention to details and understanding of git_) Review 1 existing pull request:
     1. Go to https://github.com/commons-app/apps-android-commons/pulls and find a pull request that does **not** contain the words "Review by student".
     2. Go to the page of the original issue. The original issue should be mentioned at the top of the pull request, for instance "_Fixes #xyz_". If the pull request does not mention any issue, please add a comment on the pull request asking for a link to the original issue, and choose a different pull request.
     3. Try to reproduce the original issue. Once you have managed to reproduce it, take a video of the issue reproduction (to make a screencast on Android you can use [adb](https://stackoverflow.com/questions/28217333/how-to-record-android-devices-screen-on-android-version-below-4-4-kitkat) or [this button](https://support.google.com/android/answer/9075928) or any other screencast app that works for you). Keep the resulting video file, you will use it later.
