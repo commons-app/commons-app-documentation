@@ -7,12 +7,13 @@ See [Developer workflow](Developer-workflow.md)
 # Procedure to release a new version
 
 1. Add the new features to [CHANGELOG.md](https://github.com/commons-app/apps-android-commons/blob/master/CHANGELOG.md)
-2. Increment `versionCode` and `versionName` in [app/build.gradle](https://github.com/commons-app/apps-android-commons/blob/master/app/build.gradle)
-3. Commit, and push to Github
-4. Tag the commit as `v` + the version number, for instance `v1.32` for version 1.32. This is needed [for F-Droid](https://gitlab.com/fdroid/fdroiddata/blob/master/metadata/fr.free.nrw.commons.txt). Don't forget to push the tags (`git push commons-app --tags`).
-5. Click 'Draft a new release' and fill in details
-6. Publish to Google Play
-7. Update Google Play's changelog
+1. Increment `versionCode` and `versionName` in [app/build.gradle](https://github.com/commons-app/apps-android-commons/blob/master/app/build.gradle)
+1. Commit, and push to Github
+1. Tag the commit as `v` + the version number, for instance `v1.32` for version 1.32. This is needed [for F-Droid](https://gitlab.com/fdroid/fdroiddata/blob/master/metadata/fr.free.nrw.commons.txt). Don't forget to push the tags (`git push commons-app --tags`).
+1. Generate the signed app bundle using the keystore via the **Build > Generate Signed Bundle / APK** menu [[ref](https://developer.android.com/studio/publish/app-signing#sign-apk)]
+1. Click 'Draft a new release' and fill in details
+1. Publish to Google Play
+1. Update Google Play's changelog
 
 # Branching and hotfix system for releases
 
