@@ -40,6 +40,12 @@ Please follow the [MVP architecture](https://github.com/commons-app/apps-android
 
 Please write unit tests to cover your own code if you are submitting an enhancement (i.e. the issue that you are working on has an "enhancement" label)
 
+## Logging
+
+Please use Timber for logging, for instance `Timber.d("Current image quality is %d", currentImageQuality);`, you may need to import: `import timber.log.Timber;`
+
+Please do not write `e.printStackTrace()`, instead output the exception to Timber.
+
 ## Licensing
 We can only embed libraries that allow being embedded with Apache 2-licensed software.
 
