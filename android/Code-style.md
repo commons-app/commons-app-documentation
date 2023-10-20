@@ -66,56 +66,15 @@ Calling HTTP services powered by non open source software (example: Google Searc
 
 ## Strings
 
-Strings added must not have [unescaped HTML tags](https://github.com/commons-app/apps-android-commons/issues/1333#issuecomment-412430539)
+Strings added must not have [unescaped HTML tags](https://github.com/commons-app/apps-android-commons/issues/1333#issuecomment-412430539).
 
-String literals should be avoided
+String literals should be avoided.
 
 ## View Bindings
 
-We have decided to move away from Butterknife and gradually replace its usage with [Kotlin Android Extensions ViewBinding](https://kotlinlang.org/docs/tutorials/android-plugin.html#view-binding). 
+Please use Google's view binding.
 
-Note: 
-- Whenever a new Android Component written in Kotlin in added, you should use Kotlin Android Extensions ViewBindings. 
-- Whenever an existing Android component which is written in Java is converted to Kotlin, we should ideally replace Butterknife with Kotlin Android Extensions ViewBinding.
-- If you are simply changing or adding anything in an existing Android component which is written in Java then you can continue using Butterknife. 
-
-### Butterknife
-
-As mentioned above, contributors have the option of using [butterknife](https://github.com/JakeWharton/butterknife) for their view bindings for existing Java classes.
-
-#### Usage
-
-##### BindView
-Eliminate `findViewById` calls by using `@BindView` on fields. We have refactored the [AboutActivity](https://github.com/commons-app/apps-android-commons/blob/master/app/src/main/java/fr/free/nrw/commons/AboutActivity.java) to use `@BindView` instead of `findViewById`. 
-
-```java
-public class AboutActivity extends BaseActivity {
-    @BindView(R.id.about_version) TextView versionText;
-    @BindView(R.id.about_license) TextView licenseText;
-    @BindView(R.id.about_improve) TextView improveText;
-    @BindView(R.id.about_privacy_policy) TextView privacyPolicyText;
-    @BindView(R.id.about_uploads_to) TextView uploadsToText;
-    @BindView(R.id.about_credits) TextView creditsText;
-
-    @Override
-    public void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_about);
-
-        ButterKnife.bind(this);
-
-    }
-}
-```
-
-##### Events
-Eliminate anonymous inner-classes for listeners by annotating methods with `@OnClick` and others.. Similarly events can be bound as follows as used in [SingleUploadFragment](https://github.com/commons-app/apps-android-commons/blob/master/app/src/main/java/fr/free/nrw/commons/upload/SingleUploadFragment.java). 
-
-```java
-    @OnClick(R.id.titleDescButton) void setTitleDescButton() {
-    
-    }
-```
+The project has legacy Butterknife and Kotlin Android Extensions ViewBindings, please do not hesitate to [replace them](https://github.com/commons-app/apps-android-commons/issues/4664).
 
 ## Shared Preferences
 
