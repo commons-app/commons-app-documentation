@@ -29,7 +29,6 @@ Documentation about the App itself, not the implementation:
 - [Developer workflow](Developer-workflow.md)
 - [Code Style](Code-style.md)
 - [Libraries used](Libraries-used.md)
-- [Project Maintenance](Project-maintenance.md)
 - [Software design document](Software-design-document.md)
 - [Build variants types](/android/build-variants/Build-Variants.md)
 - [Changing build variants](/android/build-variants/Changing-Build-Variants.md)
@@ -50,8 +49,9 @@ Documentation about the App itself, not the implementation:
 - [Fuzzy category search](Fuzzy-category-search.md)
 - [Location based category search](Location-based-category-search.md)
 
-### 🚀 Publish
+### 🚀 Maintainer documentation
 
+- [Project Maintenance](Project-maintenance.md)
 - [Google Play store listing](Google-Play-store-listing.md)
 
 <!-- This is copied across README.md, android/README.md - please keep them in sync! -->
