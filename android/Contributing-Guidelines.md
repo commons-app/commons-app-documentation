@@ -119,3 +119,8 @@ on GitHub to describe the updated behavior and make sure that the resulting
 documentation pages don't become stale as a consequence of your change.
 
 Note: These guidelines are based on the Git project's [guideline for submitting patches](https://github.com/git/git/blob/master/Documentation/SubmittingPatches). It's licensed under GPLv2.
+
+### Wikimedia accounts
+Please create and use your own Wikimedia account.
+When using the production server, please only upload encyclopedia-worthy pictures you took by yourself. You can also ask [Nicolas Raoul](https://nicolasraoul.github.io) to provide encyclopedia-worthy pictures for you to upload.
+If you are assigned to an issue where you must have an account with hundreds of existing uploads, please also contact the person above explaining why.
