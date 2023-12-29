@@ -2,20 +2,43 @@
 
 The Wikimedia Commons app consists of the following screens:
 
-- **Tutorial** (4 slides)
+- **Tutorial** (5 slides)
 - **Sign up** (In App Browser)
 - **Log in**
-- **My Recent Uploads** / Home
+- **Contributions Fragment** / Home
     - Image / Upload Details
     - Upload from Camera (OS functionality)
     - Upload from Gallery (OS functionality)
-- **Upload Picture**
-    - Add Title, Description, Licence
-    - Add Category
-- **Nearby Places**
+    - Notifications
+      - View Read
+      - View Unread
+- **Upload Picture (+)**
+    - Add Caption, Description
+      - Choose a location
+      - Edit Image
+    - Depicts
+    - Categories
+    - Media License
+- **Nearby Fragment**
     - List
     - Map
-- **About**
+- **Explore Fragment**
+    - Featured
+      - Image Details
+    - Uploaded via mobile
+      - Image Details
+    - Map
+- **Bookmarks Fragment**
+    - Pictures
+    - Locations
+    - Items
+- **User Profile**
+  - Achievements
+  - Leaderboard
+  - Contributions
+- **Review**
 - **Settings**
+- **Tutorial**
 - **Feedback**
+- **About**
 - **Logout**
