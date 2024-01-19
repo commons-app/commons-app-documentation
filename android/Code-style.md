@@ -5,8 +5,8 @@
 Our coding style follows the [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html).
 
 Our code style is part of the project and should be automatically used.  
- The code style is located at `.idea/codeStyles/Project.xml`  
- it is important that you commit no changes to this file unless you are working on a ticket
+ The code style is located at [.idea/codeStyles/Project.xml](https://github.com/commons-app/apps-android-commons/blob/main/.idea/codeStyles/Project.xml).
+ It is important that you do not modify this file unless you are working on a ticket
  to update our code style.
 
  It may also be beneficial to create a [macro](https://www.jetbrains.com/help/idea/using-macros-in-the-editor.html)
