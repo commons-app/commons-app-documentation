@@ -19,7 +19,7 @@ When user types in search field, display:
 
 ## Upload flow
 * Copy the image to the cache folder.
-* Remove the EXIF data of the cached image, depending on the settings in `Settings`>`Manage EXIF Tags`.
+* Remove some of the EXIF data of the cached image, depending on the settings in `Settings`>`Manage EXIF Tags`.
 * Upload the image to the server.
 * Delete the cached image.
 
