@@ -16,7 +16,7 @@
 * [SLF4J][17]
 * [Logback][18]
 * [Butterknife][19]
-* [OKHttp][20]
+* [OkHttp][20]
 * [Okio][21]
 * [RxJava][22]
 * [RxBinding][23]
