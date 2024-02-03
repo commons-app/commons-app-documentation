@@ -8,7 +8,7 @@
 * [Apache Commons Codec][6]
 * [Renderers][7]
 * [Gson][8]
-* [MapBox][11]
+* [osmdroid][11]
 * [MaterialShowcaseView][12]
 * [CircleProgressBar][13]
 * [Dexter][14]
@@ -40,7 +40,7 @@
 [6]: https://commons.apache.org/proper/commons-codec/
 [7]: https://github.com/pedrovgs/Renderers
 [8]: https://github.com/google/gson
-[11]: https://www.mapbox.com/android-docs/maps/overview/
+[11]: https://github.com/osmdroid/osmdroid
 [12]: https://github.com/deano2390/MaterialShowcaseView
 [13]: https://github.com/dinuscxj/CircleProgressBar
 [14]: https://github.com/Karumi/Dexter
