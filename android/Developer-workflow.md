@@ -26,7 +26,7 @@
 
 ## Reviewing a change
 
-1. Check Travis is passing
+1. Check GitHub Actions is passing
     - If not have a look in the logs to try and deduce what the error might be and provide feedback to the requester
     - If you think Travis should pass but isn't, try restarting the build. If this still doesn't work, see if there is any discussion in issues. If one doesn't exist already, submit a new issue tagged `continuous integration` and `high priority`.
 
