@@ -58,6 +58,6 @@ We choose the student based on (from the most important):
 - Quality of code (absence of bugs, good self-testing, use of Java & Android conventions).
 - Efficiency and smoothness of interactions on GitHub.
 - Ability to read documentation and find solutions independently.
-- Quality of the proposal (clear, convincing strategy and timeline, reasonably ambitious).
+- Quality of the proposal, if different from the suggested proposal (clear, convincing strategy and timeline, reasonably ambitious).
 - Extra points for helping others, previous open source projects participation, etc.
 - Note:  We do not take into account the _number_ of merged bugfixes, only the _quality_ of the best one(s).
