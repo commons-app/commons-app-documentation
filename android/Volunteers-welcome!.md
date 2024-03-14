@@ -11,6 +11,13 @@ We are always looking for volunteers, feel free to step in! It's very easy to ge
 
 It is also recommended that you actually try the app and upload pictures with the app. Become familiar with the various workflows. Notice what kind of categories are suggested depending on where the picture is taken or what you type. Check what people consider [excellent pictures](https://commons.wikimedia.org/wiki/Commons:Featured_pictures) and get inspired by their rich descriptions and accurate categories.
 
+Please create and use your own Wikimedia account.
+By default you will be using the **beta server**.
+Using the **production server** (by switching the build flavor) is OK for read-only operations. If you must perform operations that modify data on the production server, please make sure that **each** of your actions is a good change.
+- If you must upload pictures to the production server, please only upload encyclopedia-worthy pictures you took by yourself. You can also ask [Nicolas Raoul](https://nicolasraoul.github.io) to provide encyclopedia-worthy pictures for you to upload.
+- If you must modify metadata on the production server, only modify in a way that results in better metadata.
+- If you must nominate pictures for deletion on the production server, find pictures (uploaded by other people) that actually must be deleted (for instance because they are copyright violations). Uploading test pictures then nominating them for deletion will get you [blocked](https://commons.wikimedia.org/wiki/User_talk:Mahakaryain1#Blocked).
+
 # Testers
 
 Use the beta version and report bugs to the [issue tracker](https://github.com/commons-app/apps-android-commons/issues/).
