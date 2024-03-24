@@ -6,17 +6,17 @@ The [Commons app](https://play.google.com/store/apps/details?id=fr.free.nrw.comm
 
 # How to apply
 
-Thank you for your interest! In the candidate selection phase of GSoC, we ask you (the student) to learn about the project and apply by performing these tasks (in this order):
+Thank you for your interest! In the candidate selection phase of GSoC, we ask you (the GSoC candidate) to learn about the project and apply by performing these tasks (in this order):
 
 1. Compile and run the app as described in [the documentation](https://github.com/commons-app/commons-app-documentation/blob/master/android/Quick-start-guide-for-Developers.md#quick-start-guide-for-developers).
 2. Fix 1 bug by following the instructions at the "Developers" section [here](https://github.com/commons-app/commons-app-documentation/blob/master/android/Volunteers-welcome!.md#developers). Fixing bugs is a good opportunity to demonstrate that you can work on the app.
 3. (_optional but preferred as it demonstrates your attention to details and understanding of git_) Review 1 existing pull request:
-    1. Go to https://github.com/commons-app/apps-android-commons/pulls and find a pull request that does **not** contain the words "Review by student".
+    1. Go to https://github.com/commons-app/apps-android-commons/pulls and find a pull request that does **not** contain the words "Review by GSoC applicant".
     2. Go to the page of the original issue. The original issue should be mentioned at the top of the pull request, for instance "_Fixes #xyz_". If the pull request does not mention any issue, please add a comment on the pull request asking for a link to the original issue, and choose a different pull request.
     3. Try to reproduce the original issue. Once you have managed to reproduce it, take a video of the issue reproduction (to make a screencast on Android you can use [adb](https://stackoverflow.com/questions/28217333/how-to-record-android-devices-screen-on-android-version-below-4-4-kitkat) or [this button](https://support.google.com/android/answer/9075928) or any other screencast app that works for you). Keep the resulting video file, you will use it later.
     4. Go back to the source code of the app, and perform a `git pull` to make sure you are at the latest master. Now create a new branch and _pull_ the pull request, for instance: `git checkout -b pr1 master; git pull https://github.com/person-who-wrote-the-pr/apps-android-commons.git pr1` (replace `person-who-wrote-the-pr` with the username of the person who wrote the pull request, and `pr1` with the name of the branch of the pull request). Compile and run. If the pull request really solves the issue, then the issue should not happen now. Take a video showing that.
     5. On the pull request page, add a comment containing:
-        - These exact words: "Review by student"
+        - These exact words: "Review by GSoC applicant"
         - Post the two videos (before merging the pull request showing the issue, after merging the pull request)
         - Say whether the issue was solved after merging the pull request or not.
         - Optionally, explain how the source code change could be improved.
@@ -51,9 +51,9 @@ If you really want to work on a different task, it can be considered. It can be 
 - [Make Nearby show all pins that could be presented on the screen, rather than a circle](https://github.com/commons-app/apps-android-commons/issues/5480) + [Split Nearby into a fast query for coordinates + a details query for each pin](https://github.com/commons-app/apps-android-commons/issues/4560) + [Export Nearby items for offline use on map apps](https://github.com/commons-app/apps-android-commons/issues/953) + [Report that Nearby item is not at specified location](https://github.com/commons-app/apps-android-commons/issues/965).
 - If you have another idea, please post it as a new issue on our GitHub and mention you are considering it for GSoC, so that we can provide feedback.
 
-# How we choose the student
+# How we choose the GSoC applicant
 
-We choose the student based on (from the most important):
+We choose the GSoC applicant based on (from the most important):
 - Technical challengingness of merged bugfix(es).
 - Quality of code (absence of bugs, good self-testing, use of Java & Android conventions).
 - Efficiency and smoothness of interactions on GitHub.
