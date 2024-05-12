@@ -31,8 +31,12 @@ This is particularly necessary if the change touches any model classes as ProGua
 
 ## Promoting the test release to production
 
-TODO
-
+1. Go to the Google Play Console and switch to the **Testing > Open Testing** page.
+1. Click on the "Promote release" button on the last testing release and choose "Production" from the menu.
+1. Verify the release APK attached, release notes and if all looks fine, hit "Next".
+1. Initiate a staged roll out of 20% and hit "Save".
+1. Go to publishing overview, cross check stuff and send the changes for review.
+   
 # Branching and hotfix system for releases
 
 - Every major release (e.g. 2.6) should be pulled from master and a new branch created (e.g. `2.6.x-release`)
