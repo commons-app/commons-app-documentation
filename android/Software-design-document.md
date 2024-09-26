@@ -1,8 +1,14 @@
 # Software design document
 
-[WIP]
+This is a work in progress. You are very welcome to add sections based on your findings from the source code. You are also welcome to edit the charts on Wikimedia Commons (`Upload a new version of this file` link on the Commons page).
+
+## Components and APIs
 
 [![Architecture](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Commons_Mobile_App_architecture.svg/1000px-Commons_Mobile_App_architecture.svg.png)](https://commons.wikimedia.org/wiki/File:Commons_Mobile_App_architecture.svg)
+
+## Upload workflow
+
+[![Architecture](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Upload_workflow_of_the_Commons_Android_app.svg/2282px-Upload_workflow_of_the_Commons_Android_app.svg.png)](https://commons.wikimedia.org/wiki/File:Upload_workflow_of_the_Commons_Android_app.svg)
 
 ## Category suggestions
 
