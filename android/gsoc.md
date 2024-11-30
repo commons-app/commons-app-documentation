@@ -44,11 +44,10 @@ Thank you for your interest! In the candidate selection phase of GSoC, we ask yo
 # Task ideas
 
 Here is the recommended idea this year:
-- [Improve upload queue management](https://phabricator.wikimedia.org/T356237)
+- TODO Not decided yet
 
 If you really want to work on a different task, it can be considered. It can be hard to estimate difficulty, so we have selected a few ideas that we think are not too simple, not too difficult:
 - [Losslessly transform picture (crop/etc) within the app](https://github.com/commons-app/apps-android-commons/issues/1192).
-- [Make Nearby show all pins that could be presented on the screen, rather than a circle](https://github.com/commons-app/apps-android-commons/issues/5480) + [Split Nearby into a fast query for coordinates + a details query for each pin](https://github.com/commons-app/apps-android-commons/issues/4560) + [Export Nearby items for offline use on map apps](https://github.com/commons-app/apps-android-commons/issues/953) + [Report that Nearby item is not at specified location](https://github.com/commons-app/apps-android-commons/issues/965).
 - If you have another idea, please post it as a new issue on our GitHub and mention you are considering it for GSoC, so that we can provide feedback.
 
 # How we choose the GSoC applicant
