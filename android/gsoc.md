@@ -44,11 +44,13 @@ Thank you for your interest! In the candidate selection phase of GSoC, we ask yo
 # Task ideas
 
 Here is the recommended idea this year:
-- TODO Not decided yet
+-  [Improve the app using AI and especially embedded LLMs](https://phabricator.wikimedia.org/T383961)
 
 If you really want to work on a different task, it can be considered. It can be hard to estimate difficulty, so we have selected a few ideas that we think are not too simple, not too difficult:
 - [Losslessly transform picture (crop/etc) within the app](https://github.com/commons-app/apps-android-commons/issues/1192).
+- Nearby improvements: show class icons, freedom of panorama info, point in time/etc, OSM.
 - If you have another idea, please post it as a new issue on our GitHub and mention you are considering it for GSoC, so that we can provide feedback.
+- You can even apply with two proposals: the proposal you imagined + the suggested proposal.
 
 # How we choose the GSoC applicant
 
