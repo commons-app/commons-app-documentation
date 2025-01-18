@@ -17,7 +17,7 @@ This is particularly necessary if the change touches any model classes as ProGua
 1. Add the new features to [CHANGELOG.md](https://github.com/commons-app/apps-android-commons/blob/main/CHANGELOG.md)
 1. Increment `versionCode` and `versionName` in [app/build.gradle](https://github.com/commons-app/apps-android-commons/blob/main/app/build.gradle)
 1. Commit, and push to Github
-1. Tag the commit as `v` + the version number, for instance `v1.32` for version 1.32. This is needed [for F-Droid](https://gitlab.com/fdroid/fdroiddata/blob/main/metadata/fr.free.nrw.commons.txt) (`git tag v1.32`). Don't forget to push the tags (`git push --tags`).
+1. Tag the commit as `v` + the version number, for instance `v1.32` for version 1.32. This is needed [for F-Droid](https://gitlab.com/fdroid/fdroiddata/-/blob/master/metadata/fr.free.nrw.commons.yml) (`git tag v1.32`). Don't forget to push the tags (`git push --tags`).
 1. Generate the signed app bundle using the keystore via the **Build > Generate Signed Bundle / APK** menu [[ref](https://developer.android.com/studio/publish/app-signing#sign-apk)]
     - Note: In this step, we need to generate an APK not an Android App bundle.
 1. Create [a new release](https://github.com/commons-app/apps-android-commons/releases/new) in GitHub and publish the same with appropriate release notes. The CHANGELOG content helps here. Further, GitHub's auto-generated release notes is also helpful as it lists all PRs that were included in this release along with a section highlighting the "New contributors" to that release.
