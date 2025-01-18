@@ -37,7 +37,17 @@ This is particularly necessary if the change touches any model classes as ProGua
 1. Verify the release APK attached, release notes and if all looks fine, hit "Next".
 1. Initiate a staged roll out of 20% and hit "Save".
 1. Go to publishing overview, cross check stuff and send the changes for review.
-   
+
+## Announcing release to the mailing list
+
+For major releases, we should announce the same to the following mailings list:
+
+  - [commons-l](https://lists.wikimedia.org/hyperkitty/list/commons-l@lists.wikimedia.org/)
+  - [mobile-l](https://lists.wikimedia.org/postorius/lists/mobile-l.lists.wikimedia.org/)
+
+It could highlight the important changes done in that particular version.
+Checkout the following example release post for reference: [v5.1 release](https://lists.wikimedia.org/hyperkitty/list/commons-l@lists.wikimedia.org/thread/TEWHYXXSGQHAXLJKVGIFAKA23JS7GDZD/)
+
 # Branching and hotfix system for releases
 
 - Every major release (e.g. 2.6) should be pulled from main and a new branch created (e.g. `2.6.x-release`)
