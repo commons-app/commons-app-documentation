@@ -38,15 +38,19 @@ This is particularly necessary if the change touches any model classes as ProGua
 1. Initiate a staged roll out of 20% and hit "Save".
 1. Go to publishing overview, cross check stuff and send the changes for review.
 
-## Announcing release to the mailing list
+## Announcing the release
 
-For major releases, we should announce the same to the following mailings list:
+For significant releases (major / minor), we should announce the same to the following mailings list:
 
   - [commons-l](https://lists.wikimedia.org/hyperkitty/list/commons-l@lists.wikimedia.org/)
   - [mobile-l](https://lists.wikimedia.org/postorius/lists/mobile-l.lists.wikimedia.org/)
 
-It could highlight the important changes done in that particular version.
+The e-mail could highlight the important changes done in that particular version.
 Checkout the following example release post for reference: [v5.1 release](https://lists.wikimedia.org/hyperkitty/list/commons-l@lists.wikimedia.org/thread/TEWHYXXSGQHAXLJKVGIFAKA23JS7GDZD/)
+
+### LinkedIn
+
+We also have a [LinkedIn page](https://www.linkedin.com/company/wikimedia-commons-app) [ref](https://github.com/commons-app/apps-android-commons/issues/5745). We could use that to announce rather signficant app releases. As of writing (Feb2025), only @misaochan has access to post in that page.
 
 # Branching and hotfix system for releases
 
