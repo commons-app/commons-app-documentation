@@ -50,7 +50,7 @@ Checkout the following example release post for reference: [v5.1 release](https:
 
 ### LinkedIn
 
-We also have a [LinkedIn page](https://www.linkedin.com/company/wikimedia-commons-app) [ref](https://github.com/commons-app/apps-android-commons/issues/5745). We could use that to announce rather signficant app releases. As of writing (Feb2025), only @misaochan has access to post in that page.
+We also have a [LinkedIn page](https://www.linkedin.com/company/wikimedia-commons-app) [[ref](https://github.com/commons-app/apps-android-commons/issues/5745)]. We could use that to announce rather signficant app releases. As of writing (Feb2025), only @misaochan has access to post in that page.
 
 # Branching and hotfix system for releases
 
