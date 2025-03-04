@@ -1,6 +1,8 @@
 # Introduction
 
-[GSoC](https://summerofcode.withgoogle.com) is a coding program organized by Google.
+(note: please read "Outreachy" instead of "GSoC" if applicable)
+
+<!--[GSoC](https://summerofcode.withgoogle.com) is a coding program organized by Google.-->
 
 The [Commons app](https://play.google.com/store/apps/details?id=fr.free.nrw.commons) is an open source Android app that allows anyone to upload pictures to Wikimedia Commons (the image repository used by Wikipedia, Wikinews and other projects).
 
@@ -41,8 +43,8 @@ Thank you for your interest! In the candidate selection phase of GSoC, we ask yo
 8. (_Optionally, you can fix more bugs, and add them to your proposal_)
 9. (_Optionally, after 5 bugfixes, you can also work on enhancements, and add them to your proposal. Please stay aware that quality is better than quantity, though._)
 
+<!--
 # Task ideas
-
 Here is the recommended idea this year:
 -  [Improve the app using AI and especially embedded LLMs](https://phabricator.wikimedia.org/T383961)
 
@@ -51,6 +53,7 @@ If you really want to work on a different task, it can be considered. It can be 
 - Nearby improvements: show class icons, freedom of panorama info, point in time/etc, OSM.
 - If you have another idea, please post it as a new issue on our GitHub and mention you are considering it for GSoC, so that we can provide feedback.
 - You can even apply with two proposals: the proposal you imagined + the suggested proposal.
+-->
 
 # How we choose the GSoC applicant
 
