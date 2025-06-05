@@ -19,7 +19,7 @@ Commons uses many elaborate terms. Before inventing your own translation for a t
 For instance, to translate "depicts", go to https://commons.wikimedia.org/wiki/Commons:Depicts and choose your language in the top banner (which says "_Other languages_"). If you can not find any translation, please do not hesitate to ask at the [Commons village pump](https://commons.wikimedia.org/wiki/Commons:Village_pump).
 
 ## How to add new languages
-If your language is not available, please crate a new Github issue asking for it, and we will add it as soon as possible. Thanks!
+If your language is not available, please crate a new GitHub issue asking for it, and we will add it as soon as possible. Thanks!
 
 # Internals
 
@@ -28,7 +28,7 @@ The translations from the translatewiki project are [periodically committed dire
 
 Translatewiki is configured to export a certain list of languages to a certain file in this repo. 
 
-This is defined in their [Git repository](https://phabricator.wikimedia.org/diffusion/GTWN/repository/master/) ([Github mirror](https://github.com/wikimedia/translatewiki/)) in [this yaml file](https://phabricator.wikimedia.org/diffusion/GTWN/browse/master/groups/Wikimedia/CommonsAndroid.yaml) ([copy at the Github mirror](https://github.com/wikimedia/translatewiki/blob/master/groups/Wikimedia/CommonsAndroid.yaml)). This file also describes what files contain the original strings in English, adding a new string to one of these files will automatically add it to the list of strings to translate.
+This is defined in their [Git repository](https://phabricator.wikimedia.org/diffusion/GTWN/repository/master/) ([GitHub mirror](https://github.com/wikimedia/translatewiki/)) in [this yaml file](https://phabricator.wikimedia.org/diffusion/GTWN/browse/master/groups/Wikimedia/CommonsAndroid.yaml) ([copy at the GitHub mirror](https://github.com/wikimedia/translatewiki/blob/master/groups/Wikimedia/CommonsAndroid.yaml)). This file also describes what files contain the original strings in English, adding a new string to one of these files will automatically add it to the list of strings to translate.
 
 ## Developers: How to add a new string
 
