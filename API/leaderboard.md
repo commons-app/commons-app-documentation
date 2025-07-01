@@ -1,125 +1,130 @@
-# Leaderboard API
+# Wikimedia Commons Android App Leaderboard API
 
-This API is used to fetch leaderboard list and add a new user to leaderboard if does not exists.
+This API retrieves the leaderboard for the Wikimedia Commons Android App and allows adding a new user to the leaderboard if they do not already exist.
 
 ## Base URL
-`https://tools.wmflabs.org/commons-android-app/tool-commons-android-app`
-
+[https://tools.wmflabs.org/commons-android-app/tool-commons-android-app](https://tools.wmflabs.org/commons-android-app/tool-commons-android-app)
 ## Endpoint
 `/leaderboard.py`
 
-## Request Type
+## Request Method
 `GET`
 
-## Response Type
+## Response Format
 `JSON`
 
 ## Required Parameters
+The following parameters must be included in every request:
 
-- **user** - This is username of the user, for example **Syced** (if username has **whitespaces** then replace them with `_` )
+| Parameter  | Description                                                                 | Valid Values                     |
+|------------|-----------------------------------------------------------------------------|----------------------------------|
+| `user`     | The username of the user. Replace any spaces in the username with underscores (`_`). | Example: `Syced`                 |
+| `duration` | The time period for the leaderboard data.                                   | `all_time`, `weekly`, `yearly`   |
+| `category` | The type of contribution to rank.                                           | `upload`, `used`, `nearby`       |
 
-- **duration** - Can be **all_time** or **weekly** or **yearly**
+**Note**: If the specified `user` is not already on the leaderboard, they will be added during the first request. This process may cause a slight delay in the response.
 
-- **category** - Can be **upload** or **used** or **nearby**
+## Optional Parameters
+The following parameters are optional and can be included as needed:
 
-Note: If username is not already added to leaderboard then it would be added in the first request and this request may take extra time to generate response.
+| Parameter  | Description                                                                 | Default Value                                                                 |
+|------------|-----------------------------------------------------------------------------|-------------------------------------------------------------------------------|
+| `avatar`   | A custom image URL for the user’s avatar. Only used when adding a new user to the leaderboard. | [https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gnome-stock_person.svg/200px-Gnome-stock_person.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gnome-stock_person.svg/200px-Gnome-stock_person.svg.png) |
+| `limit`    | The maximum number of leaderboard entries to return. Must be used with `offset`. | None                                                                          |
+| `offset`   | The starting point for the leaderboard entries. Must be used with `limit`.   | None                                                                          |
 
-## Optional Paramaters
-
-- **avatar** - This should be only used if a new user needs to be added to the leaderboard and wants a custom avatar, should be complete Image URL for example `https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gnome-stock_person.svg/200px-Gnome-stock_person.svg.png` If no **avatar** is supplied then default one would be used i.e. **https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gnome-stock_person.svg/200px-Gnome-stock_person.svg.png**
-
-- **limit** - This is the limit for the number of results and should be passed along with offset, for example **5**
-
-- **offset** - This is the offset for the results and should be passed along with limit, for example **1**
+**Example Avatar URL**: [https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gnome-stock_person.svg/200px-Gnome-stock_person.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gnome-stock_person.svg/200px-Gnome-stock_person.svg.png)
 
 ## Example Request
-
-```
+```bash
 curl --location --request GET 'https://tools.wmflabs.org/commons-android-app/tool-commons-android-app/leaderboard.py?user=Syced&duration=all_time&category=used'
 ```
 
 ## Example Response
-
-```
+```bash
 {
-    "status": 200,
-    "username": "Syced",
-    "category_count": 462,
-    "limit": null,
-    "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gnome-stock_person.svg/200px-Gnome-stock_person.svg.png",
-    "offset": null,
-    "duration": "all_time",
-    "leaderboard_list": [
-        {
-            "username": "Fæ",
-            "category_count": 107147,
-            "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gnome-stock_person.svg/200px-Gnome-stock_person.svg.png",
-            "rank": 1
-        },
-        {
-            "username": "JAn Dudík",
-            "category_count": 912,
-            "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gnome-stock_person.svg/200px-Gnome-stock_person.svg.png",
-            "rank": 2
-        },
-        {
-            "username": "Vojtěch Dostál",
-            "category_count": 749,
-            "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gnome-stock_person.svg/200px-Gnome-stock_person.svg.png",
-            "rank": 3
-        },
-        {
-            "username": "Syced",
-            "category_count": 462,
-            "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gnome-stock_person.svg/200px-Gnome-stock_person.svg.png",
-            "rank": 4
-        },
-        {
-            "username": "Misaochan",
-            "category_count": 101,
-            "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gnome-stock_person.svg/200px-Gnome-stock_person.svg.png",
-            "rank": 5
-        },
-        {
-            "username": "Kookaburra 81",
-            "category_count": 41,
-            "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gnome-stock_person.svg/200px-Gnome-stock_person.svg.png",
-            "rank": 6
-        },
-        {
-            "username": "Madhurgupta10",
-            "category_count": 1,
-            "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gnome-stock_person.svg/200px-Gnome-stock_person.svg.png",
-            "rank": 7
-        },
-        {
-            "username": "Macgills2",
-            "category_count": 1,
-            "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gnome-stock_person.svg/200px-Gnome-stock_person.svg.png",
-            "rank": 8
-        }
-    ],
-    "category": "used",
-    "rank": 4
+  "status": 200,
+  "username": "Syced",
+  "category_count": 462,
+  "limit": null,
+  "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gnome-stock_person.svg/200px-Gnome-stock_person.svg.png",
+  "offset": null,
+  "duration": "all_time",
+  "leaderboard_list": [
+    {
+      "username": "Fæ",
+      "category_count": 107147,
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gnome-stock_person.svg/200px-Gnome-stock_person.svg.png",
+      "rank": 1
+    },
+    {
+      "username": "JAn_Dudík",
+      "category_count": 912,
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gnome-stock_person.svg/200px-Gnome-stock_person.svg.png",
+      "rank": 2
+    },
+    {
+      "username": "Vojtěch_Dostál",
+      "category_count": 749,
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gnome-stock_person.svg/200px-Gnome-stock_person.svg.png",
+      "rank": 3
+    },
+    {
+      "username": "Syced",
+      "category_count": 462,
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gnome-stock_person.svg/200px-Gnome-stock_person.svg.png",
+      "rank": 4
+    },
+    {
+      "username": "Misaochan",
+      "category_count": 101,
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gnome-stock_person.svg/200px-Gnome-stock_person.svg.png",
+      "rank": 5
+    },
+    {
+      "username": "Kookaburra_81",
+      "category_count": 41,
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gnome-stock_person.svg/200px-Gnome-stock_person.svg.png",
+      "rank": 6
+    },
+    {
+      "username": "Madhurgupta10",
+      "category_count": 1,
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gnome-stock_person.svg/200px-Gnome-stock_person.svg.png",
+      "rank": 7
+    },
+    {
+      "username": "Macgills2",
+      "category_count": 1,
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gnome-stock_person.svg/200px-Gnome-stock_person.svg.png",
+      "rank": 8
+    }
+  ],
+  "category": "used",
+  "rank": 4
 }
 ```
+## Error Responses
+The API may return the following error responses:
 
-## Example Error Responses
-
-**Missing Parameters**
-```
+### Missing Parameters
+```bash
 {
-    "status": "400",
-    "message": "Invalid Parameters",
-    "user": null
+  "status": 400,
+  "message": "Invalid Parameters",
+  "user": null
 }
 ```
-
-**Invalid Username**
-```
+### Invalid Username
+```bash
 {
-    "status": "500",
-    "message": "Internal Server Error",
-    "user": "asdasdad1a5sd1a61s5d1a"
+  "status": 500,
+  "message": "Internal Server Error",
+  "user": "asdasdad1a5sd1a61s5d1a"
 }
 ```
+## Notes
+- Ensure the `user` parameter replaces spaces with underscores (e.g., `John Doe` becomes `John_Doe`).
+- The `avatar` parameter is only applied when a new user is added to the leaderboard. If no avatar is provided, the default avatar URL is used.
+- Use the `limit` and `offset` parameters together to paginate leaderboard results.
+- For issues or questions, consult the Wikimedia Commons *Help desk* or *Village pump/Technical* at [https://commons.wikimedia.org](https://commons.wikimedia.org).
