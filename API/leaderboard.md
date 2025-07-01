@@ -18,7 +18,7 @@ The following parameters must be included in every request:
 
 | Parameter  | Description                                                                 | Valid Values                     |
 |------------|-----------------------------------------------------------------------------|----------------------------------|
-| `user`     | The username of the user. Replace any spaces in the username with underscores (`_`). | Example: `Syced`                 |
+| `user`     | The username of the user. | Example: `Syced`                 |
 | `duration` | The time period for the leaderboard data.                                   | `all_time`, `weekly`, `yearly`   |
 | `category` | The type of contribution to rank.                                           | `upload`, `used`, `nearby`       |
 
@@ -43,7 +43,7 @@ curl --location --request GET 'https://tools.wmflabs.org/commons-android-app/too
 ## Example Response
 ```bash
 {
-  "status": 200,
+  "status": "200",
   "username": "Syced",
   "category_count": 462,
   "limit": null,
@@ -123,8 +123,3 @@ The API may return the following error responses:
   "user": "asdasdad1a5sd1a61s5d1a"
 }
 ```
-## Notes
-- Ensure the `user` parameter replaces spaces with underscores (e.g., `John Doe` becomes `John_Doe`).
-- The `avatar` parameter is only applied when a new user is added to the leaderboard. If no avatar is provided, the default avatar URL is used.
-- Use the `limit` and `offset` parameters together to paginate leaderboard results.
-- For issues or questions, consult the Wikimedia Commons *Help desk* or *Village pump/Technical* at [https://commons.wikimedia.org](https://commons.wikimedia.org).
