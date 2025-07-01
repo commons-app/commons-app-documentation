@@ -110,7 +110,7 @@ The API may return the following error responses:
 ### Missing Parameters
 ```bash
 {
-  "status": 400,
+  "status": "400",
   "message": "Invalid Parameters",
   "user": null
 }
@@ -118,7 +118,7 @@ The API may return the following error responses:
 ### Invalid Username
 ```bash
 {
-  "status": 500,
+  "status": "500",
   "message": "Internal Server Error",
   "user": "asdasdad1a5sd1a61s5d1a"
 }
