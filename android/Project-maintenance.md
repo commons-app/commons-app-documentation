@@ -1,5 +1,10 @@
 # Project maintenance
 
+# Issues triage
+
+- If someone asks to be assigned to an issue, assign it to them if unassigned.
+- If the issue is urgent or someone else has expressed interest in working on it, and more than 1 week has passed, ask the assignee about their progress. If they do not reply within two days, explain that you may need to reassign if there is no response, and actually do it if no answer after two more days.
+
 # Pull requests and merging workflow
 
 See [Developer workflow](Developer-workflow.md)
