@@ -58,13 +58,13 @@ curl --location --request GET 'https://tools.wmflabs.org/commons-android-app/too
       "rank": 1
     },
     {
-      "username": "JAn_Dudík",
+      "username": "JAn Dudík",
       "category_count": 912,
       "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gnome-stock_person.svg/200px-Gnome-stock_person.svg.png",
       "rank": 2
     },
     {
-      "username": "Vojtěch_Dostál",
+      "username": "Vojtěch Dostál",
       "category_count": 749,
       "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gnome-stock_person.svg/200px-Gnome-stock_person.svg.png",
       "rank": 3
@@ -82,7 +82,7 @@ curl --location --request GET 'https://tools.wmflabs.org/commons-android-app/too
       "rank": 5
     },
     {
-      "username": "Kookaburra_81",
+      "username": "Kookaburra 81",
       "category_count": 41,
       "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gnome-stock_person.svg/200px-Gnome-stock_person.svg.png",
       "rank": 6
