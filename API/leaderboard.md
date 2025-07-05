@@ -41,9 +41,9 @@ curl --location --request GET 'https://tools.wmflabs.org/commons-android-app/too
 ```
 
 ## Example Response
-```bash
+```json
 {
-  "status": "200",
+  "status": 200,
   "username": "Syced",
   "category_count": 462,
   "limit": null,
