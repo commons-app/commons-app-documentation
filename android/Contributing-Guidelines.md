@@ -10,8 +10,8 @@ You **must**:
 - Add Javadocs to all new methods and classes that you create
 - Follow correct procedures if adding a new library (additions of new libraries must always be discussed and approved beforehand)
 - Escape HTML tags in strings
-- Write unit tests to cover your own code if you are submitting an enhancement (the issue that you are working on has an "enhancement" label)
-- Follow the [MVP architecture](https://github.com/commons-app/apps-android-commons/issues/888) if you are submitting a large enhancement (definitions of "large" vary according to context - if you are not sure whether this is needed for your code, ask beforehand)
+- Write unit tests to cover your own code if you are submitting an feature (the issue that you are working on has an "Feature" type)
+- Follow the [MVP architecture](https://github.com/commons-app/apps-android-commons/issues/888) if you are submitting a large feature (definitions of "large" vary according to context - if you are not sure whether this is needed for your code, ask beforehand)
 
 You should also:
 - Follow the [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
@@ -102,7 +102,7 @@ format, or this invocation of "git show":
 Read the importance of commit message in the [linked blog](https://blog.oozou.com/commit-messages-matter-60309983c227?gi=c550a10d0f67).
 ### Write tests for your code (if possible)
 
-When adding a new feature or submitting an enhancement, make sure that you have written unit tests to show
+When adding a new feature, make sure that you have written unit tests to show
 the feature triggers the new behavior when it should, and to show the
 feature does not trigger when it shouldn't. After any code change, make
 sure that the entire test suite passes.

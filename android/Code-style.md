@@ -34,11 +34,11 @@ In short, please discuss things with us before you submit a PR with a new librar
 
 ## Architecture
 
-Please follow the [MVP architecture](https://github.com/commons-app/apps-android-commons/issues/888) if you are submitting a large enhancement (definitions of "large" vary according to context - if you are not sure whether this is needed for your code, ask beforehand)
+Please follow the [MVP architecture](https://github.com/commons-app/apps-android-commons/issues/888) if you are submitting a large feature (definitions of "large" vary according to context - if you are not sure whether this is needed for your code, ask beforehand)
 
 ## Unit tests
 
-Please write unit tests to cover your own code if you are submitting an enhancement (i.e. the issue that you are working on has an "enhancement" label)
+Please write unit tests to cover your own code if you are submitting an feature (i.e. the issue that you are working on has an "feature" type)
 
 ## Logging
 

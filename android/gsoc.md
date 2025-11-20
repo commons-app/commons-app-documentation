@@ -41,7 +41,7 @@ Thank you for your interest! In the candidate selection phase of GSoC, we ask yo
     - Project Technologies: Android, Java, Kotlin, SQL
     - Project Topics: UI, UX, database
 8. (_Optionally, you can fix more bugs, and add them to your proposal_)
-9. (_Optionally, after 5 bugfixes, you can also work on enhancements, and add them to your proposal. Please stay aware that quality is better than quantity, though._)
+9. (_Optionally, after 5 bugfixes, you can also work on festures, and add them to your proposal. Please stay aware that quality is better than quantity, though._)
 
 <!--
 # Task ideas
