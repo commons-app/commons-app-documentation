@@ -61,7 +61,7 @@ We also have a [LinkedIn page](https://www.linkedin.com/company/wikimedia-common
 
 - Every major release (e.g. 2.6) should be pulled from main and a new branch created (e.g. `2.6.x-release`)
 - Hotfixes to the major release must be done in the `2.6.x-release` branch, not in main
-- Hotfix releases (e.g. 2.6.1) will be pulled from the `2.6.x-release` branch. New changes/enhancements to main will not be included in the hotfix release
+- Hotfix releases (e.g. 2.6.1) will be pulled from the `2.6.x-release` branch. New changes/features to main will not be included in the hotfix release
 - Release branches will be merged into main periodically (so main is up to date with hotfixes made to release branches)
 - Hotfixes can be released to production after being tested in beta for a few days. Major releases on the other hand should be tested in beta for a much longer time (e.g. 2 weeks?)
 
