@@ -38,7 +38,7 @@ Please follow the [MVP architecture](https://github.com/commons-app/apps-android
 
 ## Unit tests
 
-Please write unit tests to cover your own code if you are submitting an Feature (i.e. the issue that you are working on has an "Feature" type)
+Please write unit tests to cover your own code if you are submitting a feature (i.e. the issue that you are working on has a "Feature" type)
 
 ## Logging
 

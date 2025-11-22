@@ -10,7 +10,7 @@ You **must**:
 - Add Javadocs to all new methods and classes that you create
 - Follow correct procedures if adding a new library (additions of new libraries must always be discussed and approved beforehand)
 - Escape HTML tags in strings
-- Write unit tests to cover your own code if you are submitting an feature (the issue that you are working on has an "Feature" type)
+- Write unit tests to cover your own code if you are submitting a feature (the issue that you are working on has a "Feature" type)
 - Follow the [MVP architecture](https://github.com/commons-app/apps-android-commons/issues/888) if you are submitting a large feature (definitions of "large" vary according to context - if you are not sure whether this is needed for your code, ask beforehand)
 
 You should also:
