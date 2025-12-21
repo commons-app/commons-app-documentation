@@ -3,7 +3,7 @@
 We are always looking for volunteers, feel free to step in! It's very easy to get started - have a look at the roles that you fancy below. Thanks a lot!
 
 > [!NOTE]
-> In general, please adhere to the [AI Usage Guidelines](AI-Usage-Guidelines.md)
+> In general, please adhere to the [AI Usage Guidelines](AI-Usage-Guidelines.md).
 
 # Developers
 
@@ -11,7 +11,6 @@ We are always looking for volunteers, feel free to step in! It's very easy to ge
 2. Choose an [unassigned bug](https://github.com/commons-app/apps-android-commons/issues?q=is%3Aissue%20state%3Aopen%20type%3ABug%20no%3Aassignee%20-label%3A%22low%20priority%22%20-label%3Adebated%20-label%3Aupstream) that sounds interesting to you, and ask to be assigned the issue. If the issue was assigned to someone who has been inactive for over 1 month, you can bring this to the attention of collaborators who may ping them for updates and possibly re-assign the issue to you.
     - If you are a new contributor, please only ask to be assigned to issues with a "Bug" type or "good first issue" label. Issues of type "Feature" will usually only be assigned to contributors with **more than 5 merged pull requests** to this repo. Exceptions may be granted if multiple collaborators agree, but it will take time for approval. ([rationale](https://github.com/commons-app/apps-android-commons/issues/2553))
 4. Follow the [Contributing Guidelines](Contributing-Guidelines.md).
-5. Adhere to the [AI Usage Guidelines](AI-Usage-Guidelines.md).
 
 It is also recommended that you actually try the app and upload pictures with the app. Become familiar with the various workflows. Notice what kind of categories are suggested depending on where the picture is taken or what you type. Check what people consider [excellent pictures](https://commons.wikimedia.org/wiki/Commons:Featured_pictures) and get inspired by their rich descriptions and accurate categories.
 
