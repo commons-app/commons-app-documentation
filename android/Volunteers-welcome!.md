@@ -2,6 +2,9 @@
 
 We are always looking for volunteers, feel free to step in! It's very easy to get started - have a look at the roles that you fancy below. Thanks a lot!
 
+> [!NOTE]
+> In general, please adhere to the [AI Usage Guidelines](AI-Usage-Guidelines.md).
+
 # Developers
 
 1. Set up your working environment by following the [quick start guide](Quick-start-guide-for-Developers.md).
