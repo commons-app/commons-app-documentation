@@ -1,8 +1,6 @@
 # Introduction
 
-(note: please read "Outreachy" instead of "GSoC" if applicable)
-
-<!--[GSoC](https://summerofcode.withgoogle.com) is a coding program organized by Google.-->
+[GSoC](https://summerofcode.withgoogle.com) is a coding program organized by Google.
 
 The [Commons app](https://play.google.com/store/apps/details?id=fr.free.nrw.commons) is an open source Android app that allows anyone to upload pictures to Wikimedia Commons (the image repository used by Wikipedia, Wikinews and other projects).
 
