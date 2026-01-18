@@ -36,22 +36,22 @@ Thank you for your interest! In the candidate selection phase of GSoC, we ask yo
 6. Post an email to the mailing list (commons-app-android@googlegroups.com) with a link to your Phabricator proposal, and ask for early feedback about it. We will gladly tell you how your proposal can be improved.
 7. Also create the proposal on the [GSoC website](https://summerofcode.withgoogle.com). Most content can be copied from Phabricator. You will have to fill in these fields (feel free to adapt if necessary):
     - Project size: Large
-    - Project Technologies: Android, Java, Kotlin, SQL
-    - Project Topics: UI, UX, database
+    - Project Technologies: Android, Kotlin, AI
+    - Project Topics: AI, UX
 8. (_Optionally, you can fix more bugs, and add them to your proposal_)
 9. (_Optionally, after 5 bugfixes, you can also work on features, and add them to your proposal. Please stay aware that quality is better than quantity, though._)
 
-<!--
+
 # Task ideas
 Here is the recommended idea this year:
--  [Improve the app using AI and especially embedded LLMs](https://phabricator.wikimedia.org/T383961)
+-  [Improve Commons Android app using privacy-friendly edge AI](https://phabricator.wikimedia.org/T383961)
 
 If you really want to work on a different task, it can be considered. It can be hard to estimate difficulty, so we have selected a few ideas that we think are not too simple, not too difficult:
 - [Losslessly transform picture (crop/etc) within the app](https://github.com/commons-app/apps-android-commons/issues/1192).
-- Nearby improvements: show class icons, freedom of panorama info, point in time/etc, OSM.
+<!-- - Nearby improvements: show class icons, freedom of panorama info, point in time/etc, OSM. -->
 - If you have another idea, please post it as a new issue on our GitHub and mention you are considering it for GSoC, so that we can provide feedback.
 - You can even apply with two proposals: the proposal you imagined + the suggested proposal.
--->
+
 
 # How we choose the GSoC applicant
 
