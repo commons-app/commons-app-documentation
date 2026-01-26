@@ -43,7 +43,7 @@ Thank you for your interest! In the candidate selection phase of GSoC, we ask yo
 
 
 # Task ideas
-Here is the recommended idea this year:
+Here are the recommended ideas this year:
 - [Losslessly transform picture (crop/etc) within the app](https://github.com/commons-app/apps-android-commons/issues/1192).
 - App modularization + Jetpack Compose: https://github.com/commons-app/apps-android-commons/issues/6628, https://github.com/commons-app/apps-android-commons/issues/6626?issue=commons-app%7Capps-android-commons%7C6629
 
