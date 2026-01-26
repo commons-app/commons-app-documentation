@@ -44,10 +44,12 @@ Thank you for your interest! In the candidate selection phase of GSoC, we ask yo
 
 # Task ideas
 Here is the recommended idea this year:
--  [Improve Commons Android app using privacy-friendly edge AI](https://phabricator.wikimedia.org/T383961)
+- [Losslessly transform picture (crop/etc) within the app](https://github.com/commons-app/apps-android-commons/issues/1192).
+- App modularization + Jetpack Compose: https://github.com/commons-app/apps-android-commons/issues/6628, https://github.com/commons-app/apps-android-commons/issues/6626?issue=commons-app%7Capps-android-commons%7C6629
 
 If you really want to work on a different task, it can be considered. It can be hard to estimate difficulty, so we have selected a few ideas that we think are not too simple, not too difficult:
-- [Losslessly transform picture (crop/etc) within the app](https://github.com/commons-app/apps-android-commons/issues/1192).
+- [Showing the Wikimedia Commons Home page](https://github.com/commons-app/apps-android-commons/issues/5772).
+- [An 'Explore' home page similar to the desktop Main landing-page](https://github.com/commons-app/apps-android-commons/issues/5624).
 <!-- - Nearby improvements: show class icons, freedom of panorama info, point in time/etc, OSM. -->
 - If you have another idea, please post it as a new issue on our GitHub and mention you are considering it for GSoC, so that we can provide feedback.
 - You can even apply with two proposals: the proposal you imagined + the suggested proposal.
@@ -57,7 +59,7 @@ If you really want to work on a different task, it can be considered. It can be 
 
 We choose the GSoC applicant based on (from the most important):
 - Technical challengingness of merged bugfix(es).
-- Quality of code (absence of bugs, good self-testing, use of Java & Android conventions).
+- Quality of code (absence of bugs, good self-testing, use of Kotlin & Android conventions).
 - Efficiency and smoothness of interactions on GitHub.
 - Ability to read documentation and find solutions independently.
 - Quality of the proposal, if different from the suggested proposal (clear, convincing strategy and timeline, reasonably ambitious).
