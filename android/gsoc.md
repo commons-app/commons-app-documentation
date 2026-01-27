@@ -44,8 +44,8 @@ Thank you for your interest! In the candidate selection phase of GSoC, we ask yo
 
 # Task ideas
 Here are the recommended ideas this year:
-- [Losslessly transform picture (crop/etc) within the app](https://github.com/commons-app/apps-android-commons/issues/1192).
-- App modularization + Jetpack Compose: https://github.com/commons-app/apps-android-commons/issues/6628, https://github.com/commons-app/apps-android-commons/issues/6626?issue=commons-app%7Capps-android-commons%7C6629
+- [Losslessly transform picture (crop/etc) within the app](https://github.com/commons-app/apps-android-commons/issues/1192). [Phabricator](https://phabricator.wikimedia.org/T415446)
+- App modularization + Jetpack Compose: https://github.com/commons-app/apps-android-commons/issues/6628, https://github.com/commons-app/apps-android-commons/issues/6626?issue=commons-app%7Capps-android-commons%7C6629. [Phabricator](https://phabricator.wikimedia.org/T415272)
 
 If you really want to work on a different task, it can be considered. It can be hard to estimate difficulty, so we have selected a few ideas that we think are not too simple, not too difficult:
 - [Showing the Wikimedia Commons Home page](https://github.com/commons-app/apps-android-commons/issues/5772).
