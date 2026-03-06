@@ -21,7 +21,7 @@ Thank you for your interest! In the candidate selection phase of GSoC, we ask yo
         - Say whether the issue was solved after merging the pull request or not.
         - Optionally, explain how the source code change could be improved.
 4. Choose a task idea (see section below).
-5. Create a proposal on Phabricator by following the instructions under ["Submit your proposal as a task on Wikimedia Phabricator"](https://www.mediawiki.org/wiki/Google_Summer_of_Code/Participants#Application_process_steps). You can edit your Phabricator task afterwards, so do not hesitate to first create a draft and then improve it little by little. Examples from previous years: [1](https://phabricator.wikimedia.org/T279266) [2](https://phabricator.wikimedia.org/T248341) [3](https://phabricator.wikimedia.org/T304044). It must include:
+5. Create a proposal on Phabricator by following the instructions under ["Submit your proposal as a task on Wikimedia Phabricator"](https://www.mediawiki.org/wiki/Google_Summer_of_Code/Participants#Application_process_steps). You can copy/paste from the Phabricator tickets we created for each recommended idea (linked below), no need to spend much time making the task descriptions unique. We select candidates based on skills, and proposal quality has never been a differentiating factor. We encourage you to create a proposal for each of the recommended ideas below, to increase your chances and our flexibility. You can edit your Phabricator task(s) afterwards, so do not hesitate to first create a draft and then improve it little by little. Examples from previous years: [1](https://phabricator.wikimedia.org/T279266) [2](https://phabricator.wikimedia.org/T248341) [3](https://phabricator.wikimedia.org/T304044). It must include:
     - Link to your bugfix. If you have fixed several bugs, please write the bugfix you are most proud of at the top of the list.
     - Link to the pull request review you have performed (optional).
     - Your relevant skills.
@@ -44,8 +44,8 @@ Thank you for your interest! In the candidate selection phase of GSoC, we ask yo
 
 # Task ideas
 Here are the recommended ideas this year:
-- [Losslessly transform picture (crop/etc) within the app](https://github.com/commons-app/apps-android-commons/issues/1192). [Phabricator](https://phabricator.wikimedia.org/T415446)
-- App modularization + Jetpack Compose: https://github.com/commons-app/apps-android-commons/issues/6628, https://github.com/commons-app/apps-android-commons/issues/6626?issue=commons-app%7Capps-android-commons%7C6629. [Phabricator](https://phabricator.wikimedia.org/T415272)
+- https://phabricator.wikimedia.org/T415446 : Losslessly transform picture (crop/etc) within the app.
+- https://phabricator.wikimedia.org/T415272 : App modularization + Jetpack Compose.
 
 If you really want to work on a different task, it can be considered. It can be hard to estimate difficulty, so we have selected a few ideas that we think are not too simple, not too difficult:
 - [Showing the Wikimedia Commons Home page](https://github.com/commons-app/apps-android-commons/issues/5772).
