@@ -42,7 +42,8 @@ Thank you for your interest! In the candidate selection phase of GSoC, we ask yo
 9. (_Optionally, after 5 bugfixes, you can also work on features, and add them to your proposal. Please stay aware that quality is better than quantity, though._)
 
 
-# Task ideas
+<!--# Task ideas
+
 Here are the recommended ideas this year:
 - https://phabricator.wikimedia.org/T415446 : Losslessly transform picture (crop/etc) within the app.
 - https://phabricator.wikimedia.org/T415272 : App modularization + Jetpack Compose.
@@ -51,9 +52,9 @@ If you really want to work on a different task, it can be considered. It can be 
 - [Showing the Wikimedia Commons Home page](https://github.com/commons-app/apps-android-commons/issues/5772).
 - [An 'Explore' home page similar to the desktop Main landing-page](https://github.com/commons-app/apps-android-commons/issues/5624).
 <!-- - Nearby improvements: show class icons, freedom of panorama info, point in time/etc, OSM. -->
-- If you have another idea, please post it as a new issue on our GitHub and mention you are considering it for GSoC, so that we can provide feedback.
+<!--- If you have another idea, please post it as a new issue on our GitHub and mention you are considering it for GSoC, so that we can provide feedback.
 - You can even apply with two proposals: the proposal you imagined + the suggested proposal.
-
+-->
 
 # How we choose the GSoC applicant
 
