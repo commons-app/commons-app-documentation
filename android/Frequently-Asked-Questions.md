@@ -17,6 +17,10 @@
 
 > Any freely licensed media file (images, sound, video, etc.) that is useful for any Wikimedia project can be uploaded. For acceptable file types, see Commons:File types. The licenses must allow for commercial use and the creation of derivative works.1 See also the copyright question for the required license conditions. If you are interested in uploading images, you may find it helpful to read Commons:Image casebook.
 
+**Which file types can I upload with the app?**
+
+> The Android app currently uploads images only; audio and video uploads are not supported by the app, even though Commons accepts some audio and video formats. See [Supported media types](Supported-media-types.md) for the image pickers and their limitations.
+
 **Can I upload text of which I am the author?**
 
 > Commons is about multimedia content (images, video, sound), not text. Text may, depending on form and content, fit into some other Wikimedia project, such as Wikibooks, Wikipedia, Wikisource, or Wikiversity. However, please note that you must not copy and paste text to these other projects unless you are willing to release it into the public domain or license it for use under the Creative Commons Attribution/Share-Alike (CC BY or CC BY-SA) licenses. For example, to use text from a website—even your own—that external website must exhibit a clear statement of such public domain release or CC BY-SA licensing.

@@ -23,7 +23,7 @@ The Wikimedia Commons app offers the following functionality:
         - Get directions (=> external app)
         - Commons Article (=> external browser)
         - Wikidata item ([See edits](https://quarry.wmflabs.org/query/29196))
-- Select Picture from Gallery
+- Select Picture from Gallery ([supported media types](Supported-media-types.md))
 - Select Picture from Camera
 - Set data for Picture
     - title + description (Text)

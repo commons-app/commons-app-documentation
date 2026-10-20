@@ -20,6 +20,7 @@ Documentation about the App itself, not the implementation:
   * [Tutorial for new users](Tutorial-for-new-users.md)
   * [Tutorial for reviewing content](Review-content-and-thank.md)
 * [App Functionality](App-functionality.md)
+* [Supported Media Types](Supported-media-types.md)
 * [Frequently Asked Questions](Frequently-Asked-Questions.md)
 
 ### 👩‍💻 Developer Documentation
