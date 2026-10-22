@@ -15,7 +15,7 @@ See [Developer workflow](Developer-workflow.md)
 
 Before proceeding to do the steps necessary for publishing a release, make sure you **build the `prodRelease` variant of the app** from the code you plan on using for the release. If that build works fine, you could proceed with the steps to release the version.
 
-This is particularly necessary if the change touches any model classes as ProGuard would kick in and trim them if [our rules]([url](https://github.com/commons-app/apps-android-commons/blob/main/app/proguard-rules.txt#L35-L41)) are not appropriate.
+This is particularly necessary if the change touches any model classes as ProGuard would kick in and trim them if [our rules](https://github.com/commons-app/apps-android-commons/blob/main/app/proguard-rules.txt#L35-L41) are not appropriate.
 
 ## Generate release build after verification
 
